@@ -1,10 +1,12 @@
 title: u know who 共享信息页
 nav:
+- name: 最近商务 
+  link: /
 - name: CM事件
-  link: /
+  link: /cm.md
 - name: 代言避雷和替代品推荐
-  link: /
+  link: /dy.md
 - name: 证据包合集
-  link: /   
+  link: /zj.md 
 theme: jekyll-theme-cayman
 
