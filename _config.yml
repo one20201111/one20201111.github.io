@@ -1,2 +1,10 @@
 title: u know who 共享信息页
+nav:
+- name: CM事件
+  link: /
+- name: 代言避雷和替代品推荐
+  link: /
+- name: 证据包合集
+  link: /   
 theme: jekyll-theme-cayman
+
