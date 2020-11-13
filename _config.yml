@@ -5,8 +5,8 @@ nav:
 - name: CM事件
   link: /cm.html
 - name: 代言避雷和替代品
-  link: /dy.md
+  link: /bilei.html
 - name: 证据包合集
-  link: /zj.md 
+  link: /zj.html 
 theme: jekyll-theme-cayman
 
