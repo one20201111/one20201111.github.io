@@ -1,3 +1,4 @@
+{% seo title=false %}
 # 证据包合集   
 
 {% include nav.html %}    

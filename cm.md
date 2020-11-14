@@ -1,3 +1,4 @@
+{% seo title=false %}
 {% include nav.html %}   
 
 ## 10.23更新

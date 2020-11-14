@@ -1,3 +1,4 @@
+{% seo title=false %}
 # 代言避雷👋和替代品推荐👍   
 {% include nav.html %}  
 
