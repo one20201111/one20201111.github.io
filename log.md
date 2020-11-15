@@ -1,6 +1,11 @@
 {% seo title=false %}
 {% include nav.html %}      
 
+### 10.31更新
+COSMO官网反华的微博录屏全被炸了，录屏的百度网盘下载：[COSMO网站tdgd录屏](https://pan.baidu.com/s/1VHYXHjq4gKxoSb5I_4MF6Q) 提取码：1v04     
+建议下载后尝试上传到其他视频平台，看能不能过审     
+
+
 ### 10.30更新 
 1. #cosmo杂志反华# 录屏存证 转发扩散：[微博1](https://m.weibo.cn/status/4565822179902065?) [微博2](https://m.weibo.cn/status/4565674212985009?)   [投诉COSMOS渠道](https://m.weibo.cn/6597718943/4565693000065423)  [回应情况和新思路(见转发区)](https://m.weibo.cn/status/4565736649919724)      
 反映时提供信息： 主办单位：《时尚》杂志社， 国际刊号：1005-1988， 国内刊号：11-3327/GO    
