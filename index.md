@@ -5,9 +5,11 @@
 ## 11.18更新  
 1. 芒果台上了[《爱的厘米》](https://m.weibo.cn/status/4571914053353552?)，🐟生到期再送审，《斗罗》优先级提高, 补充了新的反映方式和思路 
 2. 来自[@朱红院](https://m.weibo.cn/status/4572168312071084) 等营销号爆料，🥔将出演《朱颜》，12.22开机，增加了选角建议等渠道 [下拉传送门](#朱颜网传1222开机)   
-3. 网传ROSEONLY代言没续约 (from [b站动态 @午夜南瓜](https://space.bilibili.com/16876835/dynamic))  
-   *除了🐄其他都没有续约意向* (from [@大Richer](https://m.weibo.cn/status/4561495746680789))  
-4.《大决战》的yangshi资源定了 (from [@振金风车](https://m.weibo.cn/status/4572724149625740))，下拉自取    
+3. 网传ROSEONLY代言没续约 (from [b站动态 @午夜南瓜](https://space.bilibili.com/16876835/dynamic))     
+ *除了🐄其他都没有续约意向* (from [@大Richer](https://m.weibo.cn/status/4561495746680789))      
+ 
+4. 《大决战》的yangshi资源定了 (from [@振金风车](https://m.weibo.cn/status/4572724149625740))，下拉自取    
+   
 
 ### 11.16更新
 
