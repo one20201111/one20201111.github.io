@@ -120,7 +120,7 @@ from[@或许问心脏](https://b23.tv/VKW8R8)大家可以去TX视频里面找找
 工-信部投诉：[https://ts.isc.org.cn/#/complaint/default](https://ts.isc.org.cn/#/complaint/default)  
 wxb投诉： [12377.cn](12377.cn)   
 
-### 五、备用渠道 (有余力可用）  
+### 五、备用渠道 (有余力可反映）  
 
 from[@或许问心脏](https://b23.tv/VKW8R8):    
 
