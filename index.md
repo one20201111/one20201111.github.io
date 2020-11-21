@@ -56,9 +56,6 @@ from [@大Richer](https://m.weibo.cn/6722781658/4570764076388063)： 余生一�
 多平台全集网播，首先有\*\*就不看，不给播放量。不要在线看盗版，也会贡献播放量。      
 
 ### 一、打call      
-**广电总局网络视听节目管理司：010-86096124** (网播反映渠道）     
-**广电总局-节目监督：010-86091111**    
-[官网观众留言nrta.gov.cn/jact/front/front_mailwrite.action?sysid=1](http://www.nrta.gov.cn/jact/front/front_mailwrite.action?sysid=1)    
 ### 【新增】浙江广电审片疑似舞弊     
 **1. JW网站**
 入口 [http://zhejiang.12388.gov.cn/pzjg/swxcb/](http://zhejiang.12388.gov.cn/pzjg/swxcb/)   
@@ -70,6 +67,10 @@ from [@大Richer](https://m.weibo.cn/6722781658/4570764076388063)： 余生一�
 电话：**0571-88057878**    
 邮政信箱：浙江省杭州市A136号邮政信箱       
 时间8：00 - 18：00，截止2020年12月15日      
+
+**广电总局网络视听节目管理司：010-86096124** (网播反映渠道）     
+**广电总局-节目监督：010-86091111**    
+[官网观众留言nrta.gov.cn/jact/front/front_mailwrite.action?sysid=1](http://www.nrta.gov.cn/jact/front/front_mailwrite.action?sysid=1)    
 
 **剧本身存在的问题参考：**   
 1. 历史虚无主义（可以家长身份说），狼殿下剧情架空历史（五代十国史），与当时历史事实不符合，美化了“乱世”（就像美化民国一样），如果青少年看了，会影响它们正常的历史观，不适合公开播出。
