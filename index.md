@@ -61,7 +61,7 @@ from [@大Richer](https://m.weibo.cn/6722781658/4570764076388063)： 余生一�
 入口 [http://zhejiang.12388.gov.cn/pzjg/swxcb/](http://zhejiang.12388.gov.cn/pzjg/swxcb/)   
 勾选 “我已阅读” > “署名“ > (驻省委宣传部纪检监察组) > 填表   
 流程参考：[点击这里评论区自取图](https://m.weibo.cn/2734622803/4574078554610083)        
-上传截图指路自取： [微博正文https://m.weibo.cn/status/4573772403183604](https://m.weibo.cn/status/4573772403183604) 可把微博也生成长图作为截图证据之一。  
+上传截图指路自取： [微博正文https://m.weibo.cn/status/4573772403183604](https://m.weibo.cn/status/4573772403183604) 可生成长图作为截图证据之一。  
 
 **2. 浙江XSZ**    
 电话：**0571-88057878**    
