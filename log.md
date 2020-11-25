@@ -34,15 +34,16 @@ COSMO官网反华的微博录屏全被炸了，录屏的百度网盘下载：[CO
 🌱惊悚篇：春晚邀请了🥔 [@藏肉散人的大号](https://m.weibo.cn/status/4564419155599787?)       
 
 ## 🥔上央视节目的投诉渠道
-1. 向ZJW网站投诉电视台    
-网址：[https://www.12388.gov.cn/html/index_form.html](https://www.12388.gov.cn/html/index_form.html)     
-**投诉流程参考**：[P1](https://hub.fastgit.org/iscai/XiaoZhan/blob/main/商务/我们的歌/zjw1.jpg)  [P2](https://hub.fastgit.org/iscai/XiaoZhan/blob/main/商务/我们的歌/zjw2.jpg)  [P3](https://hub.fastgit.org/iscai/XiaoZhan/blob/main/商务/我们的歌/zjw3.jpg) （点开图片自存）  
 
-2. 央视投诉电话 **010-86091111**  (来自微博网友 @最终幻想2022 ： 我已投诉央视3套晚会用劣迹艺人肖战）     
+1. 央视投诉电话 **010-86091111**  (来自微博网友 @最终幻想2022 ： 我已投诉央视3套晚会用劣迹艺人肖战）     
 最新回应情况交流： [微博评论区](https://m.weibo.cn/status/4564026170806445?)    
 
-3. 央视网反馈渠道  [http://help.cctv.com/2020/03/11/ARTI2EZRxlz2vUYrpi2B86VV200311.shtml]  (http://help.cctv.com/2020/03/11/ARTI2EZRxlz2vUYrpi2B86VV200311.shtml)    
-（来自微博 [@割割在无娘宇宙里美的像只鸡](https://m.weibo.cn/status/4564020608119638?)）  
+2. 央视网帮助中心的留言反馈  [http://help.cctv.com/2020/03/11/ARTI2EZRxlz2vUYrpi2B86VV200311.shtml](http://help.cctv.com/2020/03/11/ARTI2EZRxlz2vUYrpi2B86VV200311.shtml)    
+（来自微博 [@割割在无娘宇宙里美的像只鸡](https://m.weibo.cn/status/4564020608119638?)）     
+
+3. 向ZJW网站投诉电视台    
+网址：[https://www.12388.gov.cn/html/index_form.html](https://www.12388.gov.cn/html/index_form.html)     
+**投诉流程参考**：（点开图片自存）   
 
 
 ### 10.24更新   
