@@ -369,7 +369,7 @@ from [@巧克力蒙布朗](https://m.weibo.cn/2734622803/4574565994338531) ：�
 
 **11.24更新的发声渠道：**    
 
-东北大学学生抵制\*\*出演《大决战》，反映后得到了学校的重视，目前正在收集意见向上反馈。大家也可以在各平台发声，向学校合理地表达同样的诉求：[#东北大学学生拒绝被\*\*代表#](https://m.weibo.cn/status/4574898469474728) 参考[@沧弦落尘 的微博](https://m.weibo.cn/status/4574898469474728)       
+东北大学学生抵制\*\*出演《大决战》，反映后得到了学校的重视，目前正在收集意见向上反馈。大家也可以在各平台发声，转发微博或发出原创向学校合理地表达同样的诉求：[#东北大学学生拒绝被\*\*代表#](https://m.weibo.cn/status/4574898469474728) 参考[@沧弦落尘 的微博](https://m.weibo.cn/status/4574898469474728)       
 
 
 以下渠道来自破站网友投稿：
@@ -387,7 +387,7 @@ from [@巧克力蒙布朗](https://m.weibo.cn/2734622803/4574565994338531) ：�
 
 **向ZJW网站投诉电视台**        
 网址：[https://www.12388.gov.cn/html/index_form.html](https://www.12388.gov.cn/html/index_form.html)  
-**投诉流程参考**：[P1](https://hub.fastgit.org/iscai/XiaoZhan/blob/main/商务/我们的歌/zjw1.jpg)  [P2](https://hub.fastgit.org/iscai/XiaoZhan/blob/main/商务/我们的歌/zjw2.jpg)  [P3](https://hub.fastgit.org/iscai/XiaoZhan/blob/main/商务/我们的歌/zjw3.jpg) （点开图片自存）如果打不开，在[微博评论区](https://m.weibo.cn/7442966704/4564159369053472)自取           
+**投诉流程参考**：[点这里](https://m.weibo.cn/7442966704/4564159369053472)          
 
 
 
