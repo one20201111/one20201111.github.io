@@ -16,8 +16,8 @@ ul {
 }
 
 li {
-	/* width: 320px;  */
-	/* height: 180px; */
+	 width: 320px;  
+	 height: 500px; 
 	list-style: none;
 	float: left;
 	margin: 10px;
