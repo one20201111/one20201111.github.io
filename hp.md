@@ -2,8 +2,6 @@
 # 花票教程   
 
 {% include nav.html %}    
-
-##        
  
 开花票 详细教程 [http://t.cn/A679Yd7V](http://t.cn/A679Yd7V)          
 【开花票11】鹅厂游戏大合集 [http://t.cn/A6qPUkYz](http://t.cn/A6qPUkYz)           
