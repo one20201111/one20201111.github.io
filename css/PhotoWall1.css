@@ -7,6 +7,10 @@ body {
 	background-color: #333;
 }
 
+h1 {
+ 	fill: rgb(251,251,251);
+}
+
 ul {
 	width: 1020px;
 	height: 2000px;
