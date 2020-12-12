@@ -1,5 +1,5 @@
 * {
-	margin: 0;
+	margin: 10px;
 	padding: 0;
 }
 
@@ -7,9 +7,6 @@ body {
 	background-color: #333;
 }
 
-h1 {
- 	fill: white; 
-}
 
 ul {
 	width: 1020px;
