@@ -35,6 +35,9 @@ li.p {
 	box-shadow: 0px 0px 10px white;
 }
 
+a {
+	color: white;   
+}
 img {
 	display: block; 
 	width: 100%;
