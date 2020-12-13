@@ -15,7 +15,13 @@ ul {
 	margin: 60px auto;
 	box-shadow: 0px 0px 10px #ccc;
 }
-
+li.zi {
+         width: 320px;  
+	 height: 20px; 
+	 list-style: none;
+	 color: white;
+	 float: left;
+}
 li.p {
 	 width: 320px;  
 	 height: 500px; 
