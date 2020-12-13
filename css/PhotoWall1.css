@@ -53,3 +53,11 @@ img:hover {
 	left: -40px;
 }
 
+
+.title{
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    display:block;
+
+}
