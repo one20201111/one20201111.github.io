@@ -20,7 +20,7 @@ li.zi {
 	 height: 20px; 
 	 list-style: none;
 	 float: left; 
-	 margin: 10px;
+	 margin: 20px;
 	 color: white;
 	/* x y 扩散程度 阴影颜色*/
 	box-shadow: 0px 0px 10px white;
@@ -53,7 +53,3 @@ img:hover {
 	left: -40px;
 }
 
-
-
-
-img:
