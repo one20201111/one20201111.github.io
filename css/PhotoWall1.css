@@ -54,6 +54,11 @@ img:hover {
 	left: -40px;
 }
 
+span {
+  display: block;
+  color: white;  
+}
+
 
 .title{
     position:absolute;
