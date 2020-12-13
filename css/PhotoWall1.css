@@ -19,8 +19,10 @@ li.zi {
          width: 320px;  
 	 height: 20px; 
 	 list-style: none;
-	 text-align:center;    
-	 fill: white;
+	 text-align:center;   
+	 float: left; 
+	 margin: 10px;
+	 color: white;
 }
 li.p {
 	 width: 320px;  
