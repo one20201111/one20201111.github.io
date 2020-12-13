@@ -23,6 +23,8 @@ li.zi {
 	 float: left; 
 	 margin: 10px;
 	 color: white;
+	/* x y 扩散程度 阴影颜色*/
+	box-shadow: 0px 0px 10px white;
 }
 li.p {
 	 width: 320px;  
