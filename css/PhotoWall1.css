@@ -14,18 +14,10 @@ ul {
 	border: white solid 5px;
 	margin: 60px auto;
 	box-shadow: 0px 0px 10px #ccc;
+	overflow: hidden; 
 }
-li.zi {
-         width: 320px;  
-	 height: 20px; 
-	 list-style: none;
-	 float: left; 
-	 margin: 20px;
-	 color: white;
-	/* x y 扩散程度 阴影颜色*/
-	box-shadow: 0px 0px 10px white;
-}
-li.p {
+
+li {
 	 width: 320px;  
 	 height: 500px; 
 	list-style: none;
