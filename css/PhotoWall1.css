@@ -54,8 +54,8 @@ img:hover {
 	left: -40px;
 }
 
-span {
-  display: block;
+div.span {
+  margin-right: 100px;
   color: white;  
 }
 
