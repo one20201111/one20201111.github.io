@@ -19,6 +19,7 @@ li.zi {
          width: 320px;  
 	 height: 20px; 
 	 list-style: none;
+	 text-align:center;    
 	 color: white;
 	 float: left;
 }
