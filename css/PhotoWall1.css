@@ -1,5 +1,5 @@
 * {
-	margin: 0;
+	margin: 5px;
 	padding: 0;
 }
 
@@ -21,6 +21,7 @@ li.zi {
 	 list-style: none;
 	 text-align:center;    
 	 float: left;
+	 fill: white;
 }
 li.p {
 	 width: 320px;  
