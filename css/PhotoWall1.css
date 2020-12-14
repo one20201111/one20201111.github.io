@@ -56,10 +56,24 @@ img:hover {
 
 div span {
   margin-left: 75px;
-  margin-right: 85px; 
+  margin-right: 75px; 
   font-size: 23px;
   color: white;  
 }
+
+span.long {
+  margin-left: 50px;
+  margin-right: 50px; 
+  font-size: 23px;
+  color: white;  
+}
+span.short {
+  margin-left: 120px;
+  margin-right: 75px; 
+  font-size: 23px;
+  color: white;  
+}
+
 
 
 .title{

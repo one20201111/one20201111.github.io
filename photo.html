@@ -6,6 +6,20 @@
 		<link rel="stylesheet" type="text/css" href="css/PhotoWall1.css"/>
 	</head>
 	<body>
+	<script>
+		var imgs = document.getElementsByTagName("img");
+		for (var i = 0; i < imgs.length; i++) {
+		  imgs[i].addEventListener("touchend",handleEnd,false);
+		}
+		function handleEnd() {
+			this.style.width = "100%";
+			this.style.height = "100%";
+		}
+
+	</script>
+
+
+
         &nbsp
         <div style="text-align:center;">
         <font size="26px" face="Verdana" color="white">图库</font>
@@ -20,8 +34,8 @@
 			</li>
 			<div>
 			<span>天猫双十一退货</span>
-			<span>哇哇哇妹掉粉</span>
-			<span>举报AO3复盘</span>
+			<span class="short">哇哇哇妹掉粉</span>
+			<span class="short">举报AO3复盘</span>
 			</div>
 			                     
 			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WjxRX.md.jpg" alt=“本人发起光点舞应援”></li>
@@ -30,7 +44,7 @@
 			<div>
 			<span>本人发起光点舞应援</span>
 			<span>教师天团事件</span>
-			<span>厦门教师两节课宣传肖战</span>
+			<span class="long">厦门教师两节课宣传肖战</span>
 			</div>
 
 			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLmpI.md.jpg" alt="拒绝管理粉丝"></li>
@@ -38,7 +52,7 @@
 			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WjvCq.md.jpg" alt="公祭日全网营销"></li>
 			<div>
 			<span>拒绝管理粉丝</span>
-			<span>禁言炸号钳制舆论</span>
+			<span class="short">禁言炸号钳制舆论</span>
 			<span>公祭日全网营销</span>
 			</div>
 			
