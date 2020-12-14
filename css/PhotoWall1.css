@@ -55,7 +55,9 @@ img:hover {
 }
 
 div span {
-  margin-right: 100px;
+  margin-left: 120px;
+  margin-right: 120px; 
+  font-size: 20px;
   color: white;  
 }
 
