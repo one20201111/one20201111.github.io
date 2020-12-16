@@ -152,9 +152,9 @@ email：bqjtjw@baicgroup.com.cn
 质量问题、处罚公告等负面新闻参考 [@金碟打牌化三清](https://m.weibo.cn/status/4582361935121410?) [@王师茹悼](https://m.weibo.cn/detail/4582391396172791#repost) [@目击证人Chris](https://m.weibo.cn/status/4582444709713822?) [@憨憨的阿星](https://m.weibo.cn/status/4582726865260313?)等微博。           
 把这些负面信息收集起来，用微博编辑图片功能加上醒目标注发出来，发的时候带上：       
 1.抵制\*\*上星光大赏tag        
-例如:  [\#反对肖战参加腾讯星光大赏\#](#) <img alt="[怒]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_nu-0ddf642bed.png" style="width:1em; height:1em;"> [\#抵制肖战上星光大赏\#]          
+例如:  [\#反对肖战参加腾讯星光大赏\#](#) <img alt="[怒]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_nu-0ddf642bed.png" style="width:1em; height:1em;"> [\#抵制肖战上星光大赏\#]()           
 2.现代、百事负面信息与tag         
-例如：[\#北京现代质量堪忧\#] [\#北京现代安全隐患\#] [\#北京现代因故障引发自燃\#]        
+例如：[\#北京现代质量堪忧\#](#)  [\#北京现代安全隐患\#](#)  [\#北京现代因故障引发自燃\#](#)     
 3.艾特官博 [@北京现代](https://weibo.com/u/2335953143) [@现代汽车集团](https://weibo.com/u/2004188153)  [@百事中国](https://weibo.com/pepsico)      
   
 ***
@@ -185,10 +185,10 @@ email：bqjtjw@baicgroup.com.cn
 举报电话：010-65155361（白天） 010-65159068（夜间和节假日）       
 电子邮箱：jubao@gdj.beijing.gov.cn       
 
-2.冬奥组委会(主办单位)  
-举报投诉邮箱：66681024@beijing2022.cn
-举报投诉电话：010-66681024
-办公地址：北京市石景山区石景山路68号
+2.冬奥组委会(主办单位)      
+举报投诉邮箱：66681024@beijing2022.cn         
+举报投诉电话：**010-66681024**                  
+办公地址：北京市石景山区石景山路68号         
 
 3.国家体育总局(主办单位)：010-87182113，87182442（宣传处）        
 4.JW网站举报台长 [beijing.12388.gov.cn](http://beijing.12388.gov.cn)                  
