@@ -24,7 +24,11 @@
 鹅厂不给花票 [http://t.cn/A6wkgreq](http://t.cn/A6wkgreq)            
   
 【合集】完整开花票 教程 [http://t.cn/A67p6ChD](http://t.cn/A67p6ChD)                      
-【收到后，去花票官网查询编号】              
+【收到后，去花票官网查询编号】   
+
+
+如果拒开纸质花票，可在税务总局官网检举违法行为：[hd.chinatax.gov.cn/jzxx/sswfxw.html](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)         
+举报咨询电话：（010）61986755               
  
 ***  
 
