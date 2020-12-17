@@ -6,8 +6,8 @@
 
 来源：[微博 @**事件受害者创作bot](https://m.weibo.cn/status/4559615717021182)       
 
-10.28 新增避雷品牌：回力  参考 [@金碟打牌化三清 的微博](https://m.weibo.cn/status/4565127972783179)      
-11.2 新增避雷品牌：思念食品  参考 [@金碟打牌化三清 的微博](https://m.weibo.cn/status/4566932932791812)     
+10.28 新增避雷品牌：回力  参考 [@金碟打牌酒中仙 的微博](https://m.weibo.cn/status/4565127972783179)      
+11.2 新增避雷品牌：思念食品  参考 [@金碟打牌酒中仙 的微博](https://m.weibo.cn/status/4566932932791812)     
 11.24新增赞助《狼》品牌：      
 [@趣多多的逗号](https://weibo.com/u/3273854232) [@亿滋中国](https://weibo.com/mdlzchina) 参考[@酒酿芝麻小圆子：”亿滋MDLZ”旗下饼干多次曝光有活虫](https://m.weibo.cn/status/4575141914478514?)    
 [@南孚](https://weibo.com/nanfuyouliliang) 参考[南孚“聚能环”虚假宣传](https://m.weibo.cn/status/4575630518391930?)    
