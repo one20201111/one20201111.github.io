@@ -1,11 +1,75 @@
 {% seo title=false %}
-# 唯品会等赞助了腾讯视频《演员请就位》     
-
+# 商务好消息列表    
 {% include nav.html %}    
 
-## 赞助商
+## 迪奥(Dior)         
+**重点**：🥔想通过奢牌盘活商务           
 
-唯品会、皇家美素佳儿、纽西之谜、百事可乐   
+### 中国区       
+1.**迪奥美妆**： **400 921 8833**  （周一至周日 10:00 — 22：00）              
+  **迪奥时装**： **400 122 6622**        
+2. 留言   
+美妆：[dior.cn/zh_cn/contact-parfum](https://www.dior.cn/zh_cn/contact-parfum)               
+时装：[dior.cn/zh_cn/contact-couture](https://www.dior.cn/zh_cn/contact-couture)               
+3. 邮箱 （发投诉邮件都不要用qq邮箱）       
+中国区：**ecservicechina@dior.com**           
+亚洲区：**ecservicechina@dior.com**             
+
+### 法国总部      
+1.Dior法国总部邮箱：**contactdioreu@dior.com**            
+2.珠宝事业部留言：[dior.com/fr_fr/contact-couture][https://www.dior.com/fr_fr/contact-couture]     
+  香水护肤品彩妆事业部留言 [dior.com/fr_fr/contact-parfum](https://www.dior.com/fr_fr/contact-parfum)        
+3.法国珠宝事业部电话：**+33（0）1 40 73 73 73**   香水护肤品彩妆事业部电话：**+33（0）1 49 53 88 88**       
+
+### 母公司     
+**(LVMH中国)路威酩轩香水化妆品（上海）有限公司**        
+服务电话：**021-60356088**（这个要转分机的，明天按个0找总机试试）        
+
+**英文写作指南**:  
+**法语模版参考**：[下拉传送门](#迪奥法语邮件模版) [点击查看原博](#https://m.weibo.cn/6984262573/4584960700712526)     
+
+### 反馈      
+[@黑土豆装白莲儿2](): *兔区发Dior相关被删很快*     
+[投稿反馈](#):*刚刚打了 dior的电话，做个反馈。dior客服说忽并非合作艺人“只是"穿了他们的衣服而已，也有很多人打电话投诉这件事(加大力度不要停!)*       
+[@清操厉冰雪jade](https://weibo.com/u/7505221325): *结合法语专业同学的意见，也可以直接用英语或者西班牙语提意见，人家总部不缺这点儿翻译。反而是语法人称错误之类容易丢掉印象分, 姐妹们用英语冲就vans了。法国人其实看不太上英语，但更看不上用错法语。*          
+[@alpha0w0](): *不懂法文就用英文，自己写比全盘照抄好，短时间大量相同内容的信件会被屏蔽的*         
+
+### 问候语参考 (思路适用于其他外国大牌) 
+
+**总结:** 
+1.迪奥作为一个有着一百多年历史的一线奢侈品大牌，选择和\*\*这样见不得人的艺人合作很掉价。以后一听迪奥是\*\*穿过
+的品牌，谁还会去买?              
+2.玛丽亚担任设计总监后一直在打女权牌，你们怎么可以邀请一个满口脏话侮辱女性的艺人?               
+3.我是迪奥的忠实消费者 (可以适当举例自己买过的产品) ，如果迪奥继续和\*\*扯上关系，我会忍痛割爱选择别的品牌。              
+**诉求:** 1.官博删除那条微博并且做出声明  2.不再和\*\*合作        
+
+### 品牌负面新闻参考        
+[@酒酿芝麻小圆子]()2019年校园宣讲会期间，一位女生当场指出迪奥官网地图问题，台湾与中国大陆/日本/韩国等国家并列；演讲所用材料里，中国地区也并未包含台湾领土。迪奥公关此后迅速删除了#迪奥台湾# tag，在舆论进一步发酵后，滑轨道歉（图123）。但此品牌官网至今未整改，台湾依旧作为单独的主体与其他亚太国家并列（图4）。此外，在该品牌的维基百科介绍里，曾公开肆意嘲讽08年汶川大地震的Sharon Stone，依旧是该品牌的代言人（图5），由其他代言人的信息可得出，该品牌至少在2019年更新过资料，不存在无更新无维护的情况（图6）
+   
+
+## TOD'S       
+电话：**400 0099 062** （周一到周五早上9点至晚上6点，节假日除外）            
+总部邮箱：ccontact-tods@todsgroup.com         
+中国区邮箱：tods-cn@store.italiantouch.com       
+
+## TIFFANY       
+电话： **400 921 3299** （周一至周日10:00-21:00）    
+邮箱：lynn.wu@tiffany.com（商事信息登记找到的，不知道有没有用）        
+官网留言：       
+中国：[tiffany.cn/customer-service](https://www.tiffany.cn/customer-service)           
+美国（总部）：[tiffany.com/customer-service](https://www.tiffany.com/customer-service)               
+
+## YSL（欧莱雅旗下）    
+电话：400-820-6362（周一至周五9:00-18:00）   
+留言：https://www.yslbeautycn.com/客服中心可以转人工客服          
+
+
+
+
+
+## 唯品会等赞助了腾讯视频《演员请就位》     
+
+**赞助商: 唯品会、皇家美素佳儿、纽西之谜、百事可乐**      
 
 ## 唯品会问题举报 
 ## 一、消防🧯  
@@ -253,7 +317,7 @@
 3.尽量不要用别人的说话模板打电话, 可以根据别人的经验自己组织语言          
            
 
-如果向国家jiguan举报:
+如果向国家机关举报:      
 
 1.一定不能只反馈问题 (因为这样还要看领导的意思) ,最好提出疑问求解,或者查阅相关法律法规咨询我们觉得有问题的点是否符合处罚条例.…… (咨询不犯fa)      
 2.大部分部门的接线员都没有执法权, 只能向上级反馈, 所以要提供准确的证据。              
@@ -266,7 +330,105 @@
 [来自 @青山成木 的微博](https://m.weibo.cn/7454243887/4578946522547539)    
     
 ***
-  
+
+
+## 迪奥法语邮件模版    
+Dior法国总部邮箱：contactdioreu@dior.com ​​​​       
+主题：La réclamation contre la coopération entre Dior Chine et XIAO Zhan, un star chinois qui discrimine les femmes.
+
+正文：
+Madame, Monsieur         
+
+Je souhaite, par la présente, vous faire part de ma réclamation contre la coopération entre Dior Chien et XIAO Zhan.             
+
+En effet, je suis un consommateur chinois et j'apprécie beaucoup la marque Dior et votre culture d'entreprise. J'ai également acheté pas mal de produits Dior. Récemment, Dior Chine a publié sur Weibo (Comme Twitter) plusieurs photos de XIAO Zhan, montrant la tendance de coopération avec lui. XIAO Zhan est un star chinois sans œuvres, qui ne respecte  pas les femmes et qui est boycotté par beaucoup de consommateurs chinois. Il n'a même pas obtenu de nouvelles coopérations commerciales depuis février (un grand événement méprisable d'Internet qui est fait par fans de XIAO Zhan entraîne à ce boycottage. ) De plus, XIAO Zhan a posté nombreux commentaires impolis de discrimination des femmes sur Weibo. Par exemple, il juge une fille comme un jouet sexuel, il appelle une actrice chinoise et indienne comme "femme noire indienne", etc. Maintenant, il y a de plus en plus de gens qui commencent à résister à toutes les activités de XIAO Zhan, à cause de ses commentaires discriminatoire, de sa conduite odieuse et de ses actes sans excuse et sans regret.   
+
+C'est pour cela que XIAO Zhan ne correspond pas du tout à l'image de Dior. En tant que           consommateur, j'insiste ma résistance contre la coopération de XIAO Zhan et Dior Chine.             
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.               
+
+Cordialement,         
+你的名字       
+
+***     
+## 英文应用写作101           
+来自bot的微博投稿           
+### 一、简短的问候语       
+如Dear sir or Madam, hope you well            
+### 二、明确的目的，也就是purpose （这个一定要放前面）            
+如: 我写mail是为了表达对你们的合作明星某某的不满意/为了抗议你们选了个不够格的代言者/确认贵方与种族歧视者进行商务合作的传言/要求你们撤去与造假流量明星的合作通告，等等。 (不要全堆上，挑一句就行，多了就没力度了)         
+
+I'm writing to express my dissatisfaction with your Co-star named XiaoZhan.          
+
+I'm writing to oppose to your choice of spokesperson who is not qualified.               
+
+I'm writing to confirm the rumors of one cooperation between  Dior/Tod‘s and a racist actor named XiaoZhan.          
+
+I'm writing to ask you to withdraw the cooperation notice with a fake star.              
+
+这一段是表达你的意愿，建议使用protest类的词汇，严重抗议、反对、要求、撤销等等，要带\*\*大名，他名字前加上racist或者unqualified，fake，dishonest等形容词。                      
+
+### 三、自我介绍         
+
+我是一名中国XX地区，XX岁，XX职业的消费者。我和家人曾经购买过贵品牌的XX产品，XX产品等。          
+这一部分建议如实填写，附件可贴上购买凭证，小票或者使用照片。增加邮件的多元化以及可信和度，使用过的产品最好具体到型号。
+
+### 四、抵制原因 (建议挑重点展开1-2条。如果都有思路，最好多发几封邮件，而不是堆在同一封里)                    
+
+1.这位叫做\*\*的艺人是个种族主义者racist和厌女者misogynist，曾经公开叫一位中印混血的女演员为“Indian N-Word Bitch”并且一直拒绝道次。那位混血女明星在采访中哭泣，肖战不道歉，却放任粉丝去辱骂她，称她是为了炒作。     
+                     
+2.这位演员非常不诚信，数次靠购买水军服务，造假播放量数据和投票 (vote投票造假在西方国家很敏感)，从而获得名不副实的荣誉，如最受喜爱的明星排名第一等荣誉，都有足够证据是虚假的成绩。                 
+
+3.这位演员做虚假公益，买通媒体做虚假吹嘘，还窃取其他公益团队的功劳作为自己的来吹嘘 (同上，这也是一种不诚实。不诚信在国外是很严重的一个点，以及造假是奢侈品牌很不想沾上的名词)。               
+ 
+4.洗脑未成年粉丝(如果想展开未成年这个线，建议使用under-age believers而不是用fans，如实叙述的同时选用偏宗教化的词语，性质一下子就不娱乐，而是很严肃了)，他利用教师的职务之便在课堂传教(do missionary work) 让学生成为他的粉丝(follower)，这种行为已经被教育部严厉批评取缔 (be officially banned)了。       
+      
+5.因为种种恶行，他已经被人们自发抵制，封杀一年没有活动。但我听说贵品牌在亚洲区/中国区的主管，出于他的个人喜好或不可说的利益，准备用品牌的名誉为他的复出背书 (endorse) ，对此深感忧虑。             
+
+### 五、再次提出反对诉求            
+因为以上原因，我反对贵品牌和这个明星有合作，这对身为消费者的我的权益也是一种损害。我不希望我使用的品牌成为一个支持种族主义者/厌女者/撒谎者/下教有所关联的牌子。                            
+
+### 六、简单的结束语       
+
+温和一点可以简单地祝福语，严肃一点可以要求得到回复 (hope to receive your response soon)          
+
+### Tips      
+
+有几个邮箱就可以发几份，排列组合一下。      
+英语不自信的，可以写成句式简单的汉语，然后拿去机翻 (百度翻译就可以)，翻出来基本没什么太大的错误。          
+还不放心的可以私信小/号 [@抵制肖战到明年](#) 可以给你的机翻做下检查修改。     
+
+
+***
+
+## 关于监察权的科普  
+
+## 一、何为“国家监察权”？        
+
+首先要先区分《中华人民共和国国家监察法》和《中华人民共和国行政监察法》的不同。《行政监察法》第七条规定，国务院监察机关主管全国的监察工作。即作为国务院的隶属部门，该法的监察范围也仅限于和行政有关的内部监督，对于其他机关它是管不了的。而《国家监察法》第五、第六条规定，中华人民共和国监察委员会是最高国家监察机关；中华人民共和国监察委员会由全国人民代表大会产生，负责全国监察工作。即监察委员会从过去的行政部门一跃成为与国务院，最高检，最高院平起平坐的部门。我们都知道，国务院代表着行政权，人大代表着立法权，最高院和最高检代表着司法权，而监察委员会则代表着新生的权力：监察权，这对中国过去的“行政，立法，司法”的三权说产生彻底的改变，中国将会产生“第四权”。中国的国家政权体系由过去的“一府两院”，即国务院，最高检和最高院，将会变为“一府两院一委”，而这个“委”就是监察委员会。      
+
+对应的，从整个的国家权力体系考虑，国家监察权绝对不单单是对司法的监察，更不会是简单的权力的延生，而是全方位，全覆盖的对整个国家的公权力体系进行监察。      
+
+### 二、国家监察权的监察范围及对象          
+
+《国家监察法》第十二条规定，监察机关按照管理权限对下列公职人员进行监察：           
+
+(一)中国共产党的机关、人大机关、行政机关、政协机关、监察机关、审判机关、检察机关、民主党派和工商联机关的公务员及参照《中华人民共和国公务员法》管理的人员；       
+(二)法律、法规授权或者受国家机关依法委托管理公共事务的组织中从事公务的人员；     
+(三)国有企业管理人员；      
+(四)公办的教育、科研、文化、医疗卫生、体育等单位中从事管理的人员；      
+(五)基层群众性自治组织中从事集体事务管理的人员；     
+(六)其他依法履行公职的人员。   
+
+由前述规定可知，国家监察权的监察的对象不但包括传统的行政机关和司法机关的公职人员，甚至包括立法机关，党的机关，以及国有企业以及事业单位的公职人员。也就是说，国家监察机关实行的是对整个公权力体系中行使公权力的人员进行监督。       
+### 三、监察委员会与纪律检查委员会的区别和联系       
+1、就机构性质而言，二者最为明显的不同便是监察委员会是国家机构；而纪律监察委员会则是党内机构。         
+2、就机构产生程序而言，监察委员会由本级人民代表大会选出，受其监督，对其负责，并对本级人大常委会、上级监察委负责，受其监督；而纪律检查委员会则由党的本级代表大会选出，受其监督，对其负责，并对本级党委会、上级纪检委负责，受其监督。      
+3、就监督范围而言，监察委员会对本地区所有行使公权力的公职人员行使监督权；纪律检查委员会对党的领导机关和领导干部，特别是主要领导干部进行监督。        
+4、就职权而言，监察委员会监督检查公职人员的情况包括：依法履职、秉公用权、廉洁从政、道德操守。调查公职人员是否涉嫌“贪污贿赂、滥用职权、玩忽职守、权力寻租、利益输送、徇私舞弊以及浪费国家资财”等职务违法和犯罪行为。处置的结果包括作出处置决定，涉嫌犯罪的，移送检察机关。纪律检查委员会监督情况包括：党员领导干部履行职责和行使权力情况。问责的方式是针对监督到的情况依据相关法律和党内法规就行追究。给予党纪政纪处分，涉嫌犯罪的，移送检察机关。            
+5、就采取的措施而言，监察委员会针对人的措施包括谈话、讯问、询问；强力手段包括搜查、留置。针对财产的措施包括查询、冻结、调取、查封、扣押、勘验检查、鉴定。而纪律检查委员会针对人的措施包括谈话提醒、约谈函询、通报曝光；强力手段为巡视、全面派驻、执纪审查、决定处分。—— 转自知乎大神专业解读            
+（总结：纪委只监督党员，监察委监督所有公职人员，且为专职反腐机构）                   
+
 更新中，欢迎投稿    
  
 
