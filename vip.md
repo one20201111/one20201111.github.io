@@ -338,7 +338,7 @@ Dior法国总部邮箱：contactdioreu@dior.com ​​​​
 正文：
 Madame, Monsieur         
 
-Je souhaite, par la présente, vous faire part de ma réclamation contre la coopération entre Dior Chien et XIAO Zhan.             
+Je souhaite, par la présente, vous faire part de ma réclamation contre la coopération entre Dior Chine et XIAO Zhan.             
 
 En effet, je suis un consommateur chinois et j'apprécie beaucoup la marque Dior et votre culture d'entreprise. J'ai également acheté pas mal de produits Dior. Récemment, Dior Chine a publié sur Weibo (Comme Twitter) plusieurs photos de XIAO Zhan, montrant la tendance de coopération avec lui. XIAO Zhan est un star chinois sans œuvres, qui ne respecte  pas les femmes et qui est boycotté par beaucoup de consommateurs chinois. Il n'a même pas obtenu de nouvelles coopérations commerciales depuis février (un grand événement méprisable d'Internet qui est fait par fans de XIAO Zhan entraîne à ce boycottage. ) De plus, XIAO Zhan a posté nombreux commentaires impolis de discrimination des femmes sur Weibo. Par exemple, il juge une fille comme un jouet sexuel, il appelle une actrice chinoise et indienne comme "femme noire indienne", etc. Maintenant, il y a de plus en plus de gens qui commencent à résister à toutes les activités de XIAO Zhan, à cause de ses commentaires discriminatoire, de sa conduite odieuse et de ses actes sans excuse et sans regret.   
 
