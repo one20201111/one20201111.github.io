@@ -7,7 +7,7 @@
 
 ### 中国区       
 1.**迪奥美妆**： **400 921 8833**  （周一至周日 10:00 — 22：00）              
-  **迪奥时装**： **400 122 6622**        
+   **迪奥时装**： **400 122 6622**        
 2.官网留言：   
 美妆：[dior.cn/zh_cn/contact-parfum](https://www.dior.cn/zh_cn/contact-parfum)               
 时装：[dior.cn/zh_cn/contact-couture](https://www.dior.cn/zh_cn/contact-couture)               
@@ -18,20 +18,21 @@
 ### 法国总部      
 1.Dior法国总部邮箱：**contactdioreu@dior.com**            
 2.珠宝事业部留言：[dior.com/fr_fr/contact-couture](https://www.dior.com/fr_fr/contact-couture)   
-  香水护肤品彩妆事业部留言 [dior.com/fr_fr/contact-parfum](https://www.dior.com/fr_fr/contact-parfum)        
+   香水护肤品彩妆事业部留言 [dior.com/fr_fr/contact-parfum](https://www.dior.com/fr_fr/contact-parfum)        
 3.法国珠宝事业部电话：**+33（0）1 40 73 73 73**   香水护肤品彩妆事业部电话：**+33（0）1 49 53 88 88**       
 
 ### 母公司     
 (LVMH中国)路威酩轩香水化妆品（上海）有限公司      
 服务电话：**021-60356088**（这个要转分机的，明天按个0找总机试试）        
 
-**英文写作指南和反映要点**: [英语应用写作101](#英语应用写作101)        
-法语模版参考：[下拉传送门](#迪奥法语邮件模版) [点击查看原博](#https://m.weibo.cn/6984262573/4584960700712526)     
+**英文写作指南和反映要点**: [英语应用写作101](#英语应用写作101)    
+英文邮件模版参考：[下拉传送门](#迪奥英文邮件模版)         
+法语邮件模版参考：[下拉传送门](#迪奥法语邮件模版) [点击查看原博](#https://m.weibo.cn/6984262573/4584960700712526)       
 
 ### 反馈      
 [@黑土豆装白莲儿2](#): *兔区发Dior相关被删很快*     
-[投稿反馈](#):*刚刚打了 dior的电话，做个反馈。dior客服说忽并非合作艺人“只是"穿了他们的衣服而已，也有很多人打电话投诉这件事(加大力度不要停!)*    
 [@振金风车](#):*Dior建议svip们直接向中国区和总部反映，买过彩妆护肤香水衣服鞋子包的也都可以去反映*              
+[投稿反馈](#):*刚刚打了 dior的电话，做个反馈。dior客服说忽并非合作艺人“只是"穿了他们的衣服而已，也有很多人打电话投诉这件事(加大力度不要停!)*    
 [@清操厉冰雪jade](https://weibo.com/u/7505221325): *结合法语专业同学的意见，也可以直接用英语或者西班牙语提意见，人家总部不缺这点儿翻译。反而是语法人称错误之类容易丢掉印象分, 姐妹们用英语冲就vans了。法国人其实看不太上英语，但更看不上用错法语。*          
 [@alpha0w0](#): *不懂法文就用英文，自己写比全盘照抄好，短时间大量相同内容的信件会被屏蔽的*    
      
@@ -56,15 +57,15 @@
 ## TIFFANY       
 电话： **400 921 3299** （周一至周日10:00-21:00）    
 邮箱：lynn.wu@tiffany.com（商事信息登记找到的，不知道有没有用）        
-官网留言：       
-中国：[tiffany.cn/customer-service](https://www.tiffany.cn/customer-service)           
-美国（总部）：[tiffany.com/customer-service](https://www.tiffany.com/customer-service)               
+官网留言：        
+中国：[tiffany.cn/customer-service](https://www.tiffany.cn/customer-service)            
+美国（总部）：[tiffany.com/customer-service](https://www.tiffany.com/customer-service)                
 
 ## YSL（欧莱雅旗下）    
 电话：400-820-6362（周一至周五9:00-18:00）   
 留言：[www.yslbeautycn.com](https://www.yslbeautycn.com)客服中心可以转人工客服             
 
-
+***  
 
 ## 唯品会等赞助了腾讯视频《演员请就位》     
 
@@ -316,7 +317,7 @@
 3.尽量不要用别人的说话模板打电话, 可以根据别人的经验自己组织语言          
            
 
-如果向国家机关举报:      
+如果向郭嘉机关举报:      
 
 1.一定不能只反馈问题 (因为这样还要看领导的意思) ,最好提出疑问求解,或者查阅相关法律法规咨询我们觉得有问题的点是否符合处罚条例.…… (咨询不犯fa)      
 2.大部分部门的接线员都没有执法权, 只能向上级反馈, 所以要提供准确的证据。              
@@ -397,6 +398,36 @@ I'm writing to ask you to withdraw the cooperation notice with a fake star.
 英语不自信的，可以写成句式简单的汉语，然后拿去机翻 (百度翻译就可以)，翻出来基本没什么太大的错误。          
 还不放心的可以私信小/号 [@抵制肖战到明年](#) 可以给你的机翻做下检查修改。     
 
+***
+## 迪奥英文邮件模版     
+
+**邮箱**：contactdioreu@dior.com     
+**题目**：Protest Dior China and Choice of Racist Actor Xiao Zhan     
+
+Dear Sir/Madam,
+ 
+I am one of your customers in China, and I am writing this email on behalf of a big number of Dior Chinese customers. I would like to remind you of a potential harm to Dior.          
+ 
+Dior is a time-honoured brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently Dior China is supporting an actor who is badly against Dior’s values, and we have reported and complained about it many times, but it seems Dior China keeps ignoring customers’ feelings.        
+ 
+‘This actor’s name is Xiao Zhan. He became famous in China last year because of one TV Series he performed. Unfortunately some very bad things have happened because of him, lots of frauds and cheating have been committed by his fans. What made the public angry is Xiao Zhan said in a TV interview that he doesn’t have the responsibility to guide his fans. He has been criticized by quite a few public media, but there is no sign that he would like to make any changes.      
+ 
+I am an big fan of Dior. Recently, you have received a lot of suggestions or complaints.This is not someone persecution of Xiao Zhan,but because he is really a bad actor and bad singer. Now everyone hates Xiao Zhan . He committed racist acts, Post on social media that slanders black people in India, and insulted women. He was known as an inferior actor/singer. China is a big consumer market, but now on Chinese social media WEIBO because Xiao Zhan has appeared a lot of negative news of Dior, so many people are afraid to buy Dior’s products. I'm really worried that gucci's sales and reputation in China will be affected, because my friends and family are all boycotting Xiao Zhan spontaneously. Brands that advertise on Xiao Zhan can only make money with a small amount of goods purchased by Xiao Zhan fans. Many brands have replaced his advertising.     
+
+What is more serious isXiao Zhan doesn’t show the personality of Respect. He commented a Chinese-India actress as “India Nigger” on his social media. On his public social media, he talked about very dirty words. (Please see the enclosed attachments).         
+ 
+I, with lots of Chinese customers, do not think Xiao Zhan is compatible with Dior, and I can imagine that if Chinese Dior agency company keep corporate with this actor , the public would definitely doubt Dior values and reputation, and we will be hurt as well. That’s why we suggested Dior China to stop his cooperation with Xiao Zhan. As the main company, you absolutely have the power to stop this cooperation to prevent this issue from actually happening. We are so disappointed that Dior China doesn’t want to take any action to save your reputation.        
+ 
+In the last few months before， the death of George Floyd has deeply saddened the whole world. That’s why we need to right the world no matter how tiny effort we can do, we need to stop the racist, and we need to show our respect from the bottom of our hearts to each individual, we need to take our respective responsibilities to be good examples in society instead of giving up morals.         
+ 
+Personally I am a big Dior fan. China is a vast market, and you have a great number of admirers here. We sincerely hope you can choose the right person or idol to cooperate with. I hope you can communicate with Dior China to reconsider this situation carefully, please don’t make your Chinese customers upset and disappointed. We will have to choose other brands if Dior continues to support XZ.
+As a lover of Dior for many years, you (the brand side) should carefully consider and then decide whether to choose Xiao Zhan.           
+ 
+Thanks for taking your time to read this email, I look forward to your prompt reply.           
+ 
+Kind regards,        
+One of your Customers, and with lots of other customers in China          
+
 
 ***
 
@@ -424,7 +455,7 @@ I'm writing to ask you to withdraw the cooperation notice with a fake star.
 1、就机构性质而言，二者最为明显的不同便是监察委员会是国家机构；而纪律监察委员会则是党内机构。         
 2、就机构产生程序而言，监察委员会由本级人民代表大会选出，受其监督，对其负责，并对本级人大常委会、上级监察委负责，受其监督；而纪律检查委员会则由党的本级代表大会选出，受其监督，对其负责，并对本级党委会、上级纪检委负责，受其监督。      
 3、就监督范围而言，监察委员会对本地区所有行使公权力的公职人员行使监督权；纪律检查委员会对党的领导机关和领导干部，特别是主要领导干部进行监督。        
-4、就职权而言，监察委员会监督检查公职人员的情况包括：依法履职、秉公用权、廉洁从政、道德操守。调查公职人员是否涉嫌“贪污贿赂、滥用职权、玩忽职守、权力寻租、利益输送、徇私舞弊以及浪费国家资财”等职务违法和犯罪行为。处置的结果包括作出处置决定，涉嫌犯罪的，移送检察机关。纪律检查委员会监督情况包括：党员领导干部履行职责和行使权力情况。问责的方式是针对监督到的情况依据相关法律和党内法规就行追究。给予党纪政纪处分，涉嫌犯罪的，移送检察机关。            
+4、就职权而言，监察委员会监督检查公职人员的情况包括：依法履职、秉公用权、廉洁从政、道德操守。调查公职人员是否涉嫌“**贪污贿赂**、**滥用职权**、**玩忽职守**、**权力寻租**、**利益输送**、徇私舞弊以及浪费国家资财”等职务违法和犯罪行为。处置的结果包括作出处置决定，涉嫌犯罪的，移送检察机关。纪律检查委员会监督情况包括：党员领导干部履行职责和行使权力情况。问责的方式是针对监督到的情况依据相关法律和党内法规就行追究。给予党纪政纪处分，涉嫌犯罪的，移送检察机关。            
 5、就采取的措施而言，监察委员会针对人的措施包括谈话、讯问、询问；强力手段包括搜查、留置。针对财产的措施包括查询、冻结、调取、查封、扣押、勘验检查、鉴定。而纪律检查委员会针对人的措施包括谈话提醒、约谈函询、通报曝光；强力手段为巡视、全面派驻、执纪审查、决定处分。—— 转自知乎大神专业解读            
 （总结：纪委只监督党员，监察委监督所有公职人员，且为专职反腐机构）                   
 
