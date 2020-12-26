@@ -194,7 +194,7 @@
 ![zjw1](http://i1.fuimg.com/731395/11fb737a17263bda.jpg)      
 ![zjw2](http://i1.fuimg.com/731395/e49de5589b931d80.jpg)       
 ![zjw3](http://i1.fuimg.com/731395/6d4c4d0fe4b0fad8.jpg)     
-![zjw4](http://i1.fuimg.com/731395/d4a1bc5accc253ca.jpg)      
+![zjw4](http://i1.fuimg.com/731395/bdd9de66f2a22d20.jpg)      
 ![zjw5](http://i1.fuimg.com/731395/39f2ccfb58ee9f91.jpg)      
 ![zjw6](http://i1.fuimg.com/731395/2d61ce37b7783ff3.png)      
 ![zjw7](http://i1.fuimg.com/731395/386e64ab82fcd51b.jpg)      
