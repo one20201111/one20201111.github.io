@@ -179,7 +179,28 @@
 ![工信部网站投诉入口](https://img.wenhairu.com/images/2020/12/26/DuXPn.md.jpg){:height="50%" width="50%"}       
 
 
-***
+***   
+
+## zjw  
+[www.12388.gov.cn](http://www.12388.gov.cn)  
+【注意事项】  
+1. 不许照抄！【署名】
+2. 检举人首先要对真实性负责，至少要为进一步调查提供有价值的线索。搜集好存证再**简明扼要、有理有据**地反映问题。 
+【如何找到ZJW网站入口】看图1图2 
+【复盘参考】**图6**  
+【12.23事件进展】许多电视台和官方媒体都存在收应援礼的不正风气，疑似已形成利益链
+【12.24更新】东方卫视后期总监在网络平台上公然向艺人粉丝索贿并多次受贿。http://t.cn/A6qNBi4Q
+【补充】“四风问题专区” [www.12388.gov.cn/m/](http://www.12388.gov.cn/m/) 加上东方卫视、ys等送应援礼的事情，结合央视力挺**的通稿，合理怀疑因有利益关系而为流量明星站台，被检举人填写请自行百度，格式参考图4      
+![zjw1](http://i1.fuimg.com/731395/11fb737a17263bda.jpg)      
+![zjw2](http://i1.fuimg.com/731395/e49de5589b931d80.jpg)       
+![zjw3](http://i1.fuimg.com/731395/6d4c4d0fe4b0fad8.jpg)     
+![zjw4](http://i1.fuimg.com/731395/d4a1bc5accc253ca.jpg)      
+![zjw5](http://i1.fuimg.com/731395/39f2ccfb58ee9f91.jpg)      
+![zjw6](http://i1.fuimg.com/731395/2d61ce37b7783ff3.png)      
+![zjw7](http://i1.fuimg.com/731395/386e64ab82fcd51b.jpg)      
+![zjw8](http://i1.fuimg.com/731395/e9976ba551847dbc.jpg)     
+![zjw9](http://i1.fuimg.com/731395/187e0c7cd4ce9c8c.jpg)     
+
 
 ## 第5届🐧视频星光大赏       
 [12.8更新](https://m.weibo.cn/status/4579828835560265?): 星光审批通过，上下午两场。赞助商信息没有看到公示　    
