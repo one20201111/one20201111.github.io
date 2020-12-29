@@ -88,14 +88,14 @@
 [@面包是我的命:](#腾讯娱乐年度盛典)可以的话也能提一下变异病毒株出现的可能性，英国日本南非也是突然出现的     
 
 ### 领-导留言版APP给行政长官留言 (所有人可用)   
-![留言板app](http://i2.tiimg.com/731395/f793ff933418edfd.jpg) {:height="50%" width="50%"} 
+![留言板app](http://i2.tiimg.com/731395/f793ff933418edfd.jpg){:height="50%" width="50%"}    
 
 ### 赞助商：奇瑞汽车  
 
 24小时客服热线：**400-883-8888**       
 
 ### QQ音乐诱导借贷消费    
-![qq1](http://i2.tiimg.com/731395/d07f6361c0b99a16.jpg){:height="50%" width="50%"}![qq2](http://i2.tiimg.com/731395/6fd2f0a5ee48f2e5.jpg){:height="50%" width="50%"}![qq3](http://i2.tiimg.com/731395/4f29c1ff8ed8d24e.jpg){:height="50%" width="50%"}    
+![qq1](http://i2.tiimg.com/731395/d07f6361c0b99a16.jpg){:height="30%" width="30%"}![qq2](http://i2.tiimg.com/731395/6fd2f0a5ee48f2e5.jpg){:height="30%" width="30%"}![qq3](http://i2.tiimg.com/731395/4f29c1ff8ed8d24e.jpg){:height="30%" width="30%"}    
 
 ***                
 
