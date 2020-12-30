@@ -27,7 +27,7 @@
 
 **英文写作指南和反映要点**: [英文应用写作101](#英文应用写作101)           
 英文邮件模版参考：[下拉传送门](#迪奥英文邮件模版)         
-法语邮件模版参考：[下拉传送门](#迪奥法语邮件模版) [点击查看原博](https://m.weibo.cn/6984262573/4584960700712526)       
+法语邮件模版参考：[法语1](#迪奥法语邮件模版1) [法语2](#法语模版2) [法语3](#法语模版3) [法语4](#法语模版4)            
 
 ### 反馈      
 [@黑土豆装白莲儿2](#): *兔区发Dior相关被删很快*     
@@ -330,28 +330,68 @@
 
 [来自 @青山成木 的微博](https://m.weibo.cn/7454243887/4578946522547539)    
     
-***
+***   
+##迪奥法语邮件模版1     
+来自[bot的微博](https://m.weibo.cn/6984262573/4584960700712526)      
+标题：Conseils à Dior sur XiaoZhan, un mauvais acteur qui insulte les femmes.          
+正文：        
+Chère société Dior:        
+Merci beaucoup de m'avoir ouvert ce courriel. Je suis un consommateur chinois. J'ai acheté de nombreux produits Dior. Récemment, la branche Dior en Chine a publié sur Weibo (comme Twitter en Chine) quelques photos d'un acteur nommé XiaoZhan(肖战).          
+En tant que consommateur, je tiens à exprimer que je n'aime pas XiaoZhan. Et de nombreux consommateurs le détestent. Parce que XiaoZhan ne respecte pas les femmes. Il a exprimé de nombreux mots de discrimination à l'égard des femmes.       
+Par exemple, XiaoZhan a insulté une fille et lui a dit qu'elle était un jouet sexuel.
+Les gens connaissent cette affaire, mais XiaoZhan n'a jamais donné d'explication.
+Il a qualifié une actrice d'origine mixte chinoise et indienne de "femme noire indienne", en Chine, ça veut dire femme négro. Il ne lui a pas présenté d'excuses officielles. La vidéo de l’actrice en train de pleurer parce qu’elle a été interrogée sur la parole de XiaoZhan a été visionnée plus de 30 millions de fois.      
+De plus, XiaoZhan est impoli. Il a toujours publié des mots vulgaires dans le public.       L'administration nationale de l'éducation l'a alerté à plusieurs reprises.      
+Enfin, les photos sur le WEIBO sont très moche. Cela ne correspond pas à l'image de Dior.
+Bref, en tant que consommateur, je n'aime pas ça et je veux que Dior coupe toute la relation avec XiaoZhan et ne fasse pas les affaires entre vous.       
 
+Cordialement,     
+你的名字     
 
-## 迪奥法语邮件模版    
-Dior法国总部邮箱：contactdioreu@dior.com ​​​​       
-主题：La réclamation contre la coopération entre Dior Chine et XIAO Zhan, un star chinois qui discrimine les femmes.
+***    
 
-正文：
-Madame, Monsieur         
+## 法语模版2
+Dior法国总部邮箱：contactdioreu@dior.com ​​​​           
+主题：La réclamation contre la coopération entre Dior Chine et XIAO Zhan, un star chinois qui discrimine les femmes.       
+ 
+正文：    
+Madame, Monsieur            
 
-Je souhaite, par la présente, vous faire part de ma réclamation contre la coopération entre Dior Chine et XIAO Zhan.             
+Je souhaite, par la présente, vous faire part de ma réclamation contre la coopération entre Dior Chine et XIAO Zhan.              
 
-En effet, je suis un consommateur chinois et j'apprécie beaucoup la marque Dior et votre culture d'entreprise. J'ai également acheté pas mal de produits Dior. Récemment, Dior Chine a publié sur Weibo (Comme Twitter) plusieurs photos de XIAO Zhan, montrant la tendance de coopération avec lui. XIAO Zhan est un star chinois sans œuvres, qui ne respecte  pas les femmes et qui est boycotté par beaucoup de consommateurs chinois. Il n'a même pas obtenu de nouvelles coopérations commerciales depuis février (un grand événement méprisable d'Internet qui est fait par fans de XIAO Zhan entraîne à ce boycottage. ) De plus, XIAO Zhan a posté nombreux commentaires impolis de discrimination des femmes sur Weibo. Par exemple, il juge une fille comme un jouet sexuel, il appelle une actrice chinoise et indienne comme "femme noire indienne", etc. Maintenant, il y a de plus en plus de gens qui commencent à résister à toutes les activités de XIAO Zhan, à cause de ses commentaires discriminatoire, de sa conduite odieuse et de ses actes sans excuse et sans regret.   
+En effet, je suis un consommateur chinois et j'apprécie beaucoup la marque Dior et votre culture d'entreprise. J'ai également acheté pas mal de produits Dior. Récemment, Dior Chine a publié sur Weibo (Comme Twitter) plusieurs photos de XIAO Zhan, montrant la tendance de coopération avec lui. XIAO Zhan est un star chinois sans œuvres, qui ne respecte  pas les femmes et qui est boycotté par beaucoup de consommateurs chinois. Il n'a même pas obtenu de nouvelles coopérations commerciales depuis février (un grand événement méprisable d'Internet qui est fait par fans de XIAO Zhan entraîne à ce boycottage. ) De plus, XIAO Zhan a posté nombreux commentaires impolis de discrimination des femmes sur Weibo. Par exemple, il juge une fille comme un jouet sexuel, il appelle une actrice chinoise et indienne comme "femme noire indienne", etc. Maintenant, il y a de plus en plus de gens qui commencent à résister à toutes les activités de XIAO Zhan, à cause de ses commentaires discriminatoire, de sa conduite odieuse et de ses actes sans excuse et sans regret.    
 
-C'est pour cela que XIAO Zhan ne correspond pas du tout à l'image de Dior. En tant que           consommateur, j'insiste ma résistance contre la coopération de XIAO Zhan et Dior Chine.             
+C'est pour cela que XIAO Zhan ne correspond pas du tout à l'image de Dior. En tant que           consommateur, j'insiste ma résistance contre la coopération de XIAO Zhan et Dior Chine.                 
 
-Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.               
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.                    
 
-Cordialement,         
-你的名字       
+Cordialement,           
+你的名字          
 
 ***     
+## 法语模版3    
+来自微博[@逆鳞响叮当](https://m.weibo.cn/status/4586536459047270?)        
+主题：NON à votre futur avocat chinois XIAO Zhan        
+正文：    
+Madame ,Monsieur,      
+Il paraît que Dior Chine souhaite choisir XIAO Zhan pour représenter vos produits, c’est SCANDALEUX !          
+XIAO Zhan, la vulgarité de ses manières, il ment comme il respire, je crois qu’il est loin d’être représentant de l’élégance et de la beauté que je cherche chez Dior. J’espère que vous pourriez choisir plus discrètement votre avocat dans le marché chinois.      
+Recevez, Madame, Monsieur, mes sincères salutations.      
+署名      
+
+***  
+## 法语模版4    
+来自微博[@逆鳞响叮当](https://m.weibo.cn/status/4586536459047270?)           
+主题：un porte-parole RACISTE, je suis contre !       
+正文：    
+Madame,Monsieur,      
+J’entends dire que Dior Chine a l’intention de désigner XIAO Zhan comme avocat de vos produits, et JE SUIS CONTRE !      
+XIAO Zhan a fait de nombreuses déclarations racistes et humiliant les femmes, il ne s’est jamais excusé. Etant femme et votre cliente depuis toujours, je ne tolère aucune discrimination fondée sur le sexe ni la race. J’espère que vous arrêterez tout type de coopération avec XIAO Zhan.
+En attendant une réponse, je vous prie d’agréer mes salutations distinguées.       
+署名      
+
+***
+
 ## 英文应用写作101           
 来自bot的微博投稿           
 ### 一、简短的问候语       
