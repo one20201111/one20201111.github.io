@@ -95,14 +95,16 @@
 
 ### 监督优酷APP  
 
-存在的问题参考：为《少年之名》节目播出提供粉丝打榜功能(APP内搜索”少年力公示牌“)，诱导未成年人集资打投超前消费  
+**存在的问题参考**：为《少年之名》节目播出提供粉丝打榜功能(APP内搜索”少年力公示牌“)，诱导未成年人集资打投超前消费     
+存图指路[@落日云霄飞车](https://m.weibo.cn/status/4588722052400442?)     
+![优酷打投](http://i2.tiimg.com/731395/f7227e718dfd25f6.png)       
+     
+**渠道**：工信部信箱留言 [bzxx.miit.gov.cn/bzxx/appellate/write](http://bzxx.miit.gov.cn/bzxx/appellate/write)  或拨打12381公共服务热线            
 
-工信部信箱留言 [bzxx.miit.gov.cn/bzxx/appellate/write](http://bzxx.miit.gov.cn/bzxx/appellate/write)  或拨打12381公共服务热线         
-
-**方法**：投诉提交完成后马上截图，截图的作用： ① 客服聊天表态  ② 发wb艾特拼多多          
+**方法**：投诉提交完成后马上截图，截图的作用： ① 客服聊天表态  ② 发微博艾特优酷               
 
 ### 赞助商（合作品牌）        
-穷游等
+穷游等 （更多赞助商信息等待补充）   
 穷游网邮件反馈： service@qyer.com       
 
 ### 向zjw举报市长     
