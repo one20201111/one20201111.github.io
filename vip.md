@@ -52,8 +52,10 @@
 
 ## GUCCI
 ☎️ 400-8210-582  
-在线客服 [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
-weixin ID:  gucciofficial   
+**在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
+**weixin ID**： gucciofficial   
+**Gucci总部Email**：**clientservice-europe@it.gucci.com**   
+**Gucci脸书**: [www.facebook.com/GUCCI/](https://www.facebook.com/GUCCI/)     
 
 
 ## TOD'S       
