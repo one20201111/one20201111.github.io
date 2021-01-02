@@ -13,7 +13,7 @@
 时装：[dior.cn/zh_cn/contact-couture](https://www.dior.cn/zh_cn/contact-couture)               
 3.邮箱（发投诉邮件都不要用qq邮箱）       
 中国区：**ecservicechina@dior.com**           
-亚洲区：**ecservicechina@dior.com**             
+亚洲区：**contactdiorasia@dior.com**             
 
 ### 法国总部      
 1.Dior法国总部邮箱：**contactdioreu@dior.com**            
