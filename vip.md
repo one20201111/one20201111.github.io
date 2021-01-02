@@ -50,6 +50,12 @@
 ### 品牌负面新闻参考        
 [@酒酿芝麻小圆子](https://m.weibo.cn/1735741953/4584684808581002)：[m.weibo.cn/1735741953/4584684808581002](https://m.weibo.cn/1735741953/4584684808581002)        
 
+## GUCCI
+☎️ 400-8210-582  
+在线客服 [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
+weixin ID:  gucciofficial   
+
+
 ## TOD'S       
 电话：**400 0099 062** （周一到周五早上9点至晚上6点，节假日除外）            
 总部邮箱：**ccontact-tods@todsgroup.com**               
