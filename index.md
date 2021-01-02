@@ -115,7 +115,7 @@
 ### 重庆市政府官网写信             
 1.**网址**：[www.cq.gov.cn/publicmail/citizen/index.aspx](http://www.cq.gov.cn/publicmail/citizen/index.aspx) 需实名注册        
 2.**信件寄送部门参考**            
-![cq官网流程参考](http://i2.tiimg.com/731395/396ce909cc30e3ac.jpg)        
+![cq官网流程参考](http://i2.tiimg.com/731395/396ce909cc30e3ac.jpg){:height="50%" width="50%"}             
 [网友反馈](https://m.weibo.cn/status/4588962414600299?)：*我主要提了2020.6.5重庆大轰炸纪念日发“看到美好”，教师应援、光点靠未成年疯狂消费购买，个人建议川美捎带一下就好，不作重点，因为那也是重庆市的事情。*               
 
 ### 向zjw举报市长     
