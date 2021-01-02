@@ -331,7 +331,7 @@
 [来自 @青山成木 的微博](https://m.weibo.cn/7454243887/4578946522547539)    
     
 ***   
-##迪奥法语邮件模版1     
+## 迪奥法语邮件模版1     
 来自[bot的微博](https://m.weibo.cn/6984262573/4584960700712526)      
 标题：Conseils à Dior sur XiaoZhan, un mauvais acteur qui insulte les femmes.          
 正文：        
