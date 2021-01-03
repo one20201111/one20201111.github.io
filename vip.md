@@ -7,7 +7,7 @@
 
 ### 中国区       
 1.**迪奥美妆**： **400 921 8833**  （周一至周日 10:00 — 22：00）              
-   **迪奥时装**： **400 122 6622**        
+  **迪奥时装**： **400 122 6622**        
 2.官网留言：   
 美妆：[dior.cn/zh_cn/contact-parfum](https://www.dior.cn/zh_cn/contact-parfum)               
 时装：[dior.cn/zh_cn/contact-couture](https://www.dior.cn/zh_cn/contact-couture)               
@@ -29,10 +29,13 @@
 英文邮件模版参考：[下拉传送门](#迪奥英文邮件模版)         
 法语邮件模版参考：[法语1](#迪奥法语邮件模版1) [法语2](#法语模版2) [法语3](#法语模版3) [法语4](#法语模版4)            
 
+### Email注意事项      
+① 邮箱首推的是edu类的邮箱，几乎不会被当做垃圾邮件，这个一般高校都会给在校的老师和学生提供的，大家可以在自己学校官网翻一翻，其次是outlook和gmail，以及网易邮箱，建议不要用qq邮箱         
+② 加一个邮件主题比较不容易被当作垃圾邮件，我写的是About your cosmetics ads in China          
+
 ### 反馈      
-[@黑土豆装白莲儿2](#): *兔区发Dior相关被删很快*     
 [@振金风车](#):*Dior建议svip们直接向中国区和总部反映，买过彩妆护肤香水衣服鞋子包的也都可以去反映*              
-[投稿反馈](#):*刚刚打了 dior的电话，做个反馈。dior客服说忽并非合作艺人“只是"穿了他们的衣服而已，也有很多人打电话投诉这件事(加大力度不要停!)*    
+[投稿反馈](#):*刚刚打了 dior的电话，做个反馈。dior客服说\*\*并非合作艺人“只是"穿了他们的衣服而已，也有很多人打电话投诉这件事(加大力度不要停!)*    
 [@清操厉冰雪jade](https://weibo.com/u/7505221325): *结合法语专业同学的意见，也可以直接用英语或者西班牙语提意见，人家总部不缺这点儿翻译。反而是语法人称错误之类容易丢掉印象分, 姐妹们用英语冲就vans了。法国人其实看不太上英语，但更看不上用错法语。*          
 [@alpha0w0](#): *不懂法文就用英文，自己写比全盘照抄好，短时间大量相同内容的信件会被屏蔽的*    
 [@戴假发的供应商](#): *怕法文词不达意完全可以用中文的，附上消费记录就行了他们自己会翻译的，他们很重视中国市场的*    
@@ -51,12 +54,15 @@
 [@酒酿芝麻小圆子](https://m.weibo.cn/1735741953/4584684808581002)：[m.weibo.cn/1735741953/4584684808581002](https://m.weibo.cn/1735741953/4584684808581002)        
 
 ## GUCCI
-☎️ 400-8210-582  
+☎️ 400-8210-582   
 **在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
-**weixin ID**： gucciofficial   
-**GUCCI总部Email**：**clientservice-europe@it.gucci.com**   
-**GUCCI脸书**: [www.facebook.com/GUCCI/](https://www.facebook.com/GUCCI/)     
+**weixin ID**： gucciofficial    
+**GUCCI总部Email**：**clientservice-europe@it.gucci.com**    
+**GUCCI脸书**: [www.facebook.com/GUCCI/](https://www.facebook.com/GUCCI/)      
 
+英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要的形象问题都是侮辱女性种族歧视         
+意大利语模版参考：[意大利语1](迪奥法语邮件模版) [意大利语2](迪奥法语邮件模版) [意大利语3](迪奥法语邮件模版)       
+    
 
 ## TOD'S       
 电话：**400 0099 062** （周一到周五早上9点至晚上6点，节假日除外）            
@@ -476,7 +482,40 @@ Thanks for taking your time to read this email, I look forward to your prompt re
  
 Kind regards,        
 One of your Customers, and with lots of other customers in China          
+***   
+## GUCCI意大利语模版1       
+All'attenzione del Direttore.             
+Caro Signore：       
+Sono un consumatore cinese. Stupito da tutti i fatti della filiale cinese di Gucci Online in cui è stato pubblicato un annuncio su Xiaozhan（肖战）. Sono costretto a esprimere il mio disaccordo più totale.             
+Xiao zhan non mi piace, perché non rispetta le donne. Ha anche discriminazioni razziali contro altre donne. Per esempio, xiaozhan            
+Ha chiamato una ragazza che ha la pelle di colore scuro come una donna di colore che veniva dall'India. Ha dato a un'altra ragazza un soprannome di giocattolo sessuale. Vale la pena ricordare che il Ministero dell'Istruzione lo ha allertato.                          
+Mi sembra che xiaozhan non corrisponda all'immagine aziendale di Gucci.              
+Tutto questo mi sembra assolutamente deplorevole e spero che il fatto che la sovrattassa cinese di Gucci pubblichi l'annuncio su xiaozhan non accada più.           
+Attentamente，         
+（名字）      
+*** 
+## GUCCI意大利语模版2   
+主题Reclamo contro il portavoce di Gucci              
 
+Gent.mi                
+Buongiorno.  Sono il tuo cliente cinese, vi scritto l'email perché volevo lamentarmi con Xiao Zhan, il tuo portavoce in Cina.                 
+In Cina, Xiao Zhan è un cantante con una pessima reputazione. Non solo ha usato parolacce sulle piattaforme sociali di suo suocero e ha usato un linguaggio sessista per insultare le donne, ma ha anche usato osservazioni razziste discriminatorie per insultare un attore cinese di razza mista indiana.  I commenti negativi hanno fatto soffrire l'attrice di depressione.  
+Qundi, vorrei chiedere, perché inviti come collaboratori nell'area di vendita cinese uomini con gravi discriminazioni sessuali e razziali?  Penso che questo non sia solo un insulto a Gucci, ma anche un insulto ai clienti.              
+Spero che tu possa interrompere la collaborazione con Xiao Zhan, altrimenti io e la mia famiglia sceglieremo di non consumare mai più i prodotti del tuo marchio.                                
+La ringrazio per la Sua cortese attenzione.                  
+（署名）
+
+
+***
+## GUCCI意大利语模版3
+主题: Reclamo contro il portavoce di Gucci。    
+
+ Gent.mi                          
+Sono un tuo fedele cliente cinese, Vi scrivo questa email per esprimere la mia insoddisfazione. Perché ho scoperto di recente che nell'area vendite cinese hai scelto di lavorare con un cantante con gravi discriminazioni razziali e discriminazioni sessuali, il che è irritante e deplorevole. Odio Xiao Zhan, perché ha insultato in pubblico una donna indiana dalla pelle scura e ha apertamente insultato altre donne definendole "giocattoli sessuali" e "prostitute".               
+ Non credo che questo tipo di persona con evidenti discriminazioni razziali e insulti alle donne sia qualificato per essere il portavoce di un marchio. Per favore interrompi la collaborazione con Xiao Zhan.            
+ Se vuoi ancora collaborare con Xiao Zhan, non c'è dubbio che non acquisterò più prodotti del tuo marchio.        
+La ringrazio per la Sua cortese attenzione.         
+（署名）     
 
 ***
 
