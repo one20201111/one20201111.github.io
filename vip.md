@@ -60,7 +60,7 @@
 **GUCCI总部Email**：**clientservice-europe@it.gucci.com**           
 **GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)              
 英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要的形象问题都是侮辱女性种族歧视           
-意大利语模版参考：[意大利语1](迪奥法语邮件模版) [意大利语2](迪奥法语邮件模版) [意大利语3](迪奥法语邮件模版)       
+意大利语模版参考：[意大利语1](GUCCI意大利语模版1) [意大利语2](GUCCI意大利语模版2) [意大利语3](GUCCI意大利语模版3)       
     
 
 ## TOD'S       
@@ -480,8 +480,9 @@ As a lover of Dior for many years, you (the brand side) should carefully conside
 Thanks for taking your time to read this email, I look forward to your prompt reply.           
  
 Kind regards,        
-One of your Customers, and with lots of other customers in China          
-***   
+One of your Customers, and with lots of other customers in China    
+       
+***      
 ## GUCCI意大利语模版1       
 All'attenzione del Direttore.             
 Caro Signore：       
@@ -491,8 +492,10 @@ Ha chiamato una ragazza che ha la pelle di colore scuro come una donna di colore
 Mi sembra che xiaozhan non corrisponda all'immagine aziendale di Gucci.              
 Tutto questo mi sembra assolutamente deplorevole e spero che il fatto che la sovrattassa cinese di Gucci pubblichi l'annuncio su xiaozhan non accada più.           
 Attentamente，         
-（名字）      
-*** 
+（名字）     
+    
+***   
+
 ## GUCCI意大利语模版2   
 主题Reclamo contro il portavoce di Gucci              
 
