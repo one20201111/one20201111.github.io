@@ -57,9 +57,9 @@
 ☎️ 400-8210-582   
 **在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
 **weixin ID**： gucciofficial    
-**GUCCI总部Email**：**clientservice-europe@it.gucci.com**    
-**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)
-英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要的形象问题都是侮辱女性种族歧视         
+**GUCCI总部Email**：**clientservice-europe@it.gucci.com**           
+**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)              
+英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要的形象问题都是侮辱女性种族歧视           
 意大利语模版参考：[意大利语1](迪奥法语邮件模版) [意大利语2](迪奥法语邮件模版) [意大利语3](迪奥法语邮件模版)       
     
 
