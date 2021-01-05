@@ -58,7 +58,11 @@
 **在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
 **weixin ID**： gucciofficial    
 **GUCCI总部Email**：**clientservice-europe@it.gucci.com**           
-**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)              
+**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)    
+
+**fb账号可直接登录ins无需注册，能上ins、fb的朋友请在外网多发声！种族歧视仇女言论的中译英图片铺起来！不能让/*/*粉丝颠倒舆论掩盖真实消费者的声音！！！**     
+
+       
 英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要的形象问题都是侮辱女性种族歧视          
 意大利语模版参考：[意大利语1](#GUCCI意大利语模版1) [意大利语2](#GUCCI意大利语模版2) [意大利语3](#GUCCI意大利语模版3)       
     
