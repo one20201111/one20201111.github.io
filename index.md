@@ -54,9 +54,10 @@
 [~~北京卫视跨年演唱会~~](http://xzbh.top/log.html#北京卫视跨年)           
 [~~湖南卫视跨年演唱会~~](http://xzbh.top/log.html#湖南卫视跨年演唱会)      
 #### 已出土      
-[《狼殿下》](http://xzbh.top/log.html#狼殿下)         
-[🐧视频🌟光大赏](http://xzbh.top/log.html#腾讯视频星光大赏)         
-[东方卫视跨年盛典](http://xzbh.top/log.html#东方卫视跨年)              
+[《狼殿下》](http://xzbh.top/log.html#狼殿下)            
+[宁波奥体中心《演员请就位》决赛](http://xzbh.top/vip.html#唯品会)            
+[🐧视频🌟光大赏](http://xzbh.top/log.html#腾讯视频星光大赏)             
+[东方卫视跨年盛典](http://xzbh.top/log.html#东方卫视跨年)                 
 [直通车](#淘宝直通车)    
 [更多内容推荐](#更多内容推荐)     
 
