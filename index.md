@@ -69,9 +69,9 @@
 **最新消息：** "象山影视城"官方公众号发布：斗罗定档CCTV8播出（网传1月16日）           
 ![斗罗定档CCTV8](http://i2.tiimg.com/731395/83cb8f0d3fcc0dcc.jpg){:height="50%" width="50%"}           
 
-1.**广电**（TX视频网播反映渠道）   
+1.**广电**
   广电总局-节目监督 ☎️ **010-86091111**       
-  广电总局网络视听节目管理司 ☎️ **010-86096124**        
+  广电总局网络视听节目管理司 ☎️ **010-86096124** （TX视频网播渠道）         
   电视剧投诉电话：86093631      
   广电建言献策：[www.nrta.gov.cn/jact/front/front_mailwrite.action](http://www.nrta.gov.cn/jact/front/front_mailwrite.action?sysid=1)     
   
