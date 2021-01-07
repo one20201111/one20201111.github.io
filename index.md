@@ -389,7 +389,6 @@
 搜集好存证再**简明扼要、有理有据**地反映问题。     
 ### 如何找到ZJW网站入口  
 ![zjw1](http://i1.fuimg.com/731395/85b2e442bd44b773.jpg)          
-![zjw2](http://i1.fuimg.com/731395/e49de5589b931d80.jpg)       
 ### 复盘参考   
 ![zjw6](http://i2.tiimg.com/731395/e8101f1e854ce1f9.png)      
 ### 事件进展 
