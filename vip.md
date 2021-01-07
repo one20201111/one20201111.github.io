@@ -70,7 +70,7 @@
 **GUCCI总部Email**：**clientservice-europe@it.gucci.com**           
 **GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)    
 
-**fb账号可直接登录ins无需注册，能上ins、fb的朋友请在外网多发声！种族歧视仇女言论的中译英图片铺起来！不能让/*/*粉丝颠倒舆论掩盖真实消费者的声音！！！**     
+**fb账号可直接登录ins无需注册，能上ins、fb的朋友请在外网多发声！带上种族歧视仇女言论抵制者投票统计等中译英图片@dior @gucci 不让/*/*粉丝的注水数据掩盖真实消费者的声音！！！**     
 
        
 英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要的形象问题都是侮辱女性种族歧视          
