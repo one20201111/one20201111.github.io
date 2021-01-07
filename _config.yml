@@ -10,7 +10,9 @@ nav:
   link: /cm.html
 - name: 代言避雷
   link: /bilei.html
-- name: 证据包合集
+- name: 证据包
   link: /zj.html 
+- name: 直通车
+  link: /ztc.html 
 theme: jekyll-theme-cayman
 
