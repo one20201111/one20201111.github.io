@@ -401,7 +401,8 @@
 【12.27更新】腾讯旗下一款叫做”桃叭“的粉丝集资app，竟然内置“党建学习”功能给明星打榜应援，基层党建大搞形式主义之风 [点击存无码图](https://b23.tv/z6hNDS)              
 【补充】“四风问题专区” [www.12388.gov.cn/m/](http://www.12388.gov.cn/m/) 肖战粉丝给央视、人民网、东方卫视送礼，结合央视力挺**的通稿，合理怀疑因有利益关系而为流量明星站台，被检举人填写请自行百度     
 ### 格式参考   
-![zjw3](http://i2.tiimg.com/731395/6d4c4d0fe4b0fad8.jpg){:height="50%" width="50%"}![zjw4](http://i1.fuimg.com/731395/bdd9de66f2a22d20.jpg){:height="50%" width="50%"}          
+![zjw3](http://i2.tiimg.com/731395/6d4c4d0fe4b0fad8.jpg){:height="50%" width="50%"}![zjw4](https://i1.fuimg.com/731395/bdd9de66f2a22d20.jpg){:height="50%" width="50%"}       
+   
 ### 湖南卫视重点存证       
 ![zjw8](http://i1.fuimg.com/731395/e9976ba551847dbc.jpg){:height="40%" width="40%"}![zjw9](http://i1.fuimg.com/731395/187e0c7cd4ce9c8c.jpg){:height="40%" width="40%"}      
 ### xz方给ys、东方卫视、人民网等送礼存证    
