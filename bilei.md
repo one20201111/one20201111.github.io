@@ -5,18 +5,20 @@
 ## 一、**代言全线避雷清单   
 
 来源：[微博 @肖某事件受害者互助bot](https://m.weibo.cn/status/4559615717021182)      
-### 蒙牛   
-![cow](http://i2.tiimg.com/731395/c5a155876d49e240.jpg)      
+### 蒙牛、雅诗兰黛    
+![cow](http://i2.tiimg.com/731395/a02fd185d2d95c78.jpg)![ysld](http://i2.tiimg.com/731395/a7bfcd1b5f1dae75.jpg)            
 
-### 雅诗兰黛及旗下品牌      
-![ysld](http://i2.tiimg.com/731395/7d6c71dad1eafbdd.jpg)      
-![ysldqixia](http://i2.tiimg.com/731395/0ebcfdded04f9e4e.jpg)         
-### 百威    
-![百威](http://i2.tiimg.com/731395/060a8ee8f4d03250.png)       
-
+### 雅诗兰黛旗下品牌      
+![ysldqixia](http://i2.tiimg.com/731395/0ebcfdded04f9e4e.jpg)     
+    
 ### 开小灶及统一全线      
 冷知识：**汤达人**是统一旗下的子品牌     
 ![tongyi](http://i1.fuimg.com/731395/37067a5275f90dcd.png)         
+### 百威    
+![百威](http://i2.tiimg.com/731395/060a8ee8f4d03250.png)       
+### ROSEONLY诺誓    
+系列：鲜花玫瑰、永生玫瑰、玫瑰珠宝、玫瑰家居、玫瑰礼品（各种\*\*同款）      
+![roseonly](http://i2.tiimg.com/731395/435fbfd63dab6ee2.png)       
 
 ### 赞助节目或试探的品牌  
 
