@@ -1,0 +1,96 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll": true,
+			"source.fixAll.markdownlint": true
+		},
+		"javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+		"javascript.format.placeOpenBraceOnNewLineForControlBlocks": false,
+		"javascript.format.placeOpenBraceOnNewLineForFunctions": false,
+		"typescript.format.insertSpaceBeforeFunctionParenthesis": false,
+		"typescript.format.placeOpenBraceOnNewLineForControlBlocks": false,
+		"typescript.format.placeOpenBraceOnNewLineForFunctions": false,
+		"cSpell.words": [
+			"Airtable",
+			"Cascadia",
+			"Grutatext",
+			"JAMstack",
+			"Jetbrains",
+			"PRPL",
+			"SSGs",
+			"Setext",
+			"automagically",
+			"bezier",
+			"bilei",
+			"codezombiech",
+			"coenraads",
+			"commonmark",
+			"davidanson",
+			"dbaeumer",
+			"devs",
+			"ecmel",
+			"editorconfig",
+			"evenodd",
+			"filesize",
+			"formulahendry",
+			"gemoji",
+			"gridsome",
+			"hookyqr",
+			"kohler",
+			"markdownlint",
+			"mkxml",
+			"noopener",
+			"noreferrer",
+			"octref",
+			"prerendered",
+			"printf",
+			"sublist",
+			"syler",
+			"tailwindcss",
+			"unlament",
+			"vetur",
+			"visualstudioexptteam",
+			"vscodeintellicode"
+		],
+		"scss.lint.compatibleVendorPrefixes": "warning",
+		"vetur.experimental.templateInterpolationService": true,
+		"vetur.format.defaultFormatter.js": "vscode-typescript",
+		"vetur.format.options.tabSize": 4,
+		"vetur.format.options.useTabs": true,
+		"vetur.validation.templateProps": true,
+		"cSpell.language": "en,en-US"
+	},
+	"extensions": {
+		"recommendations": [
+			"christian-kohler.npm-intellisense",
+			"christian-kohler.path-intellisense",
+			"codezombiech.gitignore",
+			"coenraads.bracket-pair-colorizer-2",
+			"davidanson.vscode-markdownlint",
+			"ecmel.vscode-html-css",
+			"editorconfig.editorconfig",
+			"eg2.vscode-npm-script",
+			"formulahendry.auto-close-tag",
+			"formulahendry.auto-rename-tag",
+			"mkxml.vscode-filesize",
+			"octref.vetur",
+			"streetsidesoftware.code-spell-checker",
+			"syler.sass-indented",
+			"visualstudioexptteam.vscodeintellicode"
+		],
+		"unwantedRecommendations": [
+			"hookyqr.beautify",
+			"dbaeumer.jshint",
+			"ms-vscode.vscode-typescript-tslint-plugin"
+		]
+	}
+}
