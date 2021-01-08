@@ -1,0 +1,10 @@
+{
+	"cleanUrls": true,
+	"trailingSlash": false,
+	"redirects": [
+		{
+			"source": "/origin",
+			"destination": "https://xzbh.top"
+		}
+	]
+}
