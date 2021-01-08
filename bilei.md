@@ -4,19 +4,35 @@
 
 ## 一、**代言全线避雷清单   
 
-来源：[微博 @**事件受害者创作bot](https://m.weibo.cn/status/4559615717021182)       
+来源：[微博 @肖某事件受害者互助bot](https://m.weibo.cn/status/4559615717021182)      
+### 蒙牛   
+![cow](http://i2.tiimg.com/731395/c5a155876d49e240.jpg)      
 
-10.28 增加：回力  参考 [@金碟打牌酒中仙 的微博](https://m.weibo.cn/status/4565127972783179)      
-11.2 增加：思念食品  参考 [@金碟打牌酒中仙 的微博](https://m.weibo.cn/status/4566932932791812)     
-11.24增加赞助《狼》品牌：      
-[@趣多多的逗号](https://weibo.com/u/3273854232) [@亿滋中国](https://weibo.com/mdlzchina) 参考[@酒酿芝麻小圆子：”亿滋MDLZ”旗下饼干多次曝光有活虫](https://m.weibo.cn/status/4575141914478514?)    
-[@南孚](https://weibo.com/nanfuyouliliang) 参考[南孚“聚能环”虚假宣传](https://m.weibo.cn/status/4575630518391930?)    
-[@怡宝](https://weibo.com/u/3284695437) 子品牌避雷清单参考 [@鹤渡寒谭 的b站动态](https://t.bilibili.com/461531589287633191)      
-12.5 增加赞助🥔空降腾讯视频《演员请就位》：
-唯品会、皇家美素佳儿、纽西之谜、百事可乐   
-12.20增加赞助腾讯星光大赏：
-北京现代、百事可乐、红米、微店、和平精英、Dior、TODS 
+### 雅诗兰黛及旗下品牌      
+![ysld](http://i2.tiimg.com/731395/7d6c71dad1eafbdd.jpg)      
+![ysldqixia](http://i2.tiimg.com/731395/0ebcfdded04f9e4e.jpg)         
+### 百威    
+![百威](http://i2.tiimg.com/731395/060a8ee8f4d03250.png)       
 
+### 开小灶及统一全线      
+冷知识：**汤达人**是统一旗下的子品牌     
+![tongyi](http://i1.fuimg.com/731395/37067a5275f90dcd.png)         
+
+### 赞助节目或试探的品牌  
+
+10.28 增加：**回力**  参考 [@金碟打牌酒中仙 的微博](https://m.weibo.cn/status/4565127972783179)      
+11.2 增加：**思念食品**  参考 [@金碟打牌酒中仙 的微博](https://m.weibo.cn/status/4566932932791812)     
+11.24增加赞助《狼殿下》品牌：      
+**趣多多饼干**：[@趣多多的逗号](https://weibo.com/u/3273854232)    
+**亿滋中国**：[@亿滋中国](https://weibo.com/mdlzchina)     
+参考[@酒酿芝麻小圆子：”亿滋MDLZ”旗下饼干多次曝光有活虫](https://m.weibo.cn/status/4575141914478514?)    
+**南孚**：[@南孚](https://weibo.com/nanfuyouliliang) 参考[南孚“聚能环”虚假宣传](https://m.weibo.cn/status/4575630518391930?)    
+**怡宝**：[@怡宝](https://weibo.com/u/3284695437) 子品牌避雷清单参考 [@鹤渡寒谭 的b站动态](https://t.bilibili.com/461531589287633191)      
+12.5 增加赞助🥔空降tx视频《演员请就位》：    
+**唯品会**、**皇家美素佳儿**、**纽西之谜**、**百事可乐**    
+12.20增加赞助星光大赏：
+**北京现代**、百事可乐、**红米**、**微店**、**和平精英**、**Dior**、**Gucci**、**TODS**     
+2021.1.5增加：**李宁**       
 
 ***  
 
