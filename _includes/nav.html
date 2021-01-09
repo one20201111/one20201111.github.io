@@ -2,7 +2,7 @@
 	|
 	{% for item in site.pages %}
 	{% if item.excerpt != "hidden" and item.title and item.name contains ".md" %}
-	<a href="{{ item.url }}" {% if page.slug==item.slug %} style="text-decoration:underline; font-weight: bold;" {%
+	<a href="{{ item.url }}" {% if page.slug==item.slug %} style="color: #159957;" {%
 		endif %}>{{ item.title }}</a>
 	|
 	{% endif %}
