@@ -1,5 +1,5 @@
 ---
-title: 沾 shit 商务列表
+title: 沾 shit 商务
 slug: vip
 ---
 
@@ -11,7 +11,7 @@ slug: vip
 先问**工号**，他说没有就让他换个有工号的客服过来，反馈之后让客服转交反馈给上层
 [@等待之前先行动](#)：客服重复“目前没有接到通知，请关注官方后续消息”，不用管他们这句车轱辘话，我先说了网上在传你们合作了，举了逼氪还有疫情营销的例子，表明抵制态度，说李宁这种带有民族情怀的品牌，和他绑在一起负面影响会更广，对品牌的伤害会更大，让他们记录反馈
 
-## 雀巢（客服已辟谣，先观望）  
+## 雀巢（客服已辟谣，先观望）
 
 消费者服务热线 ☎️  **4006104868**
 
@@ -85,9 +85,8 @@ slug: vip
 **fb账号可直接登录ins无需注册，能上ins、fb的朋友请在外网多发声！带上种族歧视仇女言论抵制者投票统计等中译英图片@dior @gucci 不让/*/*粉丝的注水数据掩盖真实消费者的声音！！！**
 
 
-英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要的形象问题都是侮辱女性种族歧视
+英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要问题都是侮辱女性种族歧视抵制者数量众多且大多数为女性消费者
 意大利语模版参考：[意大利语1](#GUCCI意大利语模版1) [意大利语2](#GUCCI意大利语模版2) [意大利语3](#GUCCI意大利语模版3)
-
 
 ## TOD'S
 
@@ -116,7 +115,7 @@ slug: vip
 
 ## 唯品会问题举报
 
-## 一、消防🧯  
+## 一、消防🧯
 
 **消防知识科普**：[消防安全不合格怎么举报？](#消防安全不合格怎么举报？)  [如何检查消防设施的专业知识](#如何检查消防设施的专业知识)
 **唯品会实体店地址** ：善用地图app搜索，北京上海部分实体店地址清单见[附录-参考资料](#北京上海部分实体店地址清单)
@@ -140,7 +139,7 @@ slug: vip
 3. 查看全部图片和视频（方法见图2和3）
 4. 建议查看的重点：
 ① 消防指示牌（有高度要求）；禁烟标识（须设置）
-② 货物堆叠（有无乱摆放、挤占通道之类）：消防疏散通道不能占用、堆物；设备房不能堆放杂物；防火卷帘门下不应堆物。  
+② 货物堆叠（有无乱摆放、挤占通道之类）：消防疏散通道不能占用、堆物；设备房不能堆放杂物；防火卷帘门下不应堆物。
 ③ 货架材质（商场内的货架和柜台，应采用金属框架和玻璃板组合制成）
 ④ 商场装修（商场内的吊顶和其他装饰材料，不准使用可燃材料）
 ⑤ 防火门性能正常启闭，常闭防火门不能长时间打开
@@ -194,7 +193,7 @@ slug: vip
 2. 向工信部等提交投诉后截图，与在线客服谈心
 3. 收到唯品会短信，可以对服务做出评价，理由可以写他本人有种族歧视和侮辱女性的言论，作为女性很反感他，唯品会让他上演员请就位，会丧失极大一部分女性消费者。
 
-方向参考：*因为唯品会赞助了侮辱女性拒不道歉的\*\*上综艺节目感到愤怒，要求后期把他镜头剪掉，不想再看到他，否则会持续向有关部门投诉唯品会泄漏用户信息、卖假货、违法广告法等，线下监督消防安全并举报，要求必须记录、向上反馈和答复*  
+方向参考：*因为唯品会赞助了侮辱女性拒不道歉的\*\*上综艺节目感到愤怒，要求后期把他镜头剪掉，不想再看到他，否则会持续向有关部门投诉唯品会泄漏用户信息、卖假货、违法广告法等，线下监督消防安全并举报，要求必须记录、向上反馈和答复*
 
 ***
 
@@ -230,7 +229,7 @@ slug: vip
 地点：宁波奥体中心
 
 1. 宁波市长热线0574-12345
-2. 宁波文旅局0574-89181313  0574-87187711  
+2. 宁波文旅局0574-89181313  0574-87187711
 
 ***
 
@@ -315,7 +314,7 @@ slug: vip
 
 （百度地图、高德地图是好物，大家合理运用）
 
-**北京市**  
+**北京市**
 
 海淀区-翠微路12号凯德 MALL(翠微路店)F1
 唯品会线下店(北京银座和谐店)
@@ -351,7 +350,7 @@ slug: vip
 
 ***
 
-## 美化代孕的反映方向参考  
+## 美化代孕的反映方向参考
 
 建议下架《演员请就位终极盛典》影片《宝贝儿》
 
@@ -567,7 +566,7 @@ Attentamente，
 
 Gent.mi
 Buongiorno.  Sono il tuo cliente cinese, vi scritto l'email perché volevo lamentarmi con Xiao Zhan, il tuo portavoce in Cina.
-In Cina, Xiao Zhan è un cantante con una pessima reputazione. Non solo ha usato parolacce sulle piattaforme sociali di suo suocero e ha usato un linguaggio sessista per insultare le donne, ma ha anche usato osservazioni razziste discriminatorie per insultare un attore cinese di razza mista indiana.  I commenti negativi hanno fatto soffrire l'attrice di depressione.  
+In Cina, Xiao Zhan è un cantante con una pessima reputazione. Non solo ha usato parolacce sulle piattaforme sociali di suo suocero e ha usato un linguaggio sessista per insultare le donne, ma ha anche usato osservazioni razziste discriminatorie per insultare un attore cinese di razza mista indiana.  I commenti negativi hanno fatto soffrire l'attrice di depressione.
 Qundi, vorrei chiedere, perché inviti come collaboratori nell'area di vendita cinese uomini con gravi discriminazioni sessuali e razziali?  Penso che questo non sia solo un insulto a Gucci, ma anche un insulto ai clienti.
 Spero che tu possa interrompere la collaborazione con Xiao Zhan, altrimenti io e la mia famiglia sceglieremo di non consumare mai più i prodotti del tuo marchio.
 La ringrazio per la Sua cortese attenzione.
@@ -589,7 +588,7 @@ La ringrazio per la Sua cortese attenzione.
 
 ***
 
-## 关于监察权的科普  
+## 关于监察权的科普
 
 ## 一、何为“国家监察权”？
 
@@ -620,11 +619,5 @@ La ringrazio per la Sua cortese attenzione.
 （总结：纪委只监督党员，监察委监督所有公职人员，且为专职反腐机构）
 
 更新中，欢迎投稿
-
-
-
-​
-
-​
 
 
