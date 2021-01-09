@@ -1,10 +1,11 @@
 <nav>
-  {% for item in site.nav %}
-    <a href="{{ item.link }}" 
-      {% if page.url == item.link %} style="color: red;" {% endif %}
-    >
-      {{ item.name }}
-    </a>
-    &nbsp;&nbsp;
-  {% endfor %}
+	|
+	{% for item in site.pages %}
+	{% if item.excerpt != "hidden" and item.title and item.name contains ".md" %}
+	<a href="{{ item.url }}" {% if page.permalink==item.permalink %} style="color: #159957;" {% endif %}>{{ item.title
+		}}</a>
+	|
+	{% endif %}
+	{% endfor %}
+	<a href="https://next.xzbh.top" style="color: #00A672;">Next</a> |
 </nav>

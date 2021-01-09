@@ -1,61 +1,140 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>creation</title>
-		<link rel="stylesheet" type="text/css" href="css/PhotoWall1.css"/>
-	</head>
-	<body>
-	<script>
-		var imgs = document.getElementsByTagName("img");
-		for (var i = 0; i < imgs.length; i++) {
-		  imgs[i].addEventListener("touchend",handleEnd,false);
-		}
-		function handleEnd() {
-			this.style.width = "100%";
-			this.style.height = "100%";
+
+<head>
+	<meta charset="UTF-8">
+	<title>Creation</title>
+	<style>
+		* {
+			margin: 5px;
+			padding: 0;
 		}
 
+		body {
+			background-color: #333;
+		}
+
+		ul {
+			width: 1020px;
+			height: 1900px;
+			border: white solid 5px;
+			margin: 60px auto;
+			box-shadow: 0px 0px 10px #ccc;
+		}
+
+		li.zi {
+			width: 320px;
+			height: 20px;
+			list-style: none;
+			float: left;
+			margin: 20px;
+			color: white;
+			/* x y 扩散程度 阴影颜色 */
+			box-shadow: 0px 0px 10px white;
+		}
+
+		li.p {
+			width: 320px;
+			height: 500px;
+			list-style: none;
+			float: left;
+			margin: 10px;
+			/* x y 扩散程度 阴影颜色*/
+			box-shadow: 0px 0px 10px white;
+		}
+
+		img {
+			display: block;
+			width: 100%;
+			height: 100%;
+		}
+
+		img:hover {
+			width: 150%;
+			height: 150%;
+			position: relative;
+			top: -40px;
+			left: -40px;
+		}
+
+		div span {
+			margin-left: 75px;
+			margin-right: 75px;
+			font-size: 23px;
+			color: white;
+		}
+
+		span.long {
+			margin-left: 50px;
+			margin-right: 50px;
+			font-size: 23px;
+			color: white;
+		}
+
+		span.short {
+			margin-left: 120px;
+			margin-right: 75px;
+			font-size: 23px;
+			color: white;
+		}
+
+		.title {
+			position: absolute;
+			bottom: 0px;
+			left: 0px;
+			display: block;
+		}
+	</style>
+</head>
+
+<body>
+	<script>
+		for (image in document.getElementsByTagName("img")) {
+			image.addEventListener.addEventListener("touchend", () => {
+				this.style.width = this.style.height = "100%";
+			}, false);
+		}
 	</script>
 
+	<div style="text-align: center;">
+		<font size="26px" face="Verdana" color="white">图库</font>
+	</div>
 
-
-        &nbsp
-        <div style="text-align:center;">
-        <font size="26px" face="Verdana" color="white">图库</font>
-        </div>     
-  
-		<ul>
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLfMD.md.jpg" alt="天猫双十一晚会退货">
-                        </li>
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLwrt.md.jpg" alt="哇哇哇妹掉粉">
-			</li>
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLYUP.md.jpg" alt=“举报AO3复盘”>
-			</li>
-			<div>
+	<ul>
+		<li class="p">
+			<img src="https://img.wenhairu.com/images/2020/12/14/WLfMD.md.jpg" alt="天猫双十一晚会退货">
+		</li>
+		<li class="p">
+			<img src="https://img.wenhairu.com/images/2020/12/14/WLwrt.md.jpg" alt="哇哇哇妹掉粉">
+		</li>
+		<li class="p">
+			<img src="https://img.wenhairu.com/images/2020/12/14/WLYUP.md.jpg" alt=“举报AO3复盘”>
+		</li>
+		<div>
 			<span>天猫双十一退货</span>
 			<span class="short">哇哇哇妹掉粉</span>
 			<span class="short">举报AO3复盘</span>
-			</div>
-			                     
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WjxRX.md.jpg" alt=“本人发起光点舞应援”></li>
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLAq6.md.jpg" alt="教师天团事件"></li>
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLFlh.md.jpg" alt="厦门教师两节课宣传肖战"></li>
-			<div>
+		</div>
+
+		<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WjxRX.md.jpg" alt=“本人发起光点舞应援”></li>
+		<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLAq6.md.jpg" alt="教师天团事件"></li>
+		<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLFlh.md.jpg" alt="厦门教师两节课宣传肖战"></li>
+		<div>
 			<span>本人发起光点舞应援</span>
 			<span>教师天团事件</span>
 			<span class="long">厦门教师两节课宣传肖战</span>
-			</div>
+		</div>
 
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLmpI.md.jpg" alt="拒绝管理粉丝"></li>
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WL6bp.md.jpg" alt="禁言炸号"></li>
-			<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WjvCq.md.jpg" alt="公祭日全网营销"></li>
-			<div>
+		<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WLmpI.md.jpg" alt="拒绝管理粉丝"></li>
+		<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WL6bp.md.jpg" alt="禁言炸号"></li>
+		<li class="p"><img src="https://img.wenhairu.com/images/2020/12/14/WjvCq.md.jpg" alt="公祭日全网营销"></li>
+		<div>
 			<span>拒绝管理粉丝</span>
 			<span class="short">禁言炸号钳制舆论</span>
 			<span>公祭日全网营销</span>
-			</div>
-			
-		</ul>
-	</body>
+		</div>
+
+	</ul>
+</body>
+
 </html>
