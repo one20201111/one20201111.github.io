@@ -139,7 +139,7 @@
 1.9更新：🥔要上抖音星动之夜，录播有望一剪没，大概1月19号播    
 ### 监督抖音平台       
 根据人日微博发布的 [\#抖音平台被行政处罚\#]() 的消息   
-![douyin](http://i2.tiimg.com/731395/16f5e5ae88528473.png)      
+![douyin](http://i2.tiimg.com/731395/16f5e5ae88528473.png){:height="70%" width="70%"}      
 
 1.**12318**全国文化市场举报平台 [jbts.mct.gov.cn](https://jbts.mct.gov.cn)        
 2.北京市文化市场行政执法总队（该部门负责对网络视听节目的监管，且有执法权）      
@@ -148,9 +148,9 @@
 1.☎️ **95152** 按1再按4转接到人工，告诉对方是因为\*\*才监督，要求向上反馈        
 2.投诉完截图 [@抖音](https://weibo.com/douyinmv)     
 ### 赞助商：新一代林肯航海家、三国志战略版、fresh、联通等      
-林肯中国服务热线： 400-988-6789   
-电子邮件： info12@lincoln.com
-微信 ID: Lincoln_in_China    
+林肯中国服务热线： 400-988-6789      
+电子邮件： info12@lincoln.com     
+微信 ID: Lincoln_in_China        
 微博：[@林肯中国](#https://www.weibo.com/lincolninchina)        
 
 ***
