@@ -15,7 +15,10 @@
 冷知识：**汤达人**是统一旗下的子品牌     
 ![tongyi](http://i1.fuimg.com/731395/37067a5275f90dcd.png)         
 ### 百威    
+[B站网友 @leiying890](#)：百威旗下经营的500多个啤酒品牌包括全球旗舰品牌百威啤酒、科罗娜啤酒、时代啤酒和米凯罗啤酒，跨国品牌贝克啤酒，城堡啤酒，Castle Lite，福佳啤酒和乐飞啤酒，以及本土明星品牌Aguila，Antarctica，Bud Light，Brahma， Cass，Chernigivske，Cristal，哈尔滨啤酒，Jupiler，Klinskoye，Michelob Ultra，Modelo Especia，Quilmes，Victoria，雪津啤酒，Sibirskaya Korona和 Skol             
+唐啤、南昌啤酒、金士百啤酒、大雪啤酒、白沙啤酒、花河啤酒、佳凤啤酒、KK®啤酒、小棒啤酒均是百威旗下       
 ![百威](http://i2.tiimg.com/731395/060a8ee8f4d03250.png)       
+
 ### ROSEONLY诺誓    
 系列：鲜花玫瑰、永生玫瑰、玫瑰珠宝、玫瑰家居、玫瑰礼品（各种\*\*同款）      
 ![roseonly](http://i2.tiimg.com/731395/435fbfd63dab6ee2.png)       
@@ -32,8 +35,9 @@
 **怡宝**：[@怡宝](https://weibo.com/u/3284695437) 子品牌避雷清单参考 [@鹤渡寒谭 的b站动态](https://t.bilibili.com/461531589287633191)      
 12.5 增加赞助🥔空降tx视频《演员请就位》：    
 **唯品会**、**皇家美素佳儿**、**纽西之谜**、**百事可乐**    
-12.20增加赞助星光大赏：
-**北京现代**、百事可乐、**红米**、**微店**、**和平精英**、**Dior**、**Gucci**、**TODS**     
+12.20星光大赏增加：
+活动赞助：**北京现代**、百事可乐、**红米**、**微店**、**和平精英**、         
+服装认领：**Dior**、**Gucci**、**TODS**、**TIFFANY**、**YSL**             
 2021.1.5增加：**李宁**       
 
 ***  

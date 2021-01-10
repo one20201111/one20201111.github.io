@@ -650,8 +650,9 @@
 **目前渠道 (更多方法欢迎投稿)**       
 gwy app-互联网➕督查-中央广播电视总台，guowuyuan直属事业单位。反对代表cctv的政务新媒体@CCTV电视剧 为造成社会恶劣影响的流量肖战背书！（具体哪些影响不需要说吧？）              
 
-我知道这两天都太辛苦了，恳请大家动动手指，保持拒绝和抵制的声量。一有露头，就有反对，不求结果，只求#抵制肖战人人有责# <img alt="[怒]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_nu-0ddf642bed.png" style="width:1em; height:1em;">的声量不弱。                  
-***   
+我知道这两天都太辛苦了，恳请大家动动手指，保持拒绝和抵制的声量。一有露头，就有反对，不求结果，只求#抵制肖战人人有责# <img alt="[怒]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_nu-0ddf642bed.png" style="width:1em; height:1em;">的声量不弱。     
+             
+***      
 
 ## 手写信地址   
 
