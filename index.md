@@ -363,11 +363,10 @@
 电子邮箱：info@draemp.gov.mo      
 
 #### 澳门文化局官网留言     
-意见箱网址：[www.icm.gov.mo/cn/comments](https://www.icm.gov.mo/cn/comments)        
-反映参考：
-![意见参考](http://i1.fuimg.com/731395/88bb45266f2f6e10.jpg)       
-  
-
+意见箱网址：[www.icm.gov.mo/cn/comments](https://www.icm.gov.mo/cn/comments)           
+**1.11最新反馈**：      
+![aomenreplay](http://i1.fuimg.com/731395/4fc033c2005a3bc6.png)             
+ 
 ### 领导留言版APP给行政长官留言 (所有人可用)   
 我要留言 > 选领导 > 地方领导 > 澳门特别行政区行政长官贺一诚      
 ### 赞助商：奇瑞汽车  
