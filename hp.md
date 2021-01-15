@@ -45,9 +45,10 @@ ml](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)
 **反馈意见入口**：知乎APP - 我 - 反馈与帮助 - 反馈意见     
 
 
-## 爱奇艺 (王牌、ys线）  
+## 爱奇艺 
+《王牌部队》、ys线、1.15爱奇艺尖叫之夜    
 
-教程 [http://t.cn/A6qPUkYP](http://t.cn/A6qPUkYP)             
+教程 [m.weibo.cn/status/4563312749057786](https://m.weibo.cn/status/4563312749057786)             
 
 
 更新中，欢迎投稿    
