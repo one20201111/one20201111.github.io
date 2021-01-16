@@ -15,6 +15,7 @@
 网址：www.lining.com     
 电邮：**ccc.support@li-ning.com.cn**       
 ⑤ 天猫店：[李宁官方网店](https://m.tb.cn/h.4hUhG4c?sm=e8e3fb)         
+⑥ 李宁成都代理商的微信公众号：**瓦斯星球**      
    
 #### 反馈    
 [@BrainholeMan](#)：我们作为消费者有权利向李宁客服提建议和反馈不满，还是             
