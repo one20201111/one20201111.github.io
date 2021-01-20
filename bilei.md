@@ -6,6 +6,7 @@
 
 来源：[微博 @肖某事件受害者互助bot](https://m.weibo.cn/status/4559615717021182)      
 ### 蒙牛、雅诗兰黛    
+**2021.1.20更新**：\*\*升级为蒙牛品牌代言人，全线避雷    
 ![cow](http://i2.tiimg.com/731395/a02fd185d2d95c78.jpg)![ysld](http://i2.tiimg.com/731395/a7bfcd1b5f1dae75.jpg)            
 
 ### 雅诗兰黛旗下品牌      
