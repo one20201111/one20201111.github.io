@@ -36,9 +36,52 @@
 消防知识复习：下拉参考[\#唯品会](#唯品会)        
 
 ***     
+## 奢牌   
+奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期宣一个奢牌    
+
+### 英文邮件写作指南和反映要点   
+[英文应用写作101](#英文应用写作101)           
+[英文邮件模版参考](#迪奥英文邮件模版)         
+
+## TOD'S       
+总部邮箱：**ccontact-tods@todsgroup.com**               
+中国区邮箱：tods-cn@store.italiantouch.com        
+中国区客服：**400 0099 062** （周一到周五早上9点至晚上6点，节假日除外）            
+
+关于TODS邮件，如果对方成功收到(一天左右)会给一个如下的回复，一直没收到的话应该是邮箱不可       
+
+![todsreply](http://i2.tiimg.com/731395/3deda13144254dcf.png)    
+
+## 萧邦    
+**1.20更新**：瑞士手表珠宝品牌，驻华子公司为萧邦贸易（上海）有限公司，     
+发博认领\*\*在抖音星动之夜佩戴的胸针项链     
+
+总部邮箱：[contact@chopard.com](https://www.chopard.cn/corporate-information)        
+总部Fax：+41 (0)22 719 31 35           
+中国区客服：**021-61367800**          
+中国区官网留言：[www.chopard.cn/lianluo](https://www.chopard.cn/lianluo)        
+微博：[@Chopard萧邦](https://m.weibo.cn/status/4595468867214398)        
+科普\*\*粉丝曝光伯爵六折表事件[@金碟打牌酒中仙](https://m.weibo.cn/1864691875/4595485731984463)       
+
+***
+
+
+## GUCCI   
+☎️ 400-8210-582   
+**在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
+**weixin ID**： gucciofficial    
+**GUCCI总部Email**：**clientservice-europe@it.gucci.com**           
+**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)    
+
+**fb账号可直接登录ins无需注册，能上ins、fb的朋友请在外网多发声！带上种族歧视仇女言论抵制者投票统计等中译英图片@dior @gucci 不让/*/*粉丝的注水数据掩盖真实消费者的声音！！！**     
+
+       
+英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要问题都是侮辱女性种族歧视抵制者数量众多且大多数为女性消费者          
+意大利语模版参考：[意大利语1](#GUCCI意大利语模版1) [意大利语2](#GUCCI意大利语模版2) [意大利语3](#GUCCI意大利语模版3)     
+
 
 ## 迪奥(Dior)         
-**重点**：🥔想通过奢牌盘活商务 [#迪奥捡Gucci不要的破烂#](#)      
+[#迪奥捡Gucci不要的破烂#](#)      
 
 ### 中国区       
 1.**迪奥美妆**： **400 921 8833**  （周一至周日 10:00 — 22：00）              
@@ -87,24 +130,6 @@
 ### 品牌负面新闻参考        
 [@酒酿芝麻小圆子](https://m.weibo.cn/1735741953/4584684808581002)：[m.weibo.cn/1735741953/4584684808581002](https://m.weibo.cn/1735741953/4584684808581002)        
 
-## GUCCI   
-☎️ 400-8210-582   
-**在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
-**weixin ID**： gucciofficial    
-**GUCCI总部Email**：**clientservice-europe@it.gucci.com**           
-**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)    
-
-**fb账号可直接登录ins无需注册，能上ins、fb的朋友请在外网多发声！带上种族歧视仇女言论抵制者投票统计等中译英图片@dior @gucci 不让/*/*粉丝的注水数据掩盖真实消费者的声音！！！**     
-
-       
-英文邮件模版参考：同[迪奥](#) 把Dior改成Gucci可用，主要问题都是侮辱女性种族歧视抵制者数量众多且大多数为女性消费者          
-意大利语模版参考：[意大利语1](#GUCCI意大利语模版1) [意大利语2](#GUCCI意大利语模版2) [意大利语3](#GUCCI意大利语模版3)     
-
-## TOD'S       
-电话：**400 0099 062** （周一到周五早上9点至晚上6点，节假日除外）            
-总部邮箱：**ccontact-tods@todsgroup.com**               
-中国区邮箱：tods-cn@store.italiantouch.com        
-
 ## TIFFANY       
 电话： **400 921 3299** （周一至周日10:00-21:00）    
 邮箱：lynn.wu@tiffany.com（商事信息登记找到的，不知道有没有用）        
@@ -117,17 +142,6 @@
 留言：[www.yslbeautycn.com](https://www.yslbeautycn.com)客服中心可以转人工客服             
 
 ***  
-## 萧邦    
-**1.20更新**：瑞士手表珠宝品牌，驻华子公司为萧邦贸易（上海）有限公司，     
-发博认领\*\*在抖音星动之夜佩戴的胸针项链     
-
-总部邮箱：[contact@chopard.com](https://www.chopard.cn/corporate-information)        
-总部Fax：+41 (0)22 719 31 35           
-中国区客服：**021-61367800**          
-中国区官网留言：[www.chopard.cn/lianluo](https://www.chopard.cn/lianluo)        
-微博：[@Chopard萧邦](https://m.weibo.cn/status/4595468867214398) 科普\*\*粉丝曝光伯爵六折表事件[@金碟打牌酒中仙](https://m.weibo.cn/1864691875/4595485731984463)      
-
-***
 
 ## 唯品会
 
