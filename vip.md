@@ -121,10 +121,10 @@
 **1.20更新**：瑞士手表珠宝品牌，驻华子公司为萧邦贸易（上海）有限公司，     
 发博认领\*\*在抖音星动之夜佩戴的胸针项链     
 
-总部邮箱：[contact@chopard.com](https://www.chopard.cn/corporate-information)      
-总部Fax：+41 (0)22 719 31 35 
-中国区客服：**021-61367800**   
-中国区官网留言：[www.chopard.cn/lianluo](https://www.chopard.cn/lianluo)      
+总部邮箱：[contact@chopard.com](https://www.chopard.cn/corporate-information)        
+总部Fax：+41 (0)22 719 31 35           
+中国区客服：**021-61367800**          
+中国区官网留言：[www.chopard.cn/lianluo](https://www.chopard.cn/lianluo)        
 微博：[@Chopard萧邦](https://m.weibo.cn/status/4595468867214398) 科普\*\*粉丝曝光伯爵六折表事件[@金碟打牌酒中仙](https://m.weibo.cn/1864691875/4595485731984463)      
 
 ***
