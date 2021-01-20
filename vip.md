@@ -37,7 +37,7 @@
 
 ***     
 ## 奢牌   
-奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期宣一个奢牌    
+奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期会宣一个奢牌    
 
 ### 英文邮件写作指南和反馈要点   
 [英文应用写作101](#英文应用写作101)           
@@ -45,8 +45,12 @@
 用肤色太黑贬低谈莉娜这件事非常严重！对于有南亚/东南亚血统的人来说尤其严重！     
 英语（尤其是uk）客服很多是印度族裔，对谈莉娜那事很敏感的。附上一份简明词汇列表：   
 ![vol](http://i1.fuimg.com/731395/5147a774c43a8183.png)     
-
-请用比较正式的邮箱（不要用QQ邮箱）  
+### 总部邮箱汇总  
+发email请用比较正式的邮箱（不要用QQ邮箱）  
+**TOD'S**：[ccontact-tods@todsgroup.com](#)            
+**萧邦**：[contact@chopard.com](#)          
+**GUCCI**：[clientservice-europe@it.gucci.com](#)          
+**Dior**：[contactdioreu@dior.com](#)           
 
 ## TOD'S       
 总部邮箱：**ccontact-tods@todsgroup.com**               
