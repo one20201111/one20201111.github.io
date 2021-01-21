@@ -36,23 +36,24 @@
 消防知识复习：下拉参考[\#唯品会](#唯品会)        
 
 ***     
-## 奢牌   
+## Luxury Brand    
 奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期会宣一个奢牌    
-
 ### 英文邮件写作指南和反馈要点   
-[英文应用写作101](#英文应用写作101)           
-[英文邮件模版参考](#迪奥英文邮件模版)         
+[英文应用写作101](#英文应用写作101)   [英文邮件模版参考](#迪奥英文邮件模版)          
 用肤色太黑贬低谈莉娜这件事非常严重！对于有南亚/东南亚血统的人来说尤其严重！     
 英语（尤其是uk）客服很多是印度族裔，对谈莉娜那事很敏感的。附上一份简明词汇列表：   
 ![vol](http://i1.fuimg.com/731395/5147a774c43a8183.png)     
 ### 总部邮箱汇总  
-发email请用比较正式的邮箱（不要用QQ邮箱）  
-**TOD'S**：[ccontact-tods@todsgroup.com](#)            
+**[Tod's](#)**：[ccontact-tods@todsgroup.com](#)            
 **萧邦**：[contact@chopard.com](#)          
 **GUCCI**：[clientservice-europe@it.gucci.com](#)          
-**Dior**：[contactdioreu@dior.com](#)           
+**Dior**：[contactdioreu@dior.com](#)    
+   
+发email请用比较正式的邮箱（不要用QQ邮箱）  
 
-## TOD'S       
+***    
+
+## [Tod's](#)       
 总部邮箱：**ccontact-tods@todsgroup.com**               
 中国区邮箱：tods-cn@store.italiantouch.com        
 中国区客服：**400 0099 062** （周一到周五早上9点至晚上6点，节假日除外）            
@@ -529,27 +530,27 @@ I'm writing to ask you to withdraw the cooperation notice with a fake star.
 ***
 ## 迪奥英文邮件模版     
 
-**邮箱**：contactdioreu@dior.com     
-**题目**：Protest Dior China and Choice of Racist Actor Xiao Zhan     
+**题目**：Protest [Tod's](#) China and Choice of Racist Actor Xiao Zhan     
 
-Dear Sir/Madam,
+Dear Sir/Madam,  
  
-I am one of your customers in China, and I am writing this email on behalf of a big number of Dior Chinese customers. I would like to remind you of a potential harm to Dior.          
+I am one of your customers in China, and I am writing this email on behalf of a big number of [Tod's](#) Chinese customers. I would like to remind you of a potential harm to [Tod's](#).          
  
-Dior is a time-honoured brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently Dior China is supporting an actor who is badly against Dior’s values, and we have reported and complained about it many times, but it seems Dior China keeps ignoring customers’ feelings.        
+[Tod's](#) is a time-honoured brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently [Tod's](#) China is supporting an actor who is badly against your values, and we have reported and complained about it many times, but it seems [Tod's](#) China keeps ignoring customers’ feelings.        
  
 ‘This actor’s name is Xiao Zhan. He became famous in China last year because of one TV Series he performed. Unfortunately some very bad things have happened because of him, lots of frauds and cheating have been committed by his fans. What made the public angry is Xiao Zhan said in a TV interview that he doesn’t have the responsibility to guide his fans. He has been criticized by quite a few public media, but there is no sign that he would like to make any changes.      
  
-I am an big fan of Dior. Recently, you have received a lot of suggestions or complaints.This is not someone persecution of Xiao Zhan,but because he is really a bad actor and bad singer. Now everyone hates Xiao Zhan . He committed racist acts, Post on social media that slanders black people in India, and insulted women. He was known as an inferior actor/singer. China is a big consumer market, but now on Chinese social media WEIBO because Xiao Zhan has appeared a lot of negative news of Dior, so many people are afraid to buy Dior’s products. I'm really worried that gucci's sales and reputation in China will be affected, because my friends and family are all boycotting Xiao Zhan spontaneously. Brands that advertise on Xiao Zhan can only make money with a small amount of goods purchased by Xiao Zhan fans. Many brands have replaced his advertising.     
+I am an big fan of [Tod's](#). Recently, you have received a lot of suggestions or complaints.This is not someone persecution of Xiao Zhan,but because he is really a bad actor and bad singer. Now everyone hates Xiao Zhan . **He committed racist acts, Post on social media that slanders black people in India, and insulted women.** He was known as an inferior actor/singer. China is a big consumer market, but now on Chinese social media WEIBO because Xiao Zhan has appeared a lot of negative news of [Tod's](#), so many people are afraid to buy [Tod's](#) products. I'm really worried that [Tod's](#) sales and reputation in China will be affected, because my friends and family are all boycotting Xiao Zhan spontaneously. Brands that advertise on Xiao Zhan can only make money with a small amount of goods purchased by Xiao Zhan fans. Many brands have replaced his advertising.     
 
-What is more serious isXiao Zhan doesn’t show the personality of Respect. He commented a Chinese-India actress as “India Nigger” on his social media. On his public social media, he talked about very dirty words. (Please see the enclosed attachments).         
+What is more serious is Xiao Zhan doesn’t show the personality of Respect. **He commented a Chinese-India actress as “India Nigger”.** On his public social media, he talked about very dirty words. (Please see the enclosed attachments).         
  
-I, with lots of Chinese customers, do not think Xiao Zhan is compatible with Dior, and I can imagine that if Chinese Dior agency company keep corporate with this actor , the public would definitely doubt Dior values and reputation, and we will be hurt as well. That’s why we suggested Dior China to stop his cooperation with Xiao Zhan. As the main company, you absolutely have the power to stop this cooperation to prevent this issue from actually happening. We are so disappointed that Dior China doesn’t want to take any action to save your reputation.        
+I, with lots of Chinese customers, do not think Xiao Zhan is compatible with [Tod's](#), and I can imagine that if Chinese Dior agency company keep corporate with this actor, the public would definitely doubt [Tod's](#) values and reputation, and we will be hurt as well. That’s why we suggested [Tod's](#) China to stop his cooperation with Xiao Zhan. As the main company, you absolutely have the power to stop this cooperation to prevent this issue from actually happening. We are so disappointed that [Tod's](#) China doesn’t want to take any action to save your reputation.        
  
-In the last few months before， the death of George Floyd has deeply saddened the whole world. That’s why we need to right the world no matter how tiny effort we can do, we need to stop the racist, and we need to show our respect from the bottom of our hearts to each individual, we need to take our respective responsibilities to be good examples in society instead of giving up morals.         
+In the last few months before，the death of George Floyd has deeply saddened the whole world. That’s why we need to right the world no matter how tiny effort we can do, we need to stop the racist, and we need to show our respect from the bottom of our hearts to each individual, we need to take our respective responsibilities to be good examples in society instead of giving up morals.         
  
-Personally I am a big Dior fan. China is a vast market, and you have a great number of admirers here. We sincerely hope you can choose the right person or idol to cooperate with. I hope you can communicate with Dior China to reconsider this situation carefully, please don’t make your Chinese customers upset and disappointed. We will have to choose other brands if Dior continues to support XZ.
-As a lover of Dior for many years, you (the brand side) should carefully consider and then decide whether to choose Xiao Zhan.           
+Personally I am a big [Tod's](#) fan. China is a vast market, and you have a great number of admirers here. We sincerely hope you can choose the right person or idol to cooperate with. I hope you can communicate with [Tod's](#) China to reconsider this situation carefully, please don’t make your Chinese customers upset and disappointed. We will have to choose other brands if [Tod's](#) continues to support XZ.   
+
+As a lover of [Tod's](#) for many years, you (the brand side) should carefully consider and then decide whether to choose Xiao Zhan.           
  
 Thanks for taking your time to read this email, I look forward to your prompt reply.           
  
