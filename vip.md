@@ -552,10 +552,19 @@ Personally I am a big [Tod's](#) fan. China is a vast market, and you have a gre
 
 As a lover of [Tod's](#) for many years, you (the brand side) should carefully consider and then decide whether to choose Xiao Zhan.           
  
-Thanks for taking your time to read this email, I look forward to your prompt reply.           
+Thanks for taking your time to read this email, I look forward to your prompt reply.            
  
 Kind regards,        
-One of your Customers, and with lots of other customers in China    
+One of your Customers, and with lots of other customers in China       
+
+![1](http://i2.tiimg.com/731395/96cbb3499ec9151e.jpg)         
+![5](http://i2.tiimg.com/731395/7d351d81d5f86bd2.jpg)         
+![2](http://i2.tiimg.com/731395/e32f2cb92b73d9a9.jpg)       
+![3](http://i2.tiimg.com/731395/a30f04e26a913e30.jpg)          
+![4](http://i2.tiimg.com/731395/d4e7effffa8035a9.jpg)      
+![6](http://i2.tiimg.com/731395/12bdb220aa6c6baa.jpg)     
+![7](http://i2.tiimg.com/731395/2ad77a92010af6a2.png)    
+![8](http://i2.tiimg.com/731395/86c0913b67e4a0f9.png)        
        
 ***      
 ## GUCCI意大利语模版1       
