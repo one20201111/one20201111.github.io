@@ -39,7 +39,7 @@
 ## Luxury Brand    
 奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期会宣一个奢牌    
 ### 英文邮件写作指南和反馈要点   
-[英文应用写作101](#英文应用写作101)   [英文邮件模版参考](#迪奥英文邮件模版)          
+[英文应用写作101](#英文应用写作101)   [英文邮件模版参考](#英文邮件模版)          
 用肤色太黑贬低Renata Tan(谈莉娜)这件事非常严重！对于有南亚/东南亚血统的人来说尤其严重！     
 英语（尤其是uk）客服很多是印度族裔，对Renata Tan那事很敏感的。附上一份简明词汇列表：   
 ![vol](http://i1.fuimg.com/731395/5147a774c43a8183.png)     
@@ -528,7 +528,7 @@ I'm writing to ask you to withdraw the cooperation notice with a fake star.
 还不放心的可以私信小/号 [@抵制肖战到明年](#) 可以给你的机翻做下检查修改。     
 
 ***
-## 迪奥英文邮件模版     
+## 英文邮件模版     
 
 **题目**：Protest [Tod's](#) China and Choice of Racist Actor Xiao Zhan     
 
