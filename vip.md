@@ -44,7 +44,7 @@
 英语（尤其是uk）客服很多是印度族裔，对Renata Tan那事很敏感的。附上一份简明词汇列表：   
 ![vol](http://i1.fuimg.com/731395/5147a774c43a8183.png)     
 ### 总部邮箱汇总  
-**[Tod's](#)**：[ccontact-tods@todsgroup.com](#)            
+**[Tod's](#)**：[contact-tods@todsgroup.com](#)            
 **萧邦**：[contact@chopard.com](#)          
 **GUCCI**：[clientservice-europe@it.gucci.com](#)          
 **Dior**：[contactdioreu@dior.com](#)    
@@ -54,7 +54,7 @@
 ***    
 
 ## TODS  
-总部邮箱：**ccontact-tods@todsgroup.com**               
+总部邮箱：**contact-tods@todsgroup.com**               
 中国区邮箱：tods-cn@store.italiantouch.com        
 中国区客服：**400 0099 062** （周一到周五早上9点至晚上6点，节假日除外）            
 
