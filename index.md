@@ -168,9 +168,11 @@
 #### 官方表态   
 广电总局主管重点刊物《广电时评》发文提到**“我们不会为丑闻劣迹者提供发声露脸的机会和平台”**，正式封杀郑爽     
 
-![fszs](http://i2.tiimg.com/731395/de4cb240e0b7d4b9.png)     
+![fszs](http://i2.tiimg.com/731395/de4cb240e0b7d4b9.png)    
+ 
+新华社评郑爽事件：让失德艺人彻底凉凉      
 
-
+![xhs](http://i1.fuimg.com/731395/eec4393701105c02.png)       
 #### 北京卫视支持ZS存证    
 ![btvzs](http://i2.tiimg.com/731395/4211075ef42b47de.jpg){:height="80%" width="80%"}      
   
