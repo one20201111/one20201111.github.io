@@ -217,10 +217,12 @@
 
 1.**广电**
   广电总局-节目监督 ☎️ **010-86091111**       
-  广电总局网络视听节目管理司 ☎️ **010-86096124** （TX视频网播渠道）         
+  广电总局网络视听节目管理司 ☎️ **010-86096124** （TX视频网播渠道）        
+  广电网站留言：[www.nrta.gov.cn/jact/front/front_mailwrite.action](http://www.nrta.gov.cn/jact/front/front_mailwrite.action?sysid=1)     
   电视剧投诉电话：86093631      
-  广电建言献策：[www.nrta.gov.cn/jact/front/front_mailwrite.action](http://www.nrta.gov.cn/jact/front/front_mailwrite.action?sysid=1)     
   电子邮箱：**gdjmts@nrta.gov.cn**       
+
+**反馈**：网页投诉会有流水号记录，建议打电话的同时还是要把网页版的也写了    
   
 2.**教育部**    
 ① 教育部总机010-66096114，通了之后要求接思想政治工作司或基础教育司，如果对方不接问你什么问题，直接说孩子/弟弟/妹妹因为网上对电视剧的宣传迷上了斗罗的原著小说，里面含有黄暴、血腥、乱伦等不良内容，我们不知道该找谁反馈，希望领导管一管，下架这个电视剧，不然对青少年影响很不好...（言简意赅不用说太多）如果对方给予转接，请在转接后表达同样的诉求即可。            
