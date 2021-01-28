@@ -35,18 +35,30 @@
 线下门店地址可在李宁官网[www.lining.com/other/shop-lining.html](https://www.lining.com/other/shop-lining.html)查询       
 消防知识复习：下拉参考[\#唯品会](#唯品会)        
 
+**由于李宁有竞标冬奥，如果和\*\*合作有可能让\*\*蹭上冬奥**   
 ***     
-## 冬奥   
+## 冬奥宣传推广   
+![dongao](http://i2.tiimg.com/731395/e328df8d4d4499b9.png)      
 
+### 国际奥委会官网留言     
+**入口网址**：[oscttnet.powerappsportals.com/en-US/request-form-create](https://oscttnet.powerappsportals.com/en-US/request-form-create)         
 
-This is a complaint regarding one of the ambassadors for 2022 Beijing Winter Olympic – Xiao Zhan, a racist celebrity left sexism comment on social media, also, as known as a star used teenagers as his army for his cyber dictatorship. Xiao Zhan’s behaviors are completely against the spirit of Olympics. 
-Before Xiao Zhan’s debut, he left many improper comments on social media, calling an actress NIGGER, leaving sexual harassment comments to others like “sex doll”, and reposting graphs with 5-year-old girls’ private parts, etc. After Xiao Zhan’s debut, his comments have been discovered, and people started to know him about his sexism and racism minds. Instead of facing the past, Xiao Zhan decided to keep silent and take a revenged from the actress who he called her a Nigger. Omitting the specific process, as a result, Xiao Zhan’s fans have been non-stopped leaving massive offensive comments under this actress’ social media account for at least 3 years. Same as all the other ordinaries who refused to support Xiao Zhan, they are all facing massive cyberbullying from Xiao Zhan’s fans and his team.
-On Feb 27, 2020, Xiao Zhan’s fan group maliciously reported the Achieve of Our Own (AO3) website, as a result, people could not visit the website from China. Due to this fact, AO3 users in China started ask Xiao Zhan to apologize since this type of actions was always controlled by celebrity’s team. Xiao Zhan refused to apologize, instead, his fan group started attacking all the ordinary people by cyber bullying. Right after this scandal, Xiao Zhan released a digital single. To make money, Xiao Zhan’s team urged his teenager fans to buy the single at least 105 times either using their own money or money from their parents. This scandal was a huge problem related to youngers, parents and adults asked Xiao Zhan to return the money and apologize. As a result, Xiao Zhan apologized but refused to return the money.
+**投稿作文参考**     
+This is a complaint regarding one of the ambassadors for 2022 Beijing Winter Olympic – Xiao Zhan, a racist celebrity left sexism comment on social media, also, as known as a star used teenagers as his army for his cyber dictatorship. Xiao Zhan’s behaviors are completely against the spirit of Olympics.              
+Before Xiao Zhan’s debut, he left many improper comments on social media, calling an actress NIGGER, leaving sexual harassment comments to others like “sex doll”, and reposting graphs with 5-year-old girls’ private parts, etc. After Xiao Zhan’s debut, his comments have been discovered, and people started to know him about his sexism and racism minds. Instead of facing the past, Xiao Zhan decided to keep silent and take a revenged from the actress who he called her a Nigger. Omitting the specific process, as a result, Xiao Zhan’s fans have been non-stopped leaving massive offensive comments under this actress’ social media account for at least 3 years. Same as all the other ordinaries who refused to support Xiao Zhan, they are all facing massive cyberbullying from Xiao Zhan’s fans and his team.       
+On Feb 27, 2020, Xiao Zhan’s fan group maliciously reported the Achieve of Our Own (AO3) website, as a result, people could not visit the website from China. Due to this fact, AO3 users in China started ask Xiao Zhan to apologize since this type of actions was always controlled by celebrity’s team. Xiao Zhan refused to apologize, instead, his fan group started attacking all the ordinary people by cyber bullying. Right after this scandal, Xiao Zhan released a digital single. To make money, Xiao Zhan’s team urged his teenager fans to buy the single at least 105 times either using their own money or money from their parents. This scandal was a huge problem related to youngers, parents and adults asked Xiao Zhan to return the money and apologize. As a result, Xiao Zhan apologized but refused to return the money.       
 
-Can this guy represent the mission of Olympic spirit?
+Can this guy represent the mission of Olympic spirit?     
 
-
-
+### 国家体育总局      
+① 公众号：**北京冰雪**   (体育总局冬季运动管理中心唯一官方公共账号)         
+② 体育总局官网：[www.sport.gov.cn/n323/index.html](http://www.sport.gov.cn/n323/index.html) –– 政务咨询信箱        
+③ 体育总局冬季运动管理中心联系方式 (来自官网）       
+· 联系电话：**010-88318207**       
+· 单位地址：海淀区中关村南大街56号        
+· 邮政编码：100044           
+![中心职责](http://i2.tiimg.com/731395/2688c23c840ef2a9.png)        
+***  
 ## 奢牌       
 奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期会宣一个奢牌    
 ### 英文邮件写作指南和反馈要点   
