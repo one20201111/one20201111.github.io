@@ -36,7 +36,18 @@
 消防知识复习：下拉参考[\#唯品会](#唯品会)        
 
 ***     
-## Luxury Brand    
+## 冬奥   
+
+
+This is a complaint regarding one of the ambassadors for 2022 Beijing Winter Olympic – Xiao Zhan, a racist celebrity left sexism comment on social media, also, as known as a star used teenagers as his army for his cyber dictatorship. Xiao Zhan’s behaviors are completely against the spirit of Olympics. 
+Before Xiao Zhan’s debut, he left many improper comments on social media, calling an actress NIGGER, leaving sexual harassment comments to others like “sex doll”, and reposting graphs with 5-year-old girls’ private parts, etc. After Xiao Zhan’s debut, his comments have been discovered, and people started to know him about his sexism and racism minds. Instead of facing the past, Xiao Zhan decided to keep silent and take a revenged from the actress who he called her a Nigger. Omitting the specific process, as a result, Xiao Zhan’s fans have been non-stopped leaving massive offensive comments under this actress’ social media account for at least 3 years. Same as all the other ordinaries who refused to support Xiao Zhan, they are all facing massive cyberbullying from Xiao Zhan’s fans and his team.
+On Feb 27, 2020, Xiao Zhan’s fan group maliciously reported the Achieve of Our Own (AO3) website, as a result, people could not visit the website from China. Due to this fact, AO3 users in China started ask Xiao Zhan to apologize since this type of actions was always controlled by celebrity’s team. Xiao Zhan refused to apologize, instead, his fan group started attacking all the ordinary people by cyber bullying. Right after this scandal, Xiao Zhan released a digital single. To make money, Xiao Zhan’s team urged his teenager fans to buy the single at least 105 times either using their own money or money from their parents. This scandal was a huge problem related to youngers, parents and adults asked Xiao Zhan to return the money and apologize. As a result, Xiao Zhan apologized but refused to return the money.
+
+Can this guy represent the mission of Olympic spirit?
+
+
+
+## 奢牌       
 奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期会宣一个奢牌    
 ### 英文邮件写作指南和反馈要点   
 [英文应用写作101](#英文应用写作101)   [英文邮件模版参考](#英文邮件模版)          
