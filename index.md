@@ -137,7 +137,7 @@
  ③ 不要套路，格局要大，站位要高。主要提**及其粉丝的恶劣影响，蹭主流剧的事点一下，就说他不适合演这种剧就行了，普通地提建议即可。     
   
 3.向ZJW网站投诉电视台      
-网址：[https://www.12388.gov.cn/html/index_form.html](https://www.12388.gov.cn/html/index_form.html)  
+网址：[www.12388.gov.cn/html/index_form.html](https://www.12388.gov.cn/html/index_form.html)  
 **投诉流程参考**：[斗罗大陆](#斗罗大陆)        
 
 4.**信访局** (需先注册，实名）      
