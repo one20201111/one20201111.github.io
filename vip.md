@@ -36,9 +36,11 @@
 消防知识复习：下拉参考[\#唯品会](#唯品会)        
 
 **由于李宁有竞标冬奥，如果和\*\*合作有可能让\*\*蹭上冬奥**   
-***     
+
+***   
+     
 ## 冬奥宣传推广   
-![dongao](http://i2.tiimg.com/731395/e328df8d4d4499b9.png)      
+![dongao](http://i2.tiimg.com/731395/e328df8d4d4499b9.png){:height="50%" width="50%"}         
 
 ### 国际奥委会官网留言     
 **入口网址**：[oscttnet.powerappsportals.com/en-US/request-form-create](https://oscttnet.powerappsportals.com/en-US/request-form-create)         
@@ -57,8 +59,10 @@ Can this guy represent the mission of Olympic spirit?
 · 联系电话：**010-88318207**       
 · 单位地址：海淀区中关村南大街56号        
 · 邮政编码：100044           
-![中心职责](http://i2.tiimg.com/731395/2688c23c840ef2a9.png)        
+![中心职责](http://i2.tiimg.com/731395/2688c23c840ef2a9.png){:height="50%" width="50%"}             
+
 ***  
+
 ## 奢牌       
 奢牌开始在\*\*冒头的各种晚会认领服饰，网传近期会宣一个奢牌    
 ### 英文邮件写作指南和反馈要点   
