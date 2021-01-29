@@ -134,13 +134,17 @@
 ① 事先自备好信封，写好地址拿到邮局，寄挂号信或者EMS，别的不收     
 ② 字一定要手写，附加的证据可以打印出来，图片不要打码       
 
-3.向ZJW网站投诉电视台      
+3.ZJW网站       
 网址：[www.12388.gov.cn/html/index_form.html](https://www.12388.gov.cn/html/index_form.html)  
-**投诉流程参考**：[斗罗大陆](#斗罗大陆)        
+陈临春 （2021年春晚总导演）      
+职务: 中央电视台文艺中心副主任、大型节目中心副主任，副县处级别              
+问题类别:玩忽职守/其他玩忽职守行为      
+(不提\*\*名字，用争议性艺人/负面形象艺人替代)   
 
 4.**信访局** (需先注册，实名）      
 ① 网站：[gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm](http://www.gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm)                  
 ② 手机下载APP       
+**问题地点**：北京市西城区； **类别**：舆论宣传 （写清楚是CCTV选人的问题，立意要高）    
 
 5.央视网          
 ① 留言版 [help.cctv.com/liuyan/index.shtml](https://help.cctv.com/liuyan/index.shtml)                
