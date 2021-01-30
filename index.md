@@ -120,7 +120,7 @@
 4.**信访局** (需先注册，实名）      
 ① 网站：[gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm](http://www.gjxfj.gov.cn/gjxfj/wsxf/A0903index_1.htm)                  
 ② 手机下载APP       
-**问题地点**：北京市西城区； **类别**：舆论宣传 （写清楚是CCTV选人的问题，立意要高）    
+**类别**：舆论宣传 （写清楚是CCTV选人的问题，立意要高）    
 
 5.央视网          
 ① 留言版 [help.cctv.com/liuyan/index.shtml](https://help.cctv.com/liuyan/index.shtml)                
