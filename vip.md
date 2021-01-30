@@ -80,7 +80,7 @@ Can this guy represent the mission of Olympic spirit?
  
 ④ 咨询电子邮箱 📧  **zixun@sport.gov.cn**         
 
-![zixungov](http://i1.fuimg.com/731395/32c537baedefa145.jpg)       
+![zixungov](http://i1.fuimg.com/731395/32c537baedefa145.jpg){:height="80%" width="80%"}        
 
 ***  
 
