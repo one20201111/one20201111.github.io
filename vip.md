@@ -40,8 +40,8 @@
 ***   
      
 ## 冬奥宣传推广   
-![dongao](http://i2.tiimg.com/731395/e328df8d4d4499b9.png){:height="50%" width="50%"}         
-
+![dongao](http://i2.tiimg.com/731395/e328df8d4d4499b9.png){:height="50%" width="50%"}            
+![dongmeng](http://i2.tiimg.com/731395/943de265fbcd8b56.jpg){:height="80%" width="80%"}       
 ### 国际奥委会官网留言     
 **入口网址**：[oscttnet.powerappsportals.com/en-US/request-form-create](https://oscttnet.powerappsportals.com/en-US/request-form-create)         
 
