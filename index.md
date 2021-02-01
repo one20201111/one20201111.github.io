@@ -330,7 +330,7 @@
 
 #### 反映方向参考
 一、**女主角吴宣仪在萨德部署和限韩令期间慰问韩军**，所在公司因“从事有损国格人格演出或展览活动“被行政处罚。  
-![wxy1](http://i2.tiimg.com/731395/16ca70d275e34f7f.jpg){:height="50%" width="50%"} ![wxy2](http://i2.tiimg.com/731395/eca967d5c7d298b7.jpg){:height="50%" width="50%"}         
+![wxy1](http://i2.tiimg.com/731395/16ca70d275e34f7f.jpg){:height="50%" width="50%"}![wxy2](http://i2.tiimg.com/731395/eca967d5c7d298b7.jpg){:height="45%" width="45%"}         
 
 
 事件复盘与证据参考微博[@NICECOFFEETIME专用12315](https://m.weibo.cn/status/4590172102462163)      
