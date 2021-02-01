@@ -197,7 +197,7 @@
  
 ### 向zjw检举北京台   
 原台长和现任台长任期内，公然支持台du、支持**郑爽**、\*\*等劣迹艺人，为了流量罔顾立场，屡次漠视群众意见，疑似与明星团队存在利益输送，导致意识形态出现严重问题，身为台长在选人问题上把关不严，存在玩忽职守和失职渎职的行为。     
-![b4](http://i2.tiimg.com/731395/8f622bdeb8d54d69.jpg)      
+
 **zjw网站**：[www.12388.gov.cn/html/index_form.html](https://www.12388.gov.cn/html/index_form.html)   
 职级：正厅局级     
 ![b1](http://i2.tiimg.com/731395/ebd0cc4036ec2f66.jpg){:height="50%" width="50%"}![b2](http://i2.tiimg.com/731395/d4e35cc22869f711.jpg){:height="50%" width="50%"}![b3](http://i2.tiimg.com/731395/bad33158377872eb.jpg){:height="50%" width="50%"}                
