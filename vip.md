@@ -91,13 +91,19 @@ Can this guy represent the mission of Olympic spirit?
 用肤色太黑贬低Renata Tan(谈莉娜)这件事非常严重！对于有南亚/东南亚血统的人来说尤其严重！     
 英语（尤其是uk）客服很多是印度族裔，对Renata Tan那事很敏感的。附上一份简明词汇列表：   
 ![vol](http://i1.fuimg.com/731395/5147a774c43a8183.png)     
-### 总部邮箱汇总  
-**[Tod's](#)**：[contact-tods@todsgroup.com](#)            
-**萧邦**：[contact@chopard.com](#)          
-**GUCCI**：[clientservice-europe@it.gucci.com](#)          
-**Dior**：[contactdioreu@dior.com](#)    
+### 总部邮箱汇总      
+**TODS**：[contact-tods@todsgroup.com](#)              
+**萧邦**：[contact@chopard.com](#)             
+**GUCCI**：[clientservice-europe@it.gucci.com](#)              
+**Dior**：[contactdioreu@dior.com](#)       
+**HarryWinston**：[clientcare@harrywinston.com](#)         
+**Fred斐登**：[fred@approche-sur-mesure.fr](#)         
+**Givenchy紀梵希**：[contact.us@givenchy.com](#)       
+**LES HOMMES**：[customer.relations@leshommes.com](#)              
+**BALMAIN**：[eboutique@balmain.fr](#)     
    
-发email请用比较正式的邮箱（不要用QQ邮箱）  
+ 
+发email请用比较正式的邮箱（不要用QQ邮箱）    
 
 ***    
 
@@ -197,8 +203,35 @@ Can this guy represent the mission of Olympic spirit?
 
 ## YSL（欧莱雅旗下）    
 电话：400-820-6362（周一至周五9:00-18:00）   
-留言：[www.yslbeautycn.com](https://www.yslbeautycn.com)客服中心可以转人工客服             
-
+留言：[www.yslbeautycn.com](https://www.yslbeautycn.com)客服中心可以转人工客服          
+    
+## HarryWinston   
+总部邮箱： [clientcare@harrywinston.com]()      
+中国区邮箱：[ClientCare_CHS@HarryWinston.com]()       
+官网留言：[www.harrywinston.com/en/contact](https://www.harrywinston.com/en/contact)   
+官网留言(中文)[www.harrywinston.com/zh-hans/contact-cn](https://www.harrywinston.com/zh-hans/contact-cn)      
+电话：+1 800 988 4110      
+INS: [@harrywinston](https://www.instagram.com/harrywinston/)          
+推特：[@HarryWinston](https://twitter.com/harrywinston)        
+## Fred斐登        
+中国区客服电话：**+86 400 819 1031** （周一至周五早上10点到晚上7点）     
+总部邮箱：[fred@approche-sur-mesure.fr](#)    
+邮箱联系入口：[www.fred.com/en-int/Contactus](https://www.fred.com/en-int/Contactus)        
+总部客服电话：+33 (0)1 82 28 21 01       
+猫店：FRED斐登天猫官方旗舰店         
+## LES HOMMES            
+总部邮箱：[customer.relations@leshommes.com]()   
+总部客服电话：+39 02 42205321    
+INS: [@leshommes_official](https://www.instagram.com/leshommes_official/)        
+fb：[@LESHOMMESofficial](https://www.facebook.com/LESHOMMESofficial/)       
+## Givenchy紀梵希        
+总部邮箱：[contact.us@givenchy.com]()         
+客服电话：1 833 908 0147 （英语或西班牙语）     
+## BALMAIN   
+总部邮箱：[eboutique@balmain.fr]()      
+客服电话：1 833 243 1772  
+INS: [@balmain](https://www.instagram.com/balmain/)        
+fb: [@balmainparis](https://www.facebook.com/balmainparis/)        
 ***  
 
 ## 唯品会
