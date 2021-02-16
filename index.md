@@ -248,7 +248,8 @@
 
 <span style="color:red;font-size:1.5em;">2021-02-15 15:40</span> <span style="font-size:1.5em;">肖战大粉在微博群组织粉丝到发布消息的官媒微博下控评</span>    
      
-![kp1](http://i2.tiimg.com/731395/d2a4dcd6ddc6a9a0.jpg){:height="50%" width="50%"}![kp2](http://i2.tiimg.com/731395/527f116cac4e08e5.jpg){:height="50%" width="50%"}            
+![kp1](http://i2.tiimg.com/731395/d2a4dcd6ddc6a9a0.jpg){:height="50%" width="50%"}![kp2](http://i2.tiimg.com/731395/527f116cac4e08e5.jpg){:height="50%" width="50%"}        
+    
 ![kp3](http://i2.tiimg.com/731395/c9aee0afc2dcbf0a.jpg)         
 ![kp4](http://i2.tiimg.com/731395/7e2448041e592382.jpg)        
 
