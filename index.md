@@ -177,7 +177,7 @@
 
 ![学生发博1](http://i1.fuimg.com/731395/233cb0c439dbb45d.jpg)      
 
-**<font color=red size=5>2021-02-13 20:54</font>**<span style="font-size:2em;">县教育局官微[@永宁教育](https://m.weibo.cn/status/4604244446157463)发博回应称正在调查处理。网友称赞官博回应速度快</span>       
+**<font color=red size=5>2021-02-13 20:54</font>**<span style="font-size:1.5em;">县教育局官微[@永宁教育](https://m.weibo.cn/status/4604244446157463)发博回应称正在调查处理。网友称赞官博回应速度快</span>       
 
 ![3](http://i1.fuimg.com/731395/2514423a3cb78066.jpg)         
 
