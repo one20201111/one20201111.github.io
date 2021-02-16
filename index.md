@@ -168,7 +168,7 @@
 
 ## 永宁事件时间线    
 
-**<font color=red size=5>2021-02-13 11:23</font>** <font size=5>银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</font>   
+**<font color=red size=5>2021-02-13 11:23</font>** <font size=5>&nbsp;银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</font>   
 ![dialog](http://i1.fuimg.com/731395/40ab4436d4e91c1f.jpg)       
 原视频(BV号：[BV1Wo4y197cV](https://www.bilibili.com/video/BV1Wo4y197cV))的内容介绍如下：         
 ![原视频介绍](http://i2.tiimg.com/731395/b4bec892a4f9faf8.png)       
@@ -177,7 +177,7 @@
 
 ![学生发博1](http://i1.fuimg.com/731395/233cb0c439dbb45d.jpg)      
 
-<font color=red size=5>2021-02-13 20:54</font> <font size=5>县教育局官微[@永宁教育](https://m.weibo.cn/status/4604244446157463)发博回应称正在调查处理。网友称赞官博回应速度快</font>       
+<font color=red size=5>2021-02-13 20:54</font> <font size=5>县教育局官微</font>[<font size=5>@永宁教育</font>](https://m.weibo.cn/status/4604244446157463)<font size=5>发博回应称正在调查处理。网友称赞官博回应速度快</font>       
 
 ![3](http://i1.fuimg.com/731395/2514423a3cb78066.jpg)         
 
