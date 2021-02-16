@@ -169,34 +169,44 @@
 ## 永宁事件时间线    
 
 **<span style="color:red;font-size:1.5em;">2021-02-13 11:23</span>**     
-<span style="font-size:1.5em;">&nbsp;银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，录音中的数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</span>   
+<span style="font-size:1.5em;">银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，录音中的数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</span>   
 ![dialog](http://i1.fuimg.com/731395/40ab4436d4e91c1f.jpg)       
 
 <span style="font-size:1.5em;">原视频(BV号：[BV1Wo4y197cV](https://www.bilibili.com/video/BV1Wo4y197cV))的内容介绍如下：</span>        
    
 ![原视频介绍](http://i2.tiimg.com/731395/b4bec892a4f9faf8.png)       
 
-**<span style="color:red;font-size:1.5em;">2021-02-13 18:56</span>**             
+***  
+
+**<span style="color:red;font-size:1.8em;">2021-02-13 18:56</span>**             
 <span style="font-size:1.5em;">该学生发微博表示举报吴凡老师并简述了事情经过，引起微博热议</span>           
 
-![学生发博1](http://i1.fuimg.com/731395/233cb0c439dbb45d.jpg)      
+![学生发博1](http://i1.fuimg.com/731395/233cb0c439dbb45d.jpg)   
+   
+***   
 
-**<span style="color:red;font-size:1.5em;">2021-02-13 20:54</span>**         
+**<span style="color:red;font-size:1.8em;">2021-02-13 20:54</span>**         
 <span style="font-size:1.5em;">县教育局官微[@永宁教育](https://m.weibo.cn/status/4604244446157463)发博回应称正在调查处理。网友称赞官博回应速度快</span>       
 
 ![3](http://i1.fuimg.com/731395/2514423a3cb78066.jpg)         
 
-**<span style="color:red;font-size:1.5em;">2021-02-13 22:37</span>**       
+***  
+
+**<span style="color:red;font-size:1.8em;">2021-02-13 22:37</span>**       
 <span style="font-size:1.5em;">该学生发博晒出精神卫生科的医保处方以证明确实患上抑郁症。网友表示关切并要求严查</span>   
         
 ![3-1](http://i1.fuimg.com/731395/e9eff98b5d9fa656.jpg)          
 
-**<span style="color:red;font-size:1.5em;">2021-02-14 00:58</span>**         
+***  
+
+**<span style="color:red;font-size:1.8em;">2021-02-14 00:58</span>**         
 <span style="font-size:1.5em;">凌晨该学生的微博号发博称校长驾车几十分钟到他家商讨此事，“校方也联系不到吴老师”。此时昨天18:56发布的那条举报老师的微博已被删除。由于最新微博内容口吻太“官方”，部分网友质疑该微博账号已被校方接管</span>   
      
 ![4](http://i1.fuimg.com/731395/08c3b8009f67169e.jpg)      
 
-**<span style="color:red;font-size:1.5em;">2021-02-14 11:07</span>**    
+***   
+
+**<span style="color:red;font-size:1.8em;">2021-02-14 11:07</span>**    
 <span style="font-size:1.5em;">微博话题 [#永宁中学#]() 持续发酵，多家官方媒体相继发博对事件进行报道，多位微博大v也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</span>     
 
 沸点视频：[m.weibo.cn/status/4604459039326824](https://m.weibo.cn/status/4604459039326824)      
@@ -204,49 +214,67 @@
 广州日报：[m.weibo.cn/status/4604468513737683](https://m.weibo.cn/status/4604468513737683)        
 环球时报：[m.weibo.cn/status/4604530170529286](https://m.weibo.cn/status/4604530170529286)          
 观察者网：[m.weibo.cn/status/4604478076488334](https://m.weibo.cn/status/4604478076488334)         
-工人日报：[m.weibo.cn/status/4604593084572917](https://m.weibo.cn/status/4604593084572917)       
+工人日报：[m.weibo.cn/status/4604593084572917](https://m.weibo.cn/status/4604593084572917)    
+   
+***   
 
-**<span style="color:red;font-size:1.5em;">2021-02-14 12:13</span>**     
+**<span style="color:red;font-size:1.8em;">2021-02-14 12:13</span>**     
 <span style="font-size:1.5em;">该学生微博账号发布了一张吴老师在自己直播间删除回放，疑似销毁证据的截图</span>       
 ![5](http://i1.fuimg.com/731395/048e6afb34b65acc.jpg)       
 
-**<span style="color:red;font-size:1.5em;">2021-02-14 14:43</span>**          
+***   
+
+**<span style="color:red;font-size:1.8em;">2021-02-14 14:43</span>**          
 <span style="font-size:1.5em;">学生微博账号再次发博称吴老师已登门道歉</span>          
 ![6](http://i1.fuimg.com/731395/d737f7839ab42b70.jpg)        
 
-**<span style="color:red;font-size:1.5em;">2021-02-14 20:30左右</span>**     
+***    
+
+**<span style="color:red;font-size:1.8em;">2021-02-14 20:30左右</span>**     
 <span style="font-size:1.5em;">微博话题[#肖战糊了#]()、[#永宁中学#]()、[#学生网名为肖战糊了被老师辱骂#]()、[#学生因网名为肖战糊了遭老师辱骂#]() 相继遭到封禁</span>     
     
 ![f0](http://i1.fuimg.com/731395/e3e2cbb9e743aa17.jpg){:height="50%" width="50%"}![f1](http://i1.fuimg.com/731395/f9f66c86befc7068.jpg){:height="50%" width="50%"}          
 ![f2](http://i1.fuimg.com/731395/912a9f11140a8a46.jpg){:height="50%" width="50%"}![f3](http://i1.fuimg.com/731395/349055abfccd39fa.jpg){:height="50%" width="50%"}           
 
-**<span style="color:red;font-size:1.5em;">2021-02-14 22:16</span>**    
+***  
+
+**<span style="color:red;font-size:1.8em;">2021-02-14 22:16</span>**    
 <span style="font-size:1.5em;">[@九洲新闻](https://m.weibo.cn/status/4604627393709351) 发布”官方回应“称事件涉及流量明星所以敏感性比较高，学生抑郁症不一定是老师辱骂导致</span>  
    
 ![7](http://i1.fuimg.com/731395/d42c75e19a3d049e.jpg)      
 
 <span style="font-size:1.5em;">众多网友对回应表示不满，质疑教育局把流量明星问题放在第一位，却没有提到学生的情况，甚至暗示“受害者有罪论”</span>     
-![8](http://i1.fuimg.com/731395/d5059105911f559a.jpg)      
 
-**<span style="color:red;font-size:1.5em;">2021-02-15 10:44</span>**   
+***  
+
+**<span style="color:red;font-size:1.8em;">2021-02-15 10:44</span>**   
 <span style="font-size:1.5em;">人民日报海外版旗下账号 [@侠客岛]() 也报道了此事件</span>     
    
 ![renri](http://i1.fuimg.com/731395/d9efd4fd755eba20.jpg)   
 
-**<span style="color:red;font-size:1.5em;">2021-02-15 11:23</span>**       
+***   
+
+
+**<span style="color:red;font-size:1.8em;">2021-02-15 11:23</span>**       
 <span style="font-size:1.5em;">永宁县教育局官微 [@永宁教育]() 发布情况通告，对涉事教师的处理结果是“在全县教育系统通报批评，取消两年内评奖评优资格“</span>     
 ![chuli](http://i2.tiimg.com/731395/499378d2d5954a96.jpg)     
 
 
 <span style="font-size:1.5em;">众多网友对处理结果表示不满，认为处罚力度太轻，担心学生被打击报复。也有网友认为吴老师身为党员，在课堂上宣称的"以肖战为中心思想“属于反动言论</span>         
 
-![p0](http://i2.tiimg.com/731395/18726c328ec108a3.png)         
+![p0](http://i2.tiimg.com/731395/18726c328ec108a3.png)     
+
+![p1](http://i2.tiimg.com/731395/9cbb987a4fc6cdc6.png)   
+    
 
 <span style="font-size:1.5em;">官微 [@永宁教育]() 删除了对处理结果表达不满的网友评论</span>    
     
-![sp1](http://i1.fuimg.com/731395/b3ff3c77c326001b.jpg){:height="50%" width="50%"}![sp2](http://i1.fuimg.com/731395/ec60ba53eff95b4d.jpg){:height="50%" width="50%"}         
+![sp1](http://i1.fuimg.com/731395/b3ff3c77c326001b.jpg){:height="50%" width="50%"}![sp2](http://i1.fuimg.com/731395/ec60ba53eff95b4d.jpg){:height="50%" width="50%"}       
+  
+***    
 
-<span style="color:red;font-size:1.5em;">2021-02-15 15:40</span> <span style="font-size:1.5em;">肖战大粉在微博群组织粉丝到发布消息的官媒微博下控评</span>    
+**<span style="color:red;font-size:1.8em;">2021-02-15 15:40</span>**         
+<span style="font-size:1.5em;">肖战大粉在微博群组织粉丝到发布消息的官媒微博下控评</span>      
      
 ![kp1](http://i2.tiimg.com/731395/d2a4dcd6ddc6a9a0.jpg){:height="50%" width="50%"}![kp2](http://i2.tiimg.com/731395/527f116cac4e08e5.jpg){:height="50%" width="50%"}        
     
