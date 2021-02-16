@@ -168,28 +168,28 @@
 
 ## 永宁事件时间线    
 
-**<font color=red size=5>2021-02-13 11:23</font>** <font size=5>&nbsp;银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，录音中的数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</font>   
+**<span style="color:red;font-size:1.5em;">2021-02-13 11:23</span>** <span style="font-size:1.5em;">&nbsp;银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，录音中的数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</span>   
 ![dialog](http://i1.fuimg.com/731395/40ab4436d4e91c1f.jpg)       
 原视频(BV号：[BV1Wo4y197cV](https://www.bilibili.com/video/BV1Wo4y197cV))的内容介绍如下：         
 ![原视频介绍](http://i2.tiimg.com/731395/b4bec892a4f9faf8.png)       
 
-<font color=red size=5>2021-02-13 18:56</font> <font size=5>该学生发微博表示举报吴凡老师并简述了事情经过，引起微博热议</font>           
+<span style="color:red;font-size:1.5em;">2021-02-13 18:56</span> <span style="font-size:1.5em;">该学生发微博表示举报吴凡老师并简述了事情经过，引起微博热议</span>           
 
 ![学生发博1](http://i1.fuimg.com/731395/233cb0c439dbb45d.jpg)      
 
-**<font color=red size=5>2021-02-13 20:54</font>**<span style="font-size:1.5em;">县教育局官微[@永宁教育](https://m.weibo.cn/status/4604244446157463)发博回应称正在调查处理。网友称赞官博回应速度快</span>       
+**<span style="color:red;font-size:1.5em;">2021-02-13 20:54</span>**<span style="font-size:1.5em;">县教育局官微[@永宁教育](https://m.weibo.cn/status/4604244446157463)发博回应称正在调查处理。网友称赞官博回应速度快</span>       
 
 ![3](http://i1.fuimg.com/731395/2514423a3cb78066.jpg)         
 
-**<font color=red size=5>2021-02-13 22:37</font>** <font size=5>该学生发博晒出精神卫生科的医保处方以证明确实患上抑郁症。网友表示关切并要求严查</font>   
+**<span style="color:red;font-size:1.5em;">2021-02-13 22:37</span>** <span style="font-size:1.5em;">该学生发博晒出精神卫生科的医保处方以证明确实患上抑郁症。网友表示关切并要求严查</span>   
         
 ![3-1](http://i1.fuimg.com/731395/e9eff98b5d9fa656.jpg)          
 
-<font color=red size=5>2021-02-14 00:58</font> <font size=5>凌晨该学生的微博号发博称校长驾车几十分钟到他家商讨此事，“校方也联系不到吴老师”。此时昨天18:56发布的那条举报老师的微博已被删除。由于最新微博内容口吻太“官方”，部分网友质疑该微博账号已被校方接管</font>   
+<span style="color:red;font-size:1.5em;">2021-02-14 00:58</span> <span style="font-size:1.5em;">凌晨该学生的微博号发博称校长驾车几十分钟到他家商讨此事，“校方也联系不到吴老师”。此时昨天18:56发布的那条举报老师的微博已被删除。由于最新微博内容口吻太“官方”，部分网友质疑该微博账号已被校方接管</span>   
      
 ![4](http://i1.fuimg.com/731395/08c3b8009f67169e.jpg)      
 
-<font color=red size=5>2021-02-14 11:07</font> <font size=5>微博话题 [#永宁中学#]() 持续发酵，多家官方媒体相继发博对事件进行报道，多位微博大v也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</font>     
+<span style="color:red;font-size:1.5em;">2021-02-14 11:07</span> <span style="font-size:1.5em;">微博话题 [#永宁中学#]() 持续发酵，多家官方媒体相继发博对事件进行报道，多位微博大v也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</span>     
 
 沸点视频：[m.weibo.cn/status/4604459039326824](https://m.weibo.cn/status/4604459039326824)      
 凤凰周刊：[m.weibo.cn/status/4604464374226033](https://m.weibo.cn/status/4604464374226033)        
@@ -198,41 +198,41 @@
 观察者网：[m.weibo.cn/status/4604478076488334](https://m.weibo.cn/status/4604478076488334)         
 工人日报：[m.weibo.cn/status/4604593084572917](https://m.weibo.cn/status/4604593084572917)       
 
-<font color=red size=5>2021-02-14 12:13</font> <font size=5>该学生微博账号发布了一张吴老师在自己直播间删除回放，疑似销毁证据的截图</font>       
+<span style="color:red;font-size:1.5em;">2021-02-14 12:13</span> <span style="font-size:1.5em;">该学生微博账号发布了一张吴老师在自己直播间删除回放，疑似销毁证据的截图</span>       
 ![5](http://i1.fuimg.com/731395/048e6afb34b65acc.jpg)       
 
-<font color=red size=5>2021-02-14 14:43</font> <font size=5>学生微博账号再次发博称吴老师已登门道歉</font>          
+<span style="color:red;font-size:1.5em;">2021-02-14 14:43</span> <span style="font-size:1.5em;">学生微博账号再次发博称吴老师已登门道歉</span>          
 ![6](http://i1.fuimg.com/731395/d737f7839ab42b70.jpg)        
 
-<font color=red size=5>2021-02-14 20:30左右</font> <font size=5>微博话题[#肖战糊了#]()、[#永宁中学#]()、[#学生网名为肖战糊了被老师辱骂#]()、[#学生因网名为肖战糊了遭老师辱骂#]() 相继遭到封禁</font>     
+<span style="color:red;font-size:1.5em;">2021-02-14 20:30左右</span> <span style="font-size:1.5em;">微博话题[#肖战糊了#]()、[#永宁中学#]()、[#学生网名为肖战糊了被老师辱骂#]()、[#学生因网名为肖战糊了遭老师辱骂#]() 相继遭到封禁</span>     
     
 ![f0](http://i1.fuimg.com/731395/e3e2cbb9e743aa17.jpg){:height="50%" width="50%"}![f1](http://i1.fuimg.com/731395/f9f66c86befc7068.jpg){:height="50%" width="50%"}          
 ![f2](http://i1.fuimg.com/731395/912a9f11140a8a46.jpg){:height="50%" width="50%"}![f3](http://i1.fuimg.com/731395/349055abfccd39fa.jpg){:height="50%" width="50%"}           
 
-<font color=red size=5>2021-02-14 22:16</font> <font size=5>[@九洲新闻](https://m.weibo.cn/status/4604627393709351) 发布”官方回应“称事件涉及流量明星所以敏感性比较高，学生抑郁症不一定是老师辱骂导致</font>  
+<span style="color:red;font-size:1.5em;">2021-02-14 22:16</span> <span style="font-size:1.5em;">[@九洲新闻](https://m.weibo.cn/status/4604627393709351) 发布”官方回应“称事件涉及流量明星所以敏感性比较高，学生抑郁症不一定是老师辱骂导致</span>  
    
 ![7](http://i1.fuimg.com/731395/d42c75e19a3d049e.jpg)      
 
-<font size=5>众多网友对回应表示不满，质疑教育局把流量明星问题放在第一位，却没有提到学生的情况，甚至暗示“受害者有罪论”</font>     
+<span style="font-size:1.5em;">众多网友对回应表示不满，质疑教育局把流量明星问题放在第一位，却没有提到学生的情况，甚至暗示“受害者有罪论”</span>     
 ![8](http://i1.fuimg.com/731395/d5059105911f559a.jpg)      
 
-<font color=red size=5>2021-02-15 10:44</font> <font size=5>人民日报海外版旗下账号 [@侠客岛]() 也报道了此事件</font>     
+<span style="color:red;font-size:1.5em;">2021-02-15 10:44</span> <span style="font-size:1.5em;">人民日报海外版旗下账号 [@侠客岛]() 也报道了此事件</span>     
    
 ![renri](http://i1.fuimg.com/731395/d9efd4fd755eba20.jpg)   
 
-<font color=red size=5>2021-02-15 11:23</font>  <font size=5>永宁县教育局官微 [@永宁教育]() 发布情况通告，对涉事教师的处理结果是“在全县教育系统通报批评，取消两年内评奖评优资格“</font>     
+<span style="color:red;font-size:1.5em;">2021-02-15 11:23</span>  <span style="font-size:1.5em;">永宁县教育局官微 [@永宁教育]() 发布情况通告，对涉事教师的处理结果是“在全县教育系统通报批评，取消两年内评奖评优资格“</span>     
 ![chuli](http://i2.tiimg.com/731395/499378d2d5954a96.jpg)     
 
 
-<font size=5>众多网友对处理结果表示不满，认为处罚力度太轻，担心学生被打击报复。也有网友认为吴老师身为党员，在课堂上宣称的"以肖战为中心思想“属于反动言论</font>         
+<span style="font-size:1.5em;">众多网友对处理结果表示不满，认为处罚力度太轻，担心学生被打击报复。也有网友认为吴老师身为党员，在课堂上宣称的"以肖战为中心思想“属于反动言论</span>         
 
 ![p0](http://i2.tiimg.com/731395/18726c328ec108a3.png)         
 
-<font size=5>官微 [@永宁教育]() 删除了对处理结果表达不满的网友评论</font>    
+<span style="font-size:1.5em;">官微 [@永宁教育]() 删除了对处理结果表达不满的网友评论</span>    
     
 ![sp1](http://i1.fuimg.com/731395/b3ff3c77c326001b.jpg){:height="50%" width="50%"}![sp2](http://i1.fuimg.com/731395/ec60ba53eff95b4d.jpg){:height="50%" width="50%"}         
 
-<font color=red size=5>2021-02-15 15:40</font> <font size=5>肖战大粉在微博群组织粉丝到发布消息的官媒微博下控评</font>    
+<span style="color:red;font-size:1.5em;">2021-02-15 15:40</span> <span style="font-size:1.5em;">肖战大粉在微博群组织粉丝到发布消息的官媒微博下控评</span>    
      
 ![kp1](http://i2.tiimg.com/731395/d2a4dcd6ddc6a9a0.jpg){:height="50%" width="50%"}![kp2](http://i2.tiimg.com/731395/527f116cac4e08e5.jpg){:height="50%" width="50%"}            
 ![kp3](http://i2.tiimg.com/731395/c9aee0afc2dcbf0a.jpg)         
@@ -832,7 +832,7 @@
 **录屏存证**：
 百度网盘🔗 [宁波晚报录屏.mp4](https://pan.baidu.com/s/1XnXEMnO7e3zX8Nunk0GkBw) 提取码: bp1t       
 
-1.**浙江XSZ** **<font size=5>0571-88057878</font>**    
+1.**浙江XSZ** **<span style="font-size:1.5em;">0571-88057878</span>**    
 
 [@王师茹悼](): *借楼，我告诉你们怎么才可以打通巡视组电话，打一次正在通话中就挂断，然后继续拨打挂断拨打挂断重复几十次就会有人接，我重复了20多次有人接的，我实名投诉了宁波事件*        
     
@@ -975,13 +975,13 @@
 ### 渠道       
 
 1.文明委 (文明办的上级)办公室职能处联系方式 (来自官网[xxgk.bjwmb.gov.cn/zzjg/zncs/](http://xxgk.bjwmb.gov.cn/zzjg/zncs/))           
-<font color="red" size="4">创建活动处简介：</font> 主要负责组织协调创建文明行业、文明单位、文明社区、文明居民区、文明村镇、文明城市的活动。负责群众性精神文明创建活动先进的评选工作。              
+<font color="red" size="4">创建活动处简介：</span> 主要负责组织协调创建文明行业、文明单位、文明社区、文明居民区、文明村镇、文明城市的活动。负责群众性精神文明创建活动先进的评选工作。              
 **Email**：wmbcjc@bjwmb.gov.cn     邮政编码：100005　                
 **电话**：63087563   传真：63087561   负责人：王亦宁                 
-<font color="red" size="4">宣传教育处：</font>  负责组织市民思想道德教育活动；负责精神文明宣传和教育工作；负责首都精神文明建设中先进人物的评选审核工作。　               
+<font color="red" size="4">宣传教育处：</span>  负责组织市民思想道德教育活动；负责精神文明宣传和教育工作；负责首都精神文明建设中先进人物的评选审核工作。　               
 **Email**：wmbxjc@bjwmb.gov.cn   邮政编码：100005　              
 **电话**：63087511  传真：63087517　         
-<font color="red" size="4">未成年人工作处：</font> 组织协调有关部门共同做好未成年人思想道德建设工作；负责督促检查、贯彻落实关于加强和改进未成年人思想道德建设工作的情况；承担北京市关心下一代工作委员会的日常工作等。                   
+<font color="red" size="4">未成年人工作处：</span> 组织协调有关部门共同做好未成年人思想道德建设工作；负责督促检查、贯彻落实关于加强和改进未成年人思想道德建设工作的情况；承担北京市关心下一代工作委员会的日常工作等。                   
 **Email**：wmbxjc@bjwmb.gov.cn   邮政编码：100005          　             
 **电话**：63087547  传真：63087549  负责人：常建军　        
 
