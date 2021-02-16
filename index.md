@@ -177,11 +177,11 @@
 
 ![学生发博1](http://i1.fuimg.com/731395/233cb0c439dbb45d.jpg)      
 
-<font color=red size=5>2021-02-13 20:54</font> <font size=5>县教育局官微</font>[<font size=5>@永宁教育</font>](https://m.weibo.cn/status/4604244446157463)<font size=5>发博回应称正在调查处理。网友称赞官博回应速度快</font>       
+<font color=red size=5>2021-02-13 20:54</font> <font size=5>县教育局官微</font>[@永宁教育](https://m.weibo.cn/status/4604244446157463)<font size=5>发博回应称正在调查处理。网友称赞官博回应速度快</font>       
 
 ![3](http://i1.fuimg.com/731395/2514423a3cb78066.jpg)         
 
-<font color=red size=5>2021-02-13 22:37</font> <font size=5>该学生发博晒出精神卫生科的医保处方以证明确实患上抑郁症。网友表示关切并要求严查</font>   
+**<font color=red size=5>2021-02-13 22:37</font>** <font size=5>该学生发博晒出精神卫生科的医保处方以证明确实患上抑郁症。网友表示关切并要求严查</font>   
         
 ![3-1](http://i1.fuimg.com/731395/e9eff98b5d9fa656.jpg)          
 
