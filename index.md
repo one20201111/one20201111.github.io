@@ -266,10 +266,11 @@
 <span style="font-size:1.5em;">永宁县教育局官微 [@永宁教育]() 发布情况通告，对涉事教师的处理结果是      
 “在全县教育系统通报批评，取消两年内评奖评优资格“</span>     
 
-![chuli](http://i2.tiimg.com/731395/499378d2d5954a96.jpg)     
+![chuli](http://i2.tiimg.com/731395/499378d2d5954a96.jpg){:height="110%" width="110%"}     
 
 
-<span style="font-size:1.5em;">众多网友对处理结果表示不满，认为处罚力度太轻，担心学生被打击报复。也有网友认为吴老师身为党员，在课堂上宣称的"以肖战为中心思想“属于反动言论</span>         
+<span style="font-size:1.5em;">众多网友对处理结果表示不满，认为处罚力度太轻，担心学生被打击报复。也有网友认为吴老师身为党员，在课堂上宣称的"以肖战为中心思想“属于反动言论      
+</span>         
 
 ![p0](http://i2.tiimg.com/731395/18726c328ec108a3.png)     
 
@@ -287,8 +288,9 @@
      
 ![kp1](http://i2.tiimg.com/731395/d2a4dcd6ddc6a9a0.jpg){:height="50%" width="50%"}![kp2](http://i2.tiimg.com/731395/527f116cac4e08e5.jpg){:height="50%" width="50%"}        
     
-![kp3](http://i2.tiimg.com/731395/c9aee0afc2dcbf0a.jpg)         
-![kp4](http://i2.tiimg.com/731395/7e2448041e592382.jpg)        
+![kp3](http://i2.tiimg.com/731395/c9aee0afc2dcbf0a.jpg){:height="120%" width="120%"}       
+  
+![kp4](http://i2.tiimg.com/731395/7e2448041e592382.jpg){:height="120%" width="120%"}        
 
 
 
