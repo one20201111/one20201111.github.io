@@ -207,7 +207,7 @@
 ***   
 
 **<span style="color:red;font-size:1.8em;">2021-02-14 11:07</span>**    
-<span style="font-size:1.5em;">微博话题 [#永宁中学#]() 持续发酵，多家官方媒体相继发博对事件进行报道，许多博主也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</span>     
+<span style="font-size:1.5em;">微博话题[#永宁中学#]()持续发酵，多家官方媒体相继发博对事件进行报道，许多博主也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</span>     
 
 <span style="font-size:1.5em;">
 沸点视频：[m.weibo.cn/status/4604459039326824](https://m.weibo.cn/status/4604459039326824)      
@@ -221,13 +221,13 @@
 ***   
 
 **<span style="color:red;font-size:1.8em;">2021-02-14 12:13</span>**     
-<span style="font-size:1.5em;">该学生微博账号发布了一张吴老师在自己直播间删除回放，疑似销毁证据的截图</span>       
+<span style="font-size:1.5em;">该学生微博账号发布了一张疑似吴老师在自己直播间删除回放销毁证据的截图</span>       
 ![5](http://i1.fuimg.com/731395/048e6afb34b65acc.jpg)       
 
 ***   
 
 **<span style="color:red;font-size:1.8em;">2021-02-14 14:43</span>**          
-<span style="font-size:1.5em;">学生微博账号再次发博称吴老师已登门道歉</span>          
+<span style="font-size:1.5em;">学生微博账号再次发博称吴老师已登门道歉，有网友质疑该账号已被接管</span>          
 ![6](http://i1.fuimg.com/731395/d737f7839ab42b70.jpg)        
 
 ***    
@@ -241,7 +241,8 @@
 ***  
 
 **<span style="color:red;font-size:1.8em;">2021-02-14 22:16</span>**    
-<span style="font-size:1.5em;">[@九洲新闻](https://m.weibo.cn/status/4604627393709351) 发布”官方回应“称事件涉及流量明星所以敏感性比较高，学生抑郁症不一定是老师辱骂导致</span>  
+<span style="font-size:1.5em;">[@九洲新闻](https://m.weibo.cn/status/4604627393709351) 发布”官方回应“称事件涉及流量明星所以敏感性比较高，  
+学生抑郁症不一定是老师辱骂导致</span>  
    
 ![7](http://i1.fuimg.com/731395/d42c75e19a3d049e.jpg)      
 
@@ -259,7 +260,9 @@
 ***   
 
 **<span style="color:red;font-size:1.8em;">2021-02-15 11:23</span>**       
-<span style="font-size:1.5em;">永宁县教育局官微 [@永宁教育]() 发布情况通告，对涉事教师的处理结果是“在全县教育系统通报批评，取消两年内评奖评优资格“</span>     
+<span style="font-size:1.5em;">永宁县教育局官微 [@永宁教育]() 发布情况通告，对涉事教师的处理结果是      
+“在全县教育系统通报批评，取消两年内评奖评优资格“</span>     
+
 ![chuli](http://i2.tiimg.com/731395/499378d2d5954a96.jpg)     
 
 
