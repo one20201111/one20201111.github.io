@@ -67,7 +67,7 @@ ysld替代品推荐：
 [@手捧槲珠换酒钱 的微博](http://t.cn/A6bLu605)   
 ![ysld替代品](http://i2.tiimg.com/731395/869973e3b552f571.jpg)     
 
-⭐ 奶制品类(目前光明不可)     
+⭐ 奶制品类      
 [@居-怂怂 的微博](http://t.cn/A6U44Z54)   
 [@起肖蔷 的微博评论区](http://t.cn/A6UbIeZK)   
 [@赞赞知乎搬运助手 的微博](http://t.cn/A6b9yJUO)     
