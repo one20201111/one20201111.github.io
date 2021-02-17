@@ -207,7 +207,7 @@
 ***   
 
 **<span style="color:red;font-size:1.8em;">2021-02-14 11:07</span>**    
-<span style="font-size:1.5em;">微博话题 [#永宁中学#]() 持续发酵，多家官方媒体相继发博对事件进行报道，多位微博大v也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</span>     
+<span style="font-size:1.5em;">微博话题 [#永宁中学#]() 持续发酵，多家官方媒体相继发博对事件进行报道，许多博主也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</span>     
 
 <span style="font-size:1.5em;">
 沸点视频：[m.weibo.cn/status/4604459039326824](https://m.weibo.cn/status/4604459039326824)      
