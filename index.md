@@ -166,10 +166,10 @@
 
 ***     
 
-## 永宁事件时间线    
+# 事件时间线    
 
 **<span style="color:red;font-size:1.5em;">2021-02-13 11:23</span>**     
-<span style="font-size:1.5em;">银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，录音中的数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</span>   
+<span style="font-size:1.5em;">银川永宁县永宁中学一名16岁学生曝光了去年4月上网课的视频，录音的数学老师吴凡因该学生网课id叫“肖战糊了“污蔑他浏览不良网站，甚至威胁要在开学后算账。事后该学生被老师骂了很长时间，导致患上抑郁症</span>   
 ![dialog](http://i1.fuimg.com/731395/40ab4436d4e91c1f.jpg)       
 
 <span style="font-size:1.5em;">原视频(BV号：[BV1Wo4y197cV](https://www.bilibili.com/video/BV1Wo4y197cV))的内容介绍如下：</span>        
@@ -209,12 +209,14 @@
 **<span style="color:red;font-size:1.8em;">2021-02-14 11:07</span>**    
 <span style="font-size:1.5em;">微博话题 [#永宁中学#]() 持续发酵，多家官方媒体相继发博对事件进行报道，多位微博大v也纷纷评论转发。话题讨论度非常高却没有一个能登上热搜</span>     
 
+<span style="font-size:1.5em;">
 沸点视频：[m.weibo.cn/status/4604459039326824](https://m.weibo.cn/status/4604459039326824)      
 凤凰周刊：[m.weibo.cn/status/4604464374226033](https://m.weibo.cn/status/4604464374226033)        
 广州日报：[m.weibo.cn/status/4604468513737683](https://m.weibo.cn/status/4604468513737683)        
 环球时报：[m.weibo.cn/status/4604530170529286](https://m.weibo.cn/status/4604530170529286)          
 观察者网：[m.weibo.cn/status/4604478076488334](https://m.weibo.cn/status/4604478076488334)         
 工人日报：[m.weibo.cn/status/4604593084572917](https://m.weibo.cn/status/4604593084572917)    
+</span>   
    
 ***   
 
@@ -245,6 +247,8 @@
 
 <span style="font-size:1.5em;">众多网友对回应表示不满，质疑教育局把流量明星问题放在第一位，却没有提到学生的情况，甚至暗示“受害者有罪论”</span>     
 
+![mingan]()  
+
 ***  
 
 **<span style="color:red;font-size:1.8em;">2021-02-15 10:44</span>**   
@@ -253,7 +257,6 @@
 ![renri](http://i1.fuimg.com/731395/d9efd4fd755eba20.jpg)   
 
 ***   
-
 
 **<span style="color:red;font-size:1.8em;">2021-02-15 11:23</span>**       
 <span style="font-size:1.5em;">永宁县教育局官微 [@永宁教育]() 发布情况通告，对涉事教师的处理结果是“在全县教育系统通报批评，取消两年内评奖评优资格“</span>     
