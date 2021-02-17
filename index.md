@@ -247,7 +247,7 @@
 
 <span style="font-size:1.5em;">众多网友对回应表示不满，质疑教育局把流量明星问题放在第一位，却没有提到学生的情况，甚至暗示“受害者有罪论”</span>     
 
-![mingan]()  
+![mingan](http://i2.tiimg.com/731395/a30a1171ec8bd966.png)      
 
 ***  
 
