@@ -144,7 +144,7 @@
 [~~东方卫视《我们的歌》新春特辑~~](#我们的歌新春特辑)        
 #### 已播出            
 [《狼殿下》](http://xzbh.top/log.html#狼殿下)             
-[宁波奥体中心《演员请就位》决赛](http://xzbh.top/vip.html#唯品会)                   
+[空降宁波奥体中心《演员请就位》决赛](http://xzbh.top/vip.html#唯品会)                   
 [腾讯视频星光大赏](http://xzbh.top/log.html#腾讯视频星光大赏)                 
 [东方卫视跨年盛典](http://xzbh.top/log.html#东方卫视跨年)           
 [优酷《奇妙之城》](#优酷奇妙之城)           
