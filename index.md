@@ -156,8 +156,9 @@
 [《斗罗》(CCTV8上星，腾讯视频网播)](#斗罗大陆)                 
 
 ### 商务合作/品牌代言     
-[@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，未宣)    
-[@breo倍轻松](https://weibo.com/breochina) (网传待签全年）   
+[@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，未宣)     
+[@breo倍轻松](https://weibo.com/breochina) (网传待签全年）    
+[@统一鲜橙多](https://weibo.com/tongyixianchengduo)（网传）     
 [@德国双立人官方微博](https://weibo.com/u/3171409662) (网传春节后签）    
 [@时尚芭莎](https://weibo.com/bazaarchina) (网传在争取时尚杂志)      
 #### 已代言   
