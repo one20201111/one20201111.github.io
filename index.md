@@ -124,38 +124,64 @@
 ***   
   
 ## 本页索引 (点击跳转)      
+### 综艺影视/公开活动      
 [元宵晚会](#元宵晚会)           
 [《余生》](#余生请多指教)            
 [《大决战》](#大决战)     
 [《王牌部队》](#王牌部队)      
 [《朱颜》](#朱颜)                 
-[微博之夜（因疫情延期）](#微博之夜)            
-[江苏卫视《蒙面唱将》](#蒙面唱将)      
+[微博之夜](#微博之夜)            
+[江苏卫视《蒙面唱将》(网传已录，暂未出现)](#蒙面唱将)      
 [~~天猫双11晚会~~](http://xzbh.top/log.html)                              
 [~~COSMO时尚盛典~~](http://xzbh.top/log.html#cosmo时尚盛典)        
 [~~湖南卫视拼多多双十二超拼夜~~](http://xzbh.top/log.html#湖南卫视拼多多双十二超拼夜)           
 [~~《我们的歌》第二季~~](http://xzbh.top/log.html#我们的歌第二季)       
 [~~北京卫视跨年演唱会~~](http://xzbh.top/log.html#北京卫视跨年)           
 [~~湖南卫视跨年演唱会~~](http://xzbh.top/log.html#湖南卫视跨年演唱会)    
-[~~疼讯音乐娱乐盛典~~](#疼讯音乐娱乐盛典)     
+[~~腾讯音乐娱乐盛典~~](#疼讯音乐娱乐盛典)     
 [~~央视春晚~~](#央视春晚)       
 [~~东方卫视《我们的歌》新春特辑~~](#我们的歌新春特辑)        
-#### 已播出        
-[《狼殿下》](http://xzbh.top/log.html#狼殿下)            
-[宁波奥体中心《演员请就位》决赛](http://xzbh.top/vip.html#唯品会)                  
-[腾讯视频星光大赏](http://xzbh.top/log.html#腾讯视频星光大赏)                
-[东方卫视跨年盛典](http://xzbh.top/log.html#东方卫视跨年)          
+#### 已播出            
+[《狼殿下》](http://xzbh.top/log.html#狼殿下)             
+[宁波奥体中心《演员请就位》决赛](http://xzbh.top/vip.html#唯品会)                   
+[腾讯视频星光大赏](http://xzbh.top/log.html#腾讯视频星光大赏)                 
+[东方卫视跨年盛典](http://xzbh.top/log.html#东方卫视跨年)           
 [优酷《奇妙之城》](#优酷奇妙之城)           
 [爱奇艺尖叫之夜](#爱奇艺尖叫之夜)       
 [抖音星动之夜](#抖音星动之夜)       
 [东方卫视春晚](#卫视春晚)        
-[北京卫视春晚](#卫视春晚)     
-[《斗罗》](#斗罗大陆)            
-#### 社会事件   
+[北京卫视春晚](#卫视春晚)   
+[CCTV8星推荐](#央视春晚)        
+[《斗罗》(CCTV8上星，腾讯视频网播)](#斗罗大陆)                 
+
+### 商务合作/品牌代言     
+[@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，未宣)    
+[@breo倍轻松](https://weibo.com/breochina) (网传待签全年）   
+[@德国双立人官方微博](https://weibo.com/u/3171409662) (网传春节后签）    
+[@时尚芭莎](https://weibo.com/bazaarchina) (网传在争取时尚杂志)      
+#### 已代言   
+[@蒙牛乳业](https://weibo.com/mengniu1999) （全线）      
+[@雅诗兰黛](https://m.weibo.cn/u/1793598474)      
+[@开小灶官方微博](https://weibo.com/u/6585364613)        
+[@ROSEONLY诺誓](https://weibo.com/roseonlyshop)         
+[@百威啤酒](https://weibo.com/budweiser)          
+[@腾讯视频](https://weibo.com/ilovevideo)         
+#### 近期认领过的奢牌，网传有一个待宣     
+[@TODS](https://m.weibo.cn/status/4603912882232953)         
+[@DIOR迪奥](https://weibo.com/dior)          
+[@GUCCI](https://m.weibo.cn/u/1934738161)       
+[@Chopard萧邦](https://m.weibo.cn/status/4595468867214398)        
+[@海瑞温斯顿HarryWinston](https://m.weibo.cn/status/4603884418634106)                
+[@Givenchy紀梵希](https://m.weibo.cn/status/4603919671504381)        
+[@FRED斐登](https://m.weibo.cn/status/4603899765592339)          
+[@LESHOMMES_OFFICIAL](https://m.weibo.cn/status/4603921186950336)         
+[@BALMAINPARIS](https://m.weibo.cn/status/4603895068756118)          
+
+#### 社会事件    
 1.光点逼氪        
 2.[川美聚集](http://xzbh.top/cm.html)     
 3.[宁波奥体中心为\*\*关闭监控事件](#宁波为关闭监控一事)             
-4.光点舞课堂应援事件被教育部通报批评     
+4.教师带学生课堂应援事件被教育部通报批评     
 5.[收礼事件](#zjw)            
 6.永宁中学事件      
 
