@@ -227,14 +227,13 @@
 最后更新：**2021.2.26**        
 
 ### 综艺影视/公开活动      
-[元宵晚会](#元宵晚会)           
-[《余生》](#余生请多指教)       
-[北京卫视《冬梦之约》](http://xzbh.top/vip.html)        
-[《大决战》](#大决战)      
-[《王牌部队》](#王牌部队)       
-[《朱颜》](#朱颜)                 
-[微博之夜](#微博之夜)            
-[江苏卫视《蒙面唱将》(网传已录，暂未出现)](#蒙面唱将)      
+[《余生》](#余生请多指教) （男主角）     
+[北京卫视《冬梦之约》](http://xzbh.top/vip.html) (网传已录)         
+[《朱颜》](#朱颜)  (网传3月开机）     
+[《庆余年2》]()  （言冰云）           
+[《王牌部队》](#王牌部队) （男主角）     
+[《大决战》](#大决战)  （献礼剧，网传饰演一名东北大学生）     
+[江苏卫视《蒙面唱将》(网传已录，暂未出现)](#蒙面唱将)       
 [~~天猫双11晚会~~](http://xzbh.top/log.html)                              
 [~~COSMO时尚盛典~~](http://xzbh.top/log.html#cosmo时尚盛典)        
 [~~湖南卫视拼多多双十二超拼夜~~](http://xzbh.top/log.html#湖南卫视拼多多双十二超拼夜)           
@@ -244,6 +243,7 @@
 [~~腾讯音乐娱乐盛典~~](#疼讯音乐娱乐盛典)     
 [~~央视春晚~~](#央视春晚)       
 [~~东方卫视《我们的歌》新春特辑~~](#我们的歌新春特辑)        
+[~~元宵晚会~~](#元宵晚会)           
 #### 已播出            
 [《狼殿下》](http://xzbh.top/log.html#狼殿下)             
 [空降宁波奥体中心《演员请就位》决赛](http://xzbh.top/vip.html#唯品会)                   
@@ -255,34 +255,40 @@
 [东方卫视春晚](#卫视春晚)        
 [北京卫视春晚](#卫视春晚)   
 [CCTV8星推荐](#央视春晚)        
-[《斗罗》(CCTV8上星，腾讯视频网播)](#斗罗大陆)       
+[《斗罗》(CCTV8上星，腾讯视频网播)](#斗罗大陆)      
+[微博之夜](#微博之夜)     
 
 ***      
          
 ### 商务合作/品牌代言     
-[@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，有网友称询问过线下店不久会宣)      
-[@MOLSION陌森眼镜]()（法国依视路集团旗下[@依视路光学](https://weibo.com/essilorchina)）    
-[@breo倍轻松](https://weibo.com/breochina) (网传预计第二季度官宣）      
-[@德国双立人官方微博](https://weibo.com/u/3171409662) (网传春节后签）    
+[@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，有网友称询问过线下店不久会宣)       
+[@MOLSION陌森眼镜]()（法国依视路集团旗下[@依视路光学](https://weibo.com/essilorchina)）     
+[@breo倍轻松](https://weibo.com/breochina) (网传预计第二季度官宣）       
+[@德国双立人官方微博](https://weibo.com/u/3171409662) (网传春节后签）     
 [@时尚芭莎](https://weibo.com/bazaarchina) (网传在争取时尚杂志)      
+蒙牛蒂兰圣雪冰淇淋、统一满汉大餐泡面、统一打气柠檬气泡水 （网传增加的子品牌代言，建议全线避雷）        
 #### 已代言   
 [@蒙牛乳业](https://weibo.com/mengniu1999) （全线）      
 [@雅诗兰黛](https://m.weibo.cn/u/1793598474)      
-[@开小灶官方微博](https://weibo.com/u/6585364613)        
+[@开小灶官方微博](https://weibo.com/u/6585364613)         
 [@ROSEONLY诺誓](https://weibo.com/roseonlyshop)         
-[@小鹿茶luckintea](https://m.weibo.cn/7296671966/4556455900360520)      
+[@小鹿茶luckintea](https://m.weibo.cn/7296671966/4556455900360520)         
+[@新笑傲江湖手游](https://weibo.com/xajh3d)      
 [@百威啤酒](https://weibo.com/budweiser)          
 [@腾讯视频](https://weibo.com/ilovevideo)         
-#### 近期认领过的奢牌，网传有一个待宣     
-[@TODS](https://m.weibo.cn/status/4603912882232953)         
-[@DIOR迪奥](https://weibo.com/dior)          
-[@GUCCI](https://m.weibo.cn/u/1934738161)       
+#### 近期活动认领过服饰鞋子的奢牌，网传有一个待宣     
+[@TODS](https://m.weibo.cn/status/4603912882232953)      
+[@GUCCI](https://m.weibo.cn/u/1934738161)    
+[@DIOR迪奥](https://weibo.com/dior)       
+[@TiffanyAndCo蒂芙尼]()    
 [@Chopard萧邦](https://m.weibo.cn/status/4595468867214398)        
-[@海瑞温斯顿HarryWinston](https://m.weibo.cn/status/4603884418634106)                
-[@Givenchy紀梵希](https://m.weibo.cn/status/4603919671504381)        
 [@FRED斐登](https://m.weibo.cn/status/4603899765592339)          
+[@海瑞温斯顿HarryWinston](https://m.weibo.cn/status/4603884418634106)      
+[@SAINTLAURENT圣罗兰]()            
+[@Givenchy紀梵希](https://m.weibo.cn/status/4603919671504381)        
 [@LESHOMMES_OFFICIAL](https://m.weibo.cn/status/4603921186950336)         
 [@BALMAINPARIS](https://m.weibo.cn/status/4603895068756118)     
+[@HOGAN]()     
      
 ***   
 
