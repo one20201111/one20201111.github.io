@@ -270,6 +270,7 @@
 [@雅诗兰黛](https://m.weibo.cn/u/1793598474)      
 [@开小灶官方微博](https://weibo.com/u/6585364613)        
 [@ROSEONLY诺誓](https://weibo.com/roseonlyshop)         
+[@小鹿茶luckintea](https://m.weibo.cn/7296671966/4556455900360520)      
 [@百威啤酒](https://weibo.com/budweiser)          
 [@腾讯视频](https://weibo.com/ilovevideo)         
 #### 近期认领过的奢牌，网传有一个待宣     
