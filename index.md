@@ -275,7 +275,8 @@
 [@MOLSION陌森眼镜]()（法国依视路集团旗下[@依视路光学](https://weibo.com/essilorchina)）     
 [@breo倍轻松](https://weibo.com/breochina) (网传拟定六月官宣）       
 [@德国双立人官方微博](https://weibo.com/u/3171409662) (网传四月官宣）     
-[@芭莎男士](https://weibo.com/bazaarchina) (网传在争取第二季度某本时尚杂志封面)      
+[@芭莎男士](https://weibo.com/bazaarchina)      
+(网传在争取第二季度某本时尚杂志封面，可能是《芭莎男士》)       
 蒙牛蒂兰圣雪冰淇淋、统一满汉大餐泡面、统一打气柠檬气泡水     
 （网传增加的子品牌代言，建议全线避雷）        
 #### 已代言   
