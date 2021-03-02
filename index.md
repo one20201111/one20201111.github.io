@@ -2,6 +2,9 @@
 
 [**置顶**] 建议持续反映：1.[zjw](#zjw)  2.[手写信](#手写信地址)     
 
+### 3.2更新   
+网传 [@TiffanyAndCo蒂芙尼]() 在帮\*\*推上某本时尚杂志第二季度的封面     
+
 ### 3.1更新    
 ① [#肖战这场戏哭了很多次#]()等宣传《斗罗》相关话题上热搜       
 ② [@陌森隐形眼镜]()发微博“等等再等等”并在评论回复中透露将在3月5日的38女王节活动官宣\*\*；        
@@ -229,7 +232,7 @@
   
 ## 本页索引 (点击跳转)      
 
-最后更新：**2021.2.28**        
+最后更新：**2021.3.2**        
 ### 综艺影视/公开活动      
 [《余生》](#余生请多指教) （目前唯一待播剧，男主角）     
 &nbsp;&nbsp;[北京卫视《冬梦之约》](http://xzbh.top/vip.html) (网传已录)         
@@ -272,7 +275,7 @@
 [@MOLSION陌森眼镜]()（法国依视路集团旗下[@依视路光学](https://weibo.com/essilorchina)）     
 [@breo倍轻松](https://weibo.com/breochina) (网传拟定六月官宣）       
 [@德国双立人官方微博](https://weibo.com/u/3171409662) (网传四月官宣）     
-[@时尚芭莎](https://weibo.com/bazaarchina) (网传在争取某本一线时尚杂志)      
+[@时尚芭莎](https://weibo.com/bazaarchina) (网传在争取第二季度某本一线时尚杂志封面)      
 蒙牛蒂兰圣雪冰淇淋、统一满汉大餐泡面、统一打气柠檬气泡水     
 （网传增加的子品牌代言，建议全线避雷）        
 #### 已代言   
@@ -288,7 +291,7 @@
 [@TODS](https://m.weibo.cn/status/4603912882232953)      
 [@GUCCI](https://m.weibo.cn/u/1934738161)    
 [@DIOR迪奥](https://weibo.com/dior)       
-[@TiffanyAndCo蒂芙尼]()    
+[@TiffanyAndCo蒂芙尼]() （网传在帮\*\*推上某本时尚杂志第二季度的封面）       
 [@Chopard萧邦](https://m.weibo.cn/status/4595468867214398)        
 [@FRED斐登](https://m.weibo.cn/status/4603899765592339)          
 [@海瑞温斯顿HarryWinston](https://m.weibo.cn/status/4603884418634106)      
