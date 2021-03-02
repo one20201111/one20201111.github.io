@@ -270,8 +270,8 @@
 ### 商务合作/品牌代言     
 [@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，有网友称询问过线下店不久会宣)       
 [@MOLSION陌森眼镜]()（法国依视路集团旗下[@依视路光学](https://weibo.com/essilorchina)）     
-[@breo倍轻松](https://weibo.com/breochina) (网传预计第二季度官宣）       
-[@德国双立人官方微博](https://weibo.com/u/3171409662) (网传春节后签）     
+[@breo倍轻松](https://weibo.com/breochina) (网传拟定六月官宣）       
+[@德国双立人官方微博](https://weibo.com/u/3171409662) (网传四月官宣）     
 [@时尚芭莎](https://weibo.com/bazaarchina) (网传在争取某本一线时尚杂志)      
 蒙牛蒂兰圣雪冰淇淋、统一满汉大餐泡面、统一打气柠檬气泡水     
 （网传增加的子品牌代言，建议全线避雷）        
