@@ -244,11 +244,22 @@ Can this guy represent the mission of Olympic spirit?
 [@酒酿芝麻小圆子](https://m.weibo.cn/1735741953/4584684808581002)：[m.weibo.cn/1735741953/4584684808581002](https://m.weibo.cn/1735741953/4584684808581002)        
 
 ## TIFFANY       
-电话： **400 921 3299** （周一至周日10:00-21:00）    
-邮箱：lynn.wu@tiffany.com（商事信息登记找到的，不知道有没有用）        
+客服电话： **400 921 3299** （周一至周日10:00-21:00）        
 官网留言：        
-中国：[tiffany.cn/customer-service](https://www.tiffany.cn/customer-service)            
-美国（总部）：[tiffany.com/customer-service](https://www.tiffany.com/customer-service)                
+中国：[tiffany.cn/customer-service](https://www.tiffany.cn/customer-service)             
+美国（总部）：[tiffany.com/customer-service](https://www.tiffany.com/customer-service)          
+蒂芙尼（上海）商业有限公司邮箱：lynn.wu@tiffany.com（商事信息登记找到的，不知道有没有用）        
+### 投稿
+建议给Tiffany的反馈，可以同步反馈LVMH，       
+总部网站留言：[www.lvmh.com/contact/](https://www.lvmh.com/contact/)               
+中国区网站留言：[www.lvmh.cn/contact/](https://www.lvmh.cn/contact/)           
+(LVMH中国)路威酩轩香水化妆品（上海）有限公司      
+服务电话：**021-60356088**（这个要转分机的，明天按个0找总机试试）    
+ 
+（背景故事是LVMH才花了大价钱并购了Tiffany，想要开拓fine jewelery市场，        
+但是刚买就发现因为T的骚操作导致中国市场被抵制造成了损失，总部不会不在意）           
+PS：集团接管Tiffany的是如今LVMH当家的二儿子，重视程度可以想象了
+
 
 ## YSL（欧莱雅旗下）    
 电话：400-820-6362（周一至周五9:00-18:00）   
