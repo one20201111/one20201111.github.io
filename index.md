@@ -14,7 +14,8 @@
 
 ### 3.2更新   
 ① 网传 [@TiffanyAndCo蒂芙尼]() 在帮\*\*推上某本时尚杂志第二季度的封面（有可能是《芭莎男士》）   
-② 网友曝光陌森眼镜线下大屏广告的视频，显示\*\*为陌森眼镜品牌代言人（全线）      
+② 网传李宁3月底官宣\*\*   
+③ 网友曝光陌森眼镜线下大屏广告的视频，显示\*\*为陌森眼镜品牌代言人（全线）      
 ### 3.1更新    
 ① [#肖战这场戏哭了很多次#]()等宣传《斗罗》相关话题上热搜       
 ② [@陌森隐形眼镜]()发微博“等等再等等”并在评论回复中透露将在3月5日的38女王节活动官宣\*\*；        
@@ -185,10 +186,44 @@
   
 ## 本页索引 (点击跳转)      
 
-最后更新：**2021.3.2**        
+最后更新：**2021.3.3**        
+### 商务合作/品牌代言     
+[@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，准备3月底宣)        
+[@MOLSION陌森眼镜]()（官博透露将在3月5日的”38女王节活动“官宣）           
+[@breo倍轻松](https://weibo.com/breochina) (网传拟定六月官宣）       
+[@德国双立人官方微博](https://weibo.com/u/3171409662) (网传四月官宣）     
+[@芭莎男士](https://weibo.com/bazaarchina)      
+(网传在争取第二季度某本时尚杂志封面，可能是《芭莎男士》)       
+[蒙牛蒂兰圣雪冰淇淋]()、[统一满汉大餐泡面]()、[统一A-Ha打气柠檬气泡水]()         
+（网传增加的子品牌代言，建议全线避雷）        
+#### 已代言   
+[@蒙牛乳业](https://weibo.com/mengniu1999) （全线）      
+[@雅诗兰黛](https://m.weibo.cn/u/1793598474)      
+[@开小灶官方微博](https://weibo.com/u/6585364613)         
+[@ROSEONLY诺誓](https://weibo.com/roseonlyshop)         
+[@小鹿茶luckintea](https://m.weibo.cn/7296671966/4556455900360520)         
+[@新笑傲江湖手游](https://weibo.com/xajh3d)      
+[@百威啤酒](https://weibo.com/budweiser)          
+[@腾讯视频](https://weibo.com/ilovevideo)         
+#### 近期活动认领过服饰鞋子的奢牌，网传有一个待宣     
+[@TODS](https://m.weibo.cn/status/4603912882232953)      
+[@GUCCI](https://m.weibo.cn/u/1934738161)    
+[@DIOR迪奥](https://weibo.com/dior)       
+[@TiffanyAndCo蒂芙尼]() （网传在帮\*\*推上某本时尚杂志第二季度的封面）       
+[@Chopard萧邦](https://m.weibo.cn/status/4595468867214398)        
+[@FRED斐登](https://m.weibo.cn/status/4603899765592339)          
+[@海瑞温斯顿HarryWinston](https://m.weibo.cn/status/4603884418634106)      
+[@SAINTLAURENT圣罗兰]()            
+[@Givenchy紀梵希](https://m.weibo.cn/status/4603919671504381)        
+[@LESHOMMES_OFFICIAL](https://m.weibo.cn/status/4603921186950336)         
+[@BALMAINPARIS](https://m.weibo.cn/status/4603895068756118)     
+[@HOGAN]()     
+     
+***    
+
 ### 综艺影视/公开活动      
 [《余生》](#余生请多指教) （目前唯一待播剧，男主角）     
-&nbsp;&nbsp;[北京卫视《冬梦之约》](http://xzbh.top/vip.html) (3.3已官宣，3.5播出)              
+&nbsp;&nbsp;[北京卫视《冬梦之约》](http://xzbh.top/vip.html) (3.3已官宣，3月5日播出)              
 [《朱颜》](#朱颜)  (网传3月开机）     
 [《庆余年2》]()  （饰演言冰云）           
 [《王牌部队》](#王牌部队) （男主角）     
@@ -223,40 +258,6 @@
 
 ***      
          
-### 商务合作/品牌代言     
-[@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，准备3月底宣)        
-[@MOLSION陌森眼镜]()（官博透露将在3月5日的”38女王节活动“官宣）           
-[@breo倍轻松](https://weibo.com/breochina) (网传拟定六月官宣）       
-[@德国双立人官方微博](https://weibo.com/u/3171409662) (网传四月官宣）     
-[@芭莎男士](https://weibo.com/bazaarchina)      
-(网传在争取第二季度某本时尚杂志封面，可能是《芭莎男士》)       
-[蒙牛蒂兰圣雪冰淇淋]()、[统一满汉大餐泡面]()、[统一A-Ha打气柠檬气泡水]()         
-（网传增加的子品牌代言，建议全线避雷）        
-#### 已代言   
-[@蒙牛乳业](https://weibo.com/mengniu1999) （全线）      
-[@雅诗兰黛](https://m.weibo.cn/u/1793598474)      
-[@开小灶官方微博](https://weibo.com/u/6585364613)         
-[@ROSEONLY诺誓](https://weibo.com/roseonlyshop)         
-[@小鹿茶luckintea](https://m.weibo.cn/7296671966/4556455900360520)         
-[@新笑傲江湖手游](https://weibo.com/xajh3d)      
-[@百威啤酒](https://weibo.com/budweiser)          
-[@腾讯视频](https://weibo.com/ilovevideo)         
-#### 近期活动认领过服饰鞋子的奢牌，网传有一个待宣     
-[@TODS](https://m.weibo.cn/status/4603912882232953)      
-[@GUCCI](https://m.weibo.cn/u/1934738161)    
-[@DIOR迪奥](https://weibo.com/dior)       
-[@TiffanyAndCo蒂芙尼]() （网传在帮\*\*推上某本时尚杂志第二季度的封面）       
-[@Chopard萧邦](https://m.weibo.cn/status/4595468867214398)        
-[@FRED斐登](https://m.weibo.cn/status/4603899765592339)          
-[@海瑞温斯顿HarryWinston](https://m.weibo.cn/status/4603884418634106)      
-[@SAINTLAURENT圣罗兰]()            
-[@Givenchy紀梵希](https://m.weibo.cn/status/4603919671504381)        
-[@LESHOMMES_OFFICIAL](https://m.weibo.cn/status/4603921186950336)         
-[@BALMAINPARIS](https://m.weibo.cn/status/4603895068756118)     
-[@HOGAN]()     
-     
-***   
-
 ### 社会事件    
 1.光点逼氪            
 2.[川美聚集](http://xzbh.top/cm.html)     
