@@ -2,6 +2,88 @@
 # 沾shit商务列表      
 {% include nav.html %}    
 
+## 欧莱雅      
+网传代言巴黎欧莱雅洗发水（欧莱雅集团旗下美发品牌）未宣，可冲           
+### 全线避雷清单    
+![oreal](http://i1.fuimg.com/731395/3a79fe0974900167.jpg)    
+
+1、一线品牌      
+Lancome(兰蔻)、HR(赫莲娜)      
+2、二线品牌      
+Biotherm(碧欧泉)、kiehls(契尔氏)      
+3、三线或三线以下品牌      
+L’Oreal Paris(巴黎欧莱雅)、Garnier(卡尼尔)、羽西、The Body Shop(美体小铺)        
+4、彩妆部分
+CCBPARIS(巴黎创意美家)、shuuemura(植村秀)、Maybelline(美宝莲)        
+5、药妆品牌
+La Roche-posay(理肤泉)、Skin Ceuticals(修丽可)、Vichy(薇姿）       
+6、香水品牌
+caelParfums(卡夏尔)、GiorgioArmaniParfums(阿玛尼)、RalphLaurenParfums(拉尔夫劳伦POLO)       
+7、美发品牌
+Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)       
+### 替代品推荐      
+资生堂等 （更多推荐等待网友补充）        
+
+## 反馈      
+**TB：欧莱雅美发官方旗舰店**（洗发水所在类目天猫店，和美妆护肤店属同一家公司：欧莱雅(中国)有限公司苏州分公司）    
+**JD：欧莱雅京东自营官方旗舰店** （全品类）    
+   
+【网友投稿】大促期间可凑单；可适量退货，退几单对常年网购的账号并无影响，TB等平台还是买家至上的    
+  
+***   
+
+**Speak Up**网站留言：[www.lorealspeakup.com/](https://www.lorealspeakup.com/)
+（可选英语或汉语，F&Q里面说7天之内会有回复）     
+![1](http://i2.tiimg.com/731395/2fb3e828b1ca4e66.jpg)         
+![2](http://i2.tiimg.com/731395/b55b6fda79bda2bc.jpg)           
+![3](http://i2.tiimg.com/731395/dc30606655bd54d1.jpg)          
+![4](http://i2.tiimg.com/731395/dce3194e527e6423.png)           
+
+可以说\*\*的事违反了企业《道德准则》条款： 
+🔗[欧莱雅《道德准则》全文pdf参考](https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/2-group/news-and-documentation/publications/code-of-ethics/codeofethicschinesesimplified.pdf)          
+第十一页好几条可以用。第一条质疑\*\*的图透是否违反内部验证程序；    
+第六条第七条对应教师天团竖中指歧视女性；第九条🐺殿下苍鹰；右边栏第四条也可用...    
+![adrule](http://i1.fuimg.com/731395/939d0fb6564f233f.jpg)     
+![comp](http://i1.fuimg.com/731395/c27fb2d9aa5aeb7c.jpg)      
+
+***  
+
+📧 欧莱雅（中国）顾客关怀中心 邮箱：**Contact@Lorealchina.Com**    
+📧 集团网站媒体联系：**media@loreal.com**     
+🔊主要反馈的问题：公开发表女性、种族歧视言论（谈莉娜）、当众比中指、穿各大品牌很土气的照片等       
+
+#### 英语作文参考1       
+Loreal is known to create products for people from all walks of life around the globe. But recently Loreal plan to nominate one of the mainland actor Xiao Zhan(肖战)to be your brand ambassador in China. This actor has a history of using racist and sexist remarks towards woman and Ethical coworkers.         
+
+These remarks are all publicly made and is very famous in Chinese social media. These social media posts has millions and millions of viewing.       
+So it baffles me a lot, why your company would choose this kind of person to represent Loreal product. Is this the image you want to show the world, and more importantly, your loyal customers?
+I really hope you would carefully reconsider this business plan. I don’t want one of my favorite beauty brand tarnish their reputation.      
+Sincerely yours     
+xxx    
+#### 英语作文参考2    
+![zuowen2](http://i2.tiimg.com/731395/3d00c5a52f12333c.jpg)      
+（更多英语作文参考xzbh.top/vip.html）     
+#### 中文参考   
+![](http://i1.fuimg.com/731395/91e0f5ba93d39787.jpg)      
+#### 语录翻译参考     
+美得像只鸡：pretty like a whore.
+美得像充气娃娃：pretty like a sex toy
+探索大波奥秘，explore big booby mystery
+打批发一起整，很多女生的照片，He describe group woman photo as “wholesale goods”      
+## 全线开发票表态 
+**注意事项**：   
+1、开个人发票不用税号，抬头写什么你的权利（例如\*\*糊），商家包邮     
+2、纸票问题投诉到12366很难得到支持，应该投诉到12315，选择什么形式的发票是消费者权利       
+3、能够作为开票凭证的仅是你的订单号，以抬头和收货人不符拒绝的投诉       
+#### 拒开发票应对        
+① 若你司坚持不开具消费发票，将违反《中华人民共和国发票管理办法》第十九条 销售商品、提供服务以及从事其他经营活动的单位和个人，对外发生经营业务收取款项，收款方应当向付款方开具发票 等有关规定。本人将在工作日内联系本地税务局进行投诉，税务局会责令你司整改，并处以一万元以下罚款      
+② **315**晚会警告        
+③ 查桃宝营业执照上注册地址，可查到对应市区，打区号+12366投诉不开发票     
+④ 若店家拒绝提供纸质发票或电子发票打印件，根据《税总发2017年31号文》第四条: “购买方向开具增值税电子普通发票的纳税人当场索取纸质普通发票的，纳税人应当免费提供电子发票版式文件打印服务。对于拒绝提供免费打印服务或者纸质发票的，主管国税务机关应当及时予以纠正”   
+
+
+***   
+
 ## 陌森眼镜    
 ![地广](http://i1.fuimg.com/731395/649009274ee1d182.jpg)     
 
@@ -378,7 +460,7 @@ fb: [@balmainparis](https://www.facebook.com/balmainparis/)
 2. 向工信部等提交投诉后截图，与在线客服谈心       
 3. 收到唯品会短信，可以对服务做出评价，理由可以写他本人有种族歧视和侮辱女性的言论，作为女性很反感他，唯品会让他上演员请就位，会丧失极大一部分女性消费者。            
 
-方向参考：*因为唯品会赞助了侮辱女性拒不道歉的\*\*上综艺节目感到愤怒，要求后期把他镜头剪掉，不想再看到他，否则会持续向有关部门投诉唯品会泄漏用户信息、卖假货、违法广告法等，线下监督消防安全并举报，要求必须记录、向上反馈和答复*  
+方向参考：*因为唯品会赞助了侮辱女性拒不道歉的\*\*上综艺节目感到愤怒，要求后期把他镜头剪掉，不想再看到他，否则会持续投诉唯品会泄漏用户信息、卖假货、违法广告法等，线下监督消防安全并举报，要求必须记录、向上反馈和答复*  
 
 ***
 ## 唯品会发票    
@@ -425,9 +507,7 @@ fb: [@balmainparis](https://www.facebook.com/balmainparis/)
 (参考[@青木成山 的微博](https://weibo.com/u/5100401517))     
 
 
-
 *** 
-
 
 ## 如何检查消防设施的专业知识           
 [B站 @金莲居士](https://space.bilibili.com/422877970):作为从事消防事业六年的工程服务人员，告诉大家平时进入商场需要关注哪些消防设施。           
@@ -526,15 +606,10 @@ fb: [@balmainparis](https://www.facebook.com/balmainparis/)
 ## 美化代孕的反映方向参考  
 
 建议下架《演员请就位终极盛典》影片《宝贝儿》        
-
 故事以代孕为核心，但是影片最终展现的不是批判，是美化。      
-
 整个故事弱化了代孕的危害。包括女性怀孕生子要经历的痛楚和生产时的风险以及生产后会引发的疾病。代孕这个事不合法就是因为它把女性当成了商品，在物化女性。以及代孕对伦理道德的冲击，种种危害影片丝毫没有提及。     
-
 在故事的结尾男主角公然声称孕母怀的孩子是别人的孩子，要求孕母把孩子送给违法的代孕方。公然挑衅我国关于儿童的母亲必须是生母的法律规定，就是在赤裸裸地为代孕这种违法行为洗白，鼓吹婴儿买卖，藐视法律。       
-
 最后片头片尾有寥寥几行字的关于代孕违法的故事，但是整个故事没有一个人被惩罚，丝毫没有突出法律在打击代孕犯罪事实中的作用。实际上观影人很容易忽略片头片尾这些小细节，只会关注影片内容本身。过于理想化浪漫化脱离实际的影片没有起到任何警示作用，甚至过于美化代孕行为。       
-
 剧本核心思想并不符合社会主义价值观，代孕对女性的伤害及对伦理道德的影响不是能被剧本里描绘的理想爱情美化的，艺术不能脱离现实。建议下架该节目，避免不良思想传播。       
 
 (参考[@菖田翠绿 的微博](https://m.weibo.cn/7454243887/4578946522547539))          
@@ -753,13 +828,3 @@ La ringrazio per la Sua cortese attenzione.
 
 
 更新中，欢迎投稿    
- 
-
-
-
-
-    
-
-    
-
-
