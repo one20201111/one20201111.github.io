@@ -43,14 +43,16 @@ Matrix(美奇丝)、L'Oreal professionnel(**巴黎欧莱雅PRO**)、Kerastase(�
 ![2](http://i2.tiimg.com/731395/37262e97069445d1.jpg)              
 ![3](http://i2.tiimg.com/731395/f26ed720535bd390.jpg)     
  
-<font size="6">填写PR名字向PR投诉，上传文件亲测.rar格式会失败，如果发压缩包请使用.zip格式</font>        
+<font size="5">填写PR名字向PR投诉，上传文件亲测.rar格式会失败，如果发压缩包请使用.zip格式</font>        
    
 ![4](http://i2.tiimg.com/731395/e088f17e6a761191.jpg)     
 
-<font size="6">记得在检查完填写内容之后记录好【事件编号】和【密码】（这个是匿名才会有的，如果选择不匿名是不同的流程）</font>       
+<font size="5">记得在检查完填写内容之后记录好【事件编号】和【密码】（匿名才会有，实名是不同的流程）</font>       
 
-![5](http://i2.tiimg.com/731395/ccc55a1030e2804a.jpg)         
-<font size="6">提交成功，7个工作日之后记得查看受理结果</font>        
+![5](http://i2.tiimg.com/731395/ccc55a1030e2804a.jpg)    
+     
+<font size="5">提交成功，7个工作日之后记得查看受理结果</font>        
+
 ![6](http://i2.tiimg.com/731395/18b6dd4122b66b39.jpg)      
 
 ***   
