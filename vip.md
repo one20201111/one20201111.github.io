@@ -6,19 +6,19 @@
 网传代言巴黎欧莱雅洗发水（欧莱雅集团旗下美发品牌）目前未宣    
 ### 全线避雷清单    
 1、一线品牌      
-Lancome(兰蔻)、HR(赫莲娜)      
+Lancome(**兰蔻**)、HR(**赫莲娜**)      
 2、二线品牌      
-Biotherm(碧欧泉)、kiehls(契尔氏)      
+Biotherm(**碧欧泉**)、kiehls(**契尔氏**)      
 3、三线或三线以下品牌      
-L’Oreal Paris(巴黎欧莱雅)、Garnier(卡尼尔)、羽西、The Body Shop(美体小铺)        
+L’Oreal Paris(**巴黎欧莱雅**)、Garnier(**卡尼尔**)、**羽西**、The Body Shop(**美体小铺**)        
 4、彩妆部分
-CCBPARIS(巴黎创意美家)、shuuemura(植村秀)、Maybelline(美宝莲)        
+CCBPARIS(**巴黎创意美家**)、shuuemura(**植村秀**)、Maybelline(**美宝莲**)        
 5、药妆品牌
-La Roche-posay(理肤泉)、Skin Ceuticals(修丽可)、Vichy(薇姿）       
+La Roche-posay(**理肤泉**)、Skin Ceuticals(**修丽可**)、Vichy(**薇姿**）       
 6、香水品牌
-caelParfums(卡夏尔)、GiorgioArmaniParfums(阿玛尼)、RalphLaurenParfums(拉尔夫劳伦POLO)       
+caelParfums(**卡夏尔**)、GiorgioArmaniParfums(**阿玛尼**)、RalphLaurenParfums(**拉尔夫劳伦POLO**)        
 7、美发品牌
-Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)       
+Matrix(美奇丝)、L'Oreal professionnel(**巴黎欧莱雅PRO**)、Kerastase(卡诗)       
 
 ![oreal](http://i1.fuimg.com/731395/3a79fe0974900167.jpg){:height="90%" width="90%"}     
 
