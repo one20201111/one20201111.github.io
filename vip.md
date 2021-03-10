@@ -34,24 +34,59 @@ Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)
 ***   
 ### SpeakUp    
      
-网址：[www.lorealspeakup.com](https://www.lorealspeakup.com/)
-（可选英语或汉语）     
-
+网址：[www.lorealspeakup.com](https://www.lorealspeakup.com/)          
+注意事项（[@alpha0w0]())     
+① 可选英语或汉语，如果英语写作基础较好建议用英语，否则不要勉强机翻，直接中文      
+② 尽量使用客观描述和书面词汇，避免饭圈术语、网络用语，多用猜测、询问的语气                
+#### 步骤参考    
 ![1](http://i2.tiimg.com/731395/143ed0d163e2c96f.jpg)              
 ![2](http://i2.tiimg.com/731395/37262e97069445d1.jpg)              
-![3](http://i2.tiimg.com/731395/f26ed720535bd390.jpg)         
-![4](http://i2.tiimg.com/731395/e088f17e6a761191.jpg)            
-![5](http://i2.tiimg.com/731395/ccc55a1030e2804a.jpg)               
-![6](http://i2.tiimg.com/731395/18b6dd4122b66b39.jpg)               
+![3](http://i2.tiimg.com/731395/f26ed720535bd390.jpg)     
+ 
+<font size="4">填写PR名字向PR投诉，上传文件亲测.rar格式会失败，如果发压缩包请使用.zip格式</font>        
+   
+![4](http://i2.tiimg.com/731395/e088f17e6a761191.jpg)     
 
-可以说\*\*的事违反了企业《道德准则》条款： 
-🔗[欧莱雅《道德准则》全文pdf参考](https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/2-group/news-and-documentation/publications/code-of-ethics/codeofethicschinesesimplified.pdf)          
+<font size="4">记得在检查完填写内容之后记录好【事件编号】和【密码】（这个是匿名才会有的，如果选择不匿名是不同的流程）</font>       
+
+![5](http://i2.tiimg.com/731395/ccc55a1030e2804a.jpg)         
+<font size="4">提交成功，7个工作日之后记得查看受理结果</font>        
+![6](http://i2.tiimg.com/731395/18b6dd4122b66b39.jpg)      
+
+#### 提交证据参考    
+
+【1】广告物料泄漏的截图，视频下载：[http://t.cn/A6t0SzOt](http://t.cn/A6t0SzOt)       
+![lutou](http://i2.tiimg.com/731395/3c25c37fa9b7666d.jpg)     
+【2】本人语录存图及翻译：[@冰糖葫芦Zh]() 的微博主页搜索”欧莱雅有戏“     
+【3】官媒批评：网页[xiaozhan.sb](https://xiaozhan.sb/) 下拉至“媒体评论”      
+【4】教育部批评课堂应援，江苏省宿迁市沭阳县     
+ [www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202012/t20201207_503811.html](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202012/t20201207_503811.html)
+【5】永宁中学事件复盘：[xzbh.top/#永宁中学事件](https://xzbh.top/#永宁中学事件)      
+【6】3月9日[@搜狐新闻]()的百万转微博 [weibo.com/5890672121/K5qLsEVAX](https://weibo.com/5890672121/K5qLsEVAX)      
+【7】违反的条款：🔗[欧莱雅《道德准则》全文pdf参考](https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/2-group/news-and-documentation/publications/code-of-ethics/codeofethicschinesesimplified.pdf)          
 第十一页好几条可以用。第一条质疑\*\*的图透是否违反内部验证程序；    
-第六条第七条对应教师天团竖中指歧视女性；第九条🐺殿下苍鹰；右边栏第四条也可用...    
+第六条第七条对应教师天团竖中指歧视女性；第九条🐺殿下苍鹰；右边栏第四条也可用...     
 ![adrule](http://i1.fuimg.com/731395/939d0fb6564f233f.jpg)     
+
+#### 提交内容参考      
 ![comp](http://i1.fuimg.com/731395/699db9bfd32570ab.jpg)       
 
 ***  
+
+## 全线开发票表态 
+**注意事项**：   
+1、开个人发票不用税号，抬头写什么你的权利（例如\*\*糊），商家包邮     
+2、纸票问题投诉到12366很难得到支持，应该投诉到12315，选择什么形式的发票是消费者权利       
+3、能够作为开票凭证的仅是你的订单号，以抬头和收货人不符拒绝的投诉       
+#### 拒开发票应对        
+① 若你司坚持不开具消费发票，将违反《中华人民共和国发票管理办法》第十九条 销售商品、提供服务以及从事其他经营活动的单位和个人，对外发生经营业务收取款项，收款方应当向付款方开具发票 等有关规定。本人将在工作日内联系本地税务局进行投诉，税务局会责令你司整改，并处以一万元以下罚款      
+② **315**晚会警告        
+③ 查桃宝营业执照上注册地址，可查到对应市区，打区号+12366投诉不开发票     
+④ 若店家拒绝提供纸质发票或电子发票打印件，根据《税总发2017年31号文》第四条: “购买方向开具增值税电子普通发票的纳税人当场索取纸质普通发票的，纳税人应当免费提供电子发票版式文件打印服务。对于拒绝提供免费打印服务或者纸质发票的，主管国税务机关应当及时予以纠正”   
+
+***     
+
+### 邮件反馈        
 
 📧 欧莱雅（中国）顾客关怀中心 邮箱：**Contact@Lorealchina.Com**    
 📧 集团网站媒体联系：**media@loreal.com**     
@@ -75,19 +110,6 @@ xxx
 美得像充气娃娃：pretty like a sex toy
 探索大波奥秘，explore big booby mystery
 打批发一起整，很多女生的照片，He describe group woman photo as “wholesale goods”      
-
-***
-
-## 全线开发票表态 
-**注意事项**：   
-1、开个人发票不用税号，抬头写什么你的权利（例如\*\*糊），商家包邮     
-2、纸票问题投诉到12366很难得到支持，应该投诉到12315，选择什么形式的发票是消费者权利       
-3、能够作为开票凭证的仅是你的订单号，以抬头和收货人不符拒绝的投诉       
-#### 拒开发票应对        
-① 若你司坚持不开具消费发票，将违反《中华人民共和国发票管理办法》第十九条 销售商品、提供服务以及从事其他经营活动的单位和个人，对外发生经营业务收取款项，收款方应当向付款方开具发票 等有关规定。本人将在工作日内联系本地税务局进行投诉，税务局会责令你司整改，并处以一万元以下罚款      
-② **315**晚会警告        
-③ 查桃宝营业执照上注册地址，可查到对应市区，打区号+12366投诉不开发票     
-④ 若店家拒绝提供纸质发票或电子发票打印件，根据《税总发2017年31号文》第四条: “购买方向开具增值税电子普通发票的纳税人当场索取纸质普通发票的，纳税人应当免费提供电子发票版式文件打印服务。对于拒绝提供免费打印服务或者纸质发票的，主管国税务机关应当及时予以纠正”   
 
 ***    
 
