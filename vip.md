@@ -23,7 +23,7 @@ Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)
 ![oreal](http://i1.fuimg.com/731395/3a79fe0974900167.jpg){:height="90%" width="90%"}     
 
 ### 替代品推荐      
-资生堂等 （更多推荐等待网友补充）        
+资生堂等 （更多推荐请看网友补充）        
 
 ## 反馈      
 **TB：欧莱雅美发官方旗舰店**（洗发水所在类目天猫店，和美妆护肤店同属：欧莱雅(中国)有限公司苏州分公司）    
@@ -35,7 +35,7 @@ Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)
 ### SpeakUp    
      
 网址：[www.lorealspeakup.com](https://www.lorealspeakup.com/)          
-注意事项（[@alpha0w0]())     
+**注意事项**（[@alpha0w0]())     
 ① 可选英语或汉语，如果英语写作基础较好建议用英语，否则不要勉强机翻，直接中文      
 ② 尽量使用客观描述和书面词汇，避免饭圈术语、网络用语，多用猜测、询问的语气                
 #### 步骤参考    
@@ -43,15 +43,17 @@ Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)
 ![2](http://i2.tiimg.com/731395/37262e97069445d1.jpg)              
 ![3](http://i2.tiimg.com/731395/f26ed720535bd390.jpg)     
  
-<font size="4">填写PR名字向PR投诉，上传文件亲测.rar格式会失败，如果发压缩包请使用.zip格式</font>        
+<font size="6">填写PR名字向PR投诉，上传文件亲测.rar格式会失败，如果发压缩包请使用.zip格式</font>        
    
 ![4](http://i2.tiimg.com/731395/e088f17e6a761191.jpg)     
 
-<font size="4">记得在检查完填写内容之后记录好【事件编号】和【密码】（这个是匿名才会有的，如果选择不匿名是不同的流程）</font>       
+<font size="6">记得在检查完填写内容之后记录好【事件编号】和【密码】（这个是匿名才会有的，如果选择不匿名是不同的流程）</font>       
 
 ![5](http://i2.tiimg.com/731395/ccc55a1030e2804a.jpg)         
-<font size="4">提交成功，7个工作日之后记得查看受理结果</font>        
+<font size="6">提交成功，7个工作日之后记得查看受理结果</font>        
 ![6](http://i2.tiimg.com/731395/18b6dd4122b66b39.jpg)      
+
+***   
 
 #### 提交证据参考    
 
@@ -60,13 +62,15 @@ Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)
 【2】本人语录存图及翻译：[@冰糖葫芦Zh]() 的微博主页搜索”欧莱雅有戏“     
 【3】官媒批评：网页[xiaozhan.sb](https://xiaozhan.sb/) 下拉至“媒体评论”      
 【4】教育部批评课堂应援，江苏省宿迁市沭阳县     
- [www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202012/t20201207_503811.html](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202012/t20201207_503811.html)
-【5】永宁中学事件复盘：[xzbh.top/#永宁中学事件](https://xzbh.top/#永宁中学事件)      
+&nbsp;&nbsp;&nbsp;&nbsp;[www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202012/t20201207_503811.html](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202012/t20201207_503811.html)              
+【5】永宁中学事件复盘：[xzbh.top/#永宁中学事件](https://xzbh.top/#永宁中学事件)       
 【6】3月9日[@搜狐新闻]()的百万转微博 [weibo.com/5890672121/K5qLsEVAX](https://weibo.com/5890672121/K5qLsEVAX)      
 【7】违反的条款：🔗[欧莱雅《道德准则》全文pdf参考](https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/2-group/news-and-documentation/publications/code-of-ethics/codeofethicschinesesimplified.pdf)          
-第十一页好几条可以用。第一条质疑\*\*的图透是否违反内部验证程序；    
-第六条第七条对应教师天团竖中指歧视女性；第九条🐺殿下苍鹰；右边栏第四条也可用...     
+&nbsp;&nbsp;&nbsp;&nbsp;第十一页好几条可以用。第一条质疑\*\*的图透是否违反内部验证程序；    
+&nbsp;&nbsp;&nbsp;&nbsp;第六条第七条对应教师天团竖中指歧视女性；第九条🐺殿下苍鹰；右边栏第四条也可用...     
 ![adrule](http://i1.fuimg.com/731395/939d0fb6564f233f.jpg)     
+
+***
 
 #### 提交内容参考      
 ![comp](http://i1.fuimg.com/731395/699db9bfd32570ab.jpg)       
@@ -86,7 +90,7 @@ Matrix(美奇丝)、L'Oreal professionnel(巴黎欧莱雅)、Kerastase(卡诗)
 
 ***     
 
-### 邮件反馈        
+## 邮件反馈        
 
 📧 欧莱雅（中国）顾客关怀中心 邮箱：**Contact@Lorealchina.Com**    
 📧 集团网站媒体联系：**media@loreal.com**     
