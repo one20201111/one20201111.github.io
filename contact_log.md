@@ -1,5 +1,5 @@
 {% seo title=false %}
-{% include nav.html %}     
+
 ## 《我们的歌》新春特辑      
 
 最新消息：网传1月10号、15号录制   
