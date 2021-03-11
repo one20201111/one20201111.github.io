@@ -1,7 +1,6 @@
 {% seo title=false %}
-# 证据包合集   
+# 证据包合集
 
-{% include nav.html %}   
 
 ## 宁波为\*\*切断监控事件          
 

@@ -1,6 +1,6 @@
 {% seo title=false %}
-# 沾shit商务列表      
-{% include nav.html %}    
+# 沾shit商务列表
+
 
 ## 欧莱雅      
 网传代言巴黎欧莱雅洗发水（欧莱雅集团旗下美发品牌）目前未宣    

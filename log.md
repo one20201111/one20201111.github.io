@@ -1,5 +1,4 @@
 {% seo title=false %}
-{% include nav.html %}      
 
 ### 2.15更新    
 
