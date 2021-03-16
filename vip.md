@@ -158,7 +158,9 @@ xxx
      
 ## 冬奥宣传推广   
 ![dongao](http://i2.tiimg.com/731395/e328df8d4d4499b9.png){:height="50%" width="50%"}            
-![dongmeng](http://i2.tiimg.com/731395/943de265fbcd8b56.jpg){:height="80%" width="80%"}       
+![dongmeng](http://i1.fuimg.com/731395/2e95a73356bbcbc8.jpg)     
+![bingqiu](http://i1.fuimg.com/731395/be40e517e9cf4e0d.jpg)            
+       
 ### 国际奥委会官网留言     
 **入口网址**：[oscttnet.powerappsportals.com/en-US/request-form-create](https://oscttnet.powerappsportals.com/en-US/request-form-create)         
 
@@ -186,11 +188,13 @@ a huge problem related to youngers, parents and adults asked Xiao Zhan to return
 As a result, Xiao Zhan apologized but refused to return the money.       
 
 Can this guy represent the mission of Olympic spirit?     
-### 国家体育总局      
+### 体育总局      
 ① 公众号：**北京冰雪**   (体育总局冬季运动管理中心唯一官方公共账号)         
 ② 体育总局官网：[www.sport.gov.cn/n323/index.html](http://www.sport.gov.cn/n323/index.html) –– 政务咨询信箱        
-③ 体育总局冬季运动管理中心联系方式 (来自官网）       
-· 联系电话：**010-88318207**       
+③ ☎️          
+· 冬季运动管理中心：**010-88318207** (来自官网）     
+· 体总：**010-87182008**     
+· 体总信访电话：**010-87182116**      
 · 单位地址：海淀区中关村南大街56号        
 · 邮政编码：100044           
 ![中心职责](http://i2.tiimg.com/731395/2688c23c840ef2a9.png){:height="50%" width="50%"}      
