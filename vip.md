@@ -121,7 +121,7 @@ xxx
 
 ## 李宁   
 **2021.3.16更新**：中国李宁客服透露了4月7号      
-![xuan1](http://i1.fuimg.com/731395/d4bc1caca60a1615.jpg)          
+![xuan1](http://i2.tiimg.com/731395/7cc8fc81aab6d483.jpg)           
 ![xuan2](http://i1.fuimg.com/731395/acc0652cf86781f0.jpg)           
 ① 客服 ☎️ **4006100011** 按6按3（9:00-18:00）      
 ② 微博私信或艾特，有礼貌地向 [@李宁](https://weibo.com/u/5489115923) 叔叔和[@colin李麒麟](https://weibo.com/qilinli) 提建议          
@@ -160,8 +160,7 @@ xxx
 ***   
      
 ## 冬奥宣传推广    
-![dongao](http://i2.tiimg.com/731395/e328df8d4d4499b9.png){:height="50%" width="50%"}            
-![dongmeng](http://i1.fuimg.com/731395/2e95a73356bbcbc8.jpg)     
+![dongmeng](http://i1.fuimg.com/731395/2e95a73356bbcbc8.jpg){:height="80%" width="80%"}        
 ![bingqiu](http://i1.fuimg.com/731395/be40e517e9cf4e0d.jpg)            
        
 ### 国际奥委会官网留言     
