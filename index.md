@@ -225,8 +225,10 @@
 
 最后更新：**2021.3.19**        
 ### 商务合作/品牌代言     
-[欧莱雅洗发水](https://xzbh.top/vip.html)（欧莱雅集团旗下美发品牌[@巴黎欧莱雅PRO](https://weibo.com/lorealprofessionnel)某洗发水，目前未宣）      
+[欧莱雅洗发水](https://xzbh.top/vip.html)（欧莱雅集团旗下美发品牌[@巴黎欧莱雅PRO](https://weibo.com/lorealprofessionnel)某洗发水，目前未宣）   
 [@李宁官方微博](https://m.weibo.cn/u/1716244511) (网传已签全年代言，中国李宁客服透露**4.7**宣)       
+[菜鸟驿站杭州贴开小灶广告]() (属于侵权行为，收到包裹投诉有奖金，外地人可举报或向媒体爆料)   
+[陌森投放全年院线映前XX代言广告]() (主要为万达影城，可开发票表态)               
 [@欧扎克OCAK](https://weibo.com/u/6052350826)（麦片，《我是特优声》冠名商，\*\*与品牌合作的合影流出）          
 [@breo倍轻松](https://weibo.com/breochina) (网传拟定六月官宣）         
 [@德国双立人官方微博](https://weibo.com/u/3171409662) (网传四月官宣）         
