@@ -196,7 +196,7 @@
 最后更新：**2021.3.29**        
 ### 商务合作/品牌代言     
 [欧莱雅洗发水](https://xzbh.top/vip.html)         
-（欧莱雅集团旗下美发品牌[@巴黎欧莱雅PRO](https://weibo.com/lorealprofessionnel)某洗发水，目前未宣，网传由于消费者全线抵制内部正在评估）   
+（欧莱雅集团旗下美发品牌[@巴黎欧莱雅PRO](https://weibo.com/lorealprofessionnel)某洗发水，目前未宣，网传由于消费者全线抵制内部正重新评估）   
     
 [@TODS](https://m.weibo.cn/status/4603912882232953)  (网传4月官宣品牌大使，主推皮具)     
 [@DIOR迪奥](https://weibo.com/dior) （网传4月宣代言迪奥彩妆）      
