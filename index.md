@@ -199,7 +199,7 @@
     
 [@TODS](https://m.weibo.cn/status/4603912882232953)  (网传4月官宣品牌大使，主推皮具)     
 [@DIOR迪奥](https://weibo.com/dior) （网传4月宣代言迪奥彩妆）      
-[@ELLE @SuperELLE欣漾]()(网传ELLE COO邮件显示superELLE和GUCCI联合推封)     
+[@ELLE @SuperELLE欣漾]()(网传ELLE COO邮件显示superELLE和GUCCI联合推封，superELLE 520重庆特辑)      
 [@TiffanyAndCo蒂芙尼]() （网传在帮\*\*推某本时尚杂志的封面）       
 
 [@欧扎克OCAK](https://weibo.com/u/6052350826)（麦片，《我是特优声》冠名商，\*\*与品牌合作的合影流出）          
