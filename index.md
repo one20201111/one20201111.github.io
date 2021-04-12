@@ -192,7 +192,8 @@
 （欧莱雅集团旗下[@巴黎欧莱雅PRO](https://weibo.com/lorealprofessionnel)“仙桃瓶”洗发水，目前未宣，网传由于消费者抵制延期官宣）    
     
 [@TODS](https://m.weibo.cn/status/4603912882232953)  (网传4月官宣品牌大使)     
-[@DIOR迪奥](https://weibo.com/dior) （网传4月宣代言迪奥彩妆）      
+[@DIOR迪奥](https://weibo.com/dior) （网传4月宣代言Dior单线）     
+[@佰草集Herborist]()（4.12营肖号通稿称已确定护肤品代言人）    
 [@ELLE @SuperELLE欣漾]() （网传superELLE和[@GUCCI]联合推封，superELLE 520重庆特辑)    
 [@ELLEMEN @ELLEDECO家居廊]()       
 [@TiffanyAndCo蒂芙尼]() （网传帮\*\*推某本时尚杂志的封面，营销号爆料有首饰类代言4月宣）       
