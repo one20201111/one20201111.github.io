@@ -299,6 +299,15 @@
 
 ***     
 
+## JD     
+![](http://i0.hdslb.com/bfs/album/6ad0eb1e4f4aef2e04f76c45eb36c2f070978531.gif)
+![ld](http://i1.fuimg.com/731395/364b42c1d0e49600.jpg)     
+![bohui](http://i1.fuimg.com/731395/9e125ffa6168c7f6.jpg)       
+![qudao](http://i1.fuimg.com/731395/9d90fa26b262f47e.jpg)    
+
+***
+
+
 # 永宁中学事件时间线    
 
 ***  
@@ -428,12 +437,6 @@
 
 
 ***   
-## JD     
-![](http://i0.hdslb.com/bfs/album/6ad0eb1e4f4aef2e04f76c45eb36c2f070978531.gif)
-![ld](http://i1.fuimg.com/731395/364b42c1d0e49600.jpg)     
-![bohui](http://i1.fuimg.com/731395/9e125ffa6168c7f6.jpg)       
-![qudao](http://i1.fuimg.com/731395/9d90fa26b262f47e.jpg)    
-***
 
 ## 《余生请多指教》    
 
