@@ -125,8 +125,7 @@
 
 最后更新：**2021.5.26**        
 ### 商务合作/品牌代言     
-[欧莱雅洗发水](https://xzbh.top/vip.html)         
-(欧莱雅集团旗下[@巴黎欧莱雅PRO](https://weibo.com/lorealprofessionnel)“仙桃瓶”洗发水，遭到全线开🧾抵制，目前未宣)       
+[欧莱雅洗发水](https://xzbh.top/vip.html) (欧莱雅集团[@巴黎欧莱雅PRO]()“仙桃瓶”洗发水，遭全线开🧾抵制，目前未宣)              
 
 [@百事中国 旗下新品饮料，佳得乐 或 bubly气泡水]()          
 (5.14职粉爆料百事可乐气泡水，5.17营肖号通稿称气泡水已拍好物料；                     
@@ -158,8 +157,7 @@
 #### 已代言    
 [@德国双立人](https://weibo.com/u/3171409662) （营肖号1月份通稿传出再次合作，5.17放出电热水壶的物料，      
 5.25微博官宣，买了微博开屏，没有买热搜）    
-[@TODS](https://m.weibo.cn/status/4603912882232953)    
-(5.17营肖号放出高清物料，5.19微博官宣为“品牌代言人”，没有买热搜，官网英文介绍"Brand Ambassador")      
+[@TODS](https://m.weibo.cn/status/4603912882232953) (5.17放出高清物料，5.19微博宣“品牌代言人”，没有买热搜，官网介绍"Brand Ambassador")            
 [@欧扎克OCAK](https://weibo.com/u/6052350826)(麦片，4.9官宣，B站开屏引发用户投诉抵制；B站《我是特优声》节目冠名商)           
 [@李宁官方微博](https://m.weibo.cn/u/1716244511) (3.26热搜第一官宣为李宁运动潮流产品全球代言人，网传签5年；   
 5.25官微发布讨好CP粉的广告（XX同款紫色衬衫花纹的摩托车）)           
@@ -167,14 +165,14 @@
 [@石头科技 扫地机器人](https://weibo.com/roborock) (3.29官宣+微博开屏广告，官微背景图已换成TA;      
 5.26多名动漫博主发布《进击的巨人》兵长语音款石头扫地机器人的广告)              
 [@蒙牛乳业](https://weibo.com/mengniu1999) (2019.9.20宣[@真果粒]()；2021.1.20升级品牌代言人，4.12宣[@蒂兰圣雪冰淇淋]())          
-[@雅诗兰黛](https://m.weibo.cn/u/1793598474)(2020.10.5 23:59发布庆生微博后基本没有动静)          
-[@开小灶官方微博](https://weibo.com/u/6585364613)（2021.4.6官宣[@满汉大餐]()泡面，也是统一集团旗下）                   
+[@雅诗兰黛](https://m.weibo.cn/u/1793598474)  (2020.10.5 23:59发布庆生微博后基本没有动静)          
+[@开小灶官方微博](https://weibo.com/u/6585364613) (2021.4.6宣[@满汉大餐]()泡面，也是统一集团旗下)                    
 [@ROSEONLY诺誓](https://weibo.com/roseonlyshop)  (5.19京东超级宠粉日XX开屏)              
 [@新笑傲江湖手游](https://weibo.com/xajh3d)       
 [@百威啤酒](https://weibo.com/budweiser)          
 [@腾讯视频](https://weibo.com/ilovevideo)         
 #### 公开活动中认领过服饰鞋子的其他品牌       
-[@GUCCI]() [@海瑞温斯顿HarryWinston]() [@Chopard萧邦]() [@FRED斐登]() [@SAINTLAURENT圣罗兰]()     [@Givenchy紀梵希]() [@LESHOMMES_OFFICIAL]() [@BALMAINPARIS]() [@HOGAN]()      
+[@GUCCI]() [@海瑞温斯顿HarryWinston]() [@Chopard萧邦]() [@FRED斐登]() [@SAINTLAURENT圣罗兰]()        [@Givenchy紀梵希]() [@LESHOMMES_OFFICIAL]() [@BALMAINPARIS]() [@HOGAN]()      
 [@YESBYYESIR]()（[@叶谦]()创立的时装品牌，4.9发博认领欧扎克开屏广告衬衫） 等等         
      
 ***    
