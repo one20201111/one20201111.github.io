@@ -239,31 +239,47 @@
 [更多内容推荐](#更多内容推荐)     
 
 ***     
-## 百事   
-[@百事中国 旗下新品饮料，佳得乐 或 bubly气泡水]()          
-(5.17营肖号通稿称气泡水已拍好物料；5.21网传 [@佳得乐官方微博]()新品运动饮料，         
-气泡水可能是烟雾弹; 网传李0与百事有合作​​​)                
-### 全线避雷清单   
-![0](http://i1.fuimg.com/731395/520981f14e11ed76.jpg)  
-### 合规举报      
-SpeakUp热线：[secure.ethicspoint.com/domain/media/zh/gui/52943/index.html](https://secure.ethicspoint.com/domain/media/zh/gui/52943/index.html)        
-行为准则参考：[PepsiCo《全球行为准则》](https://www.pepsico.com/docs/album/global-code-of-conduct/pepsico-global-code-of-conduct/simplified_chinese_pepsico_global_code_of_conduct_booklet.pdf?sfvrsn=1dacdbd7_22)      
-![1](http://i1.fuimg.com/731395/9dc96918e385346b.jpg)     
-![2](http://i1.fuimg.com/731395/f0f8af215063e2fe.jpg)    
-![3](http://i1.fuimg.com/731395/fbd183407edd55e5.jpg)     
-**亚太区CEO**：    
-![4](http://i1.fuimg.com/731395/a25c5198bcd7800d.jpg)        
-**亚太区饮料业务负责人**：    
-![5](http://i1.fuimg.com/731395/dfcd796bb116fd18.jpg)        
-电子邮箱：[PepsiCoComplianceandEthics@pepsico.com]()  
-### 电话   
-客服：**4006578080**            
-总部：**010-65608566**        
-猫店：[百事饮品旗舰店]()     
+## GUCCI   
+网传品牌代言人/珠宝线中国区特供   
+☎️ 400-8210-582   
+**在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
+**weixin ID**： gucciofficial    
+**GUCCI总部**📧：**clientservice-europe@it.gucci.com**      
+**中国区**📧：**contact@cn.customercare.gucci**   
+**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)    
 
-***     
+![tu](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/32e5f7937f719c95eceb474fbbca57aa2b600c17.jpg)      
+### 参考作文
 
-## JD      
+**题目**：Protest Gucci China and Choice of Racist Actor Xiao Zhan     
+
+Dear Sir/Madam,  
+ 
+I am one of your customers in China, and I am writing this email on behalf of a big number of Gucci Chinese customers. I would like to remind you of a potential harm to Gucci.          
+ 
+Gucci is a time-honoured brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently Gucci China is supporting an actor who is badly against your values, and we have reported and complained about it many times, but it seems Gucci China keeps ignoring customers’ feelings.        
+ 
+‘This actor’s name is Xiao Zhan. He became famous in China last year because of one TV Series he performed. Unfortunately some very bad things have happened because of him, lots of frauds and cheating have been committed by his fans. What made the public angry is Xiao Zhan said in a TV interview that he doesn’t have the responsibility to guide his fans. He has been criticized by quite a few public media, but there is no sign that he would like to make any changes.      
+ 
+I am an big fan of Gucci. Recently, you have received a lot of suggestions or complaints.This is not someone persecution of Xiao Zhan,but because he is really a bad actor and bad singer. Now everyone hates Xiao Zhan . **He committed racist acts, Post on social media that slanders black people in India, and insulted women.** He was known as an inferior actor/singer. China is a big consumer market, but now on Chinese social media WEIBO because Xiao Zhan has appeared a lot of negative news of Gucci, so many people are afraid to buy Gucci products. I'm really worried that Gucci sales and reputation in China will be affected, because my friends and family are all boycotting Xiao Zhan spontaneously. Brands that advertise on Xiao Zhan can only make money with a small amount of goods purchased by Xiao Zhan fans. Many brands have replaced his advertising.     
+
+What is more serious is Xiao Zhan doesn’t show the personality of Respect. **He commented a Chinese-India actress as “India Nigger”.** On his public social media, he talked about very dirty words. (Please see the enclosed attachments).         
+ 
+I, with lots of Chinese customers, do not think Xiao Zhan is compatible with Gucci, and I can imagine that if Chinese Gucci agency company keep corporate with this actor, the public would definitely doubt Gucci values and reputation, and we will be hurt as well. That’s why we suggested Gucci China to stop his cooperation with Xiao Zhan. We will be so disappointed if Gucci doesn’t take any action to save it's own reputation.I have also heard that someone in Gucci China management team made this arbitrary decision and ignored strong indignation and opposition by customers. I hope that you could investigate this apparent and serious **conflict of interest**.        
+ 
+Last year，the death of George Floyd has deeply saddened the whole world. That’s why we need to right the world no matter how tiny effort we can do, we need to stop the racist, and we need to show our respect from the bottom of our hearts to each individual, we need to take our respective responsibilities to be good examples in society instead of giving up morals.         
+ 
+China is a vast market, and you have a great number of admirers here. We sincerely hope you can reconsider this decision carefully and choose the right person, please don’t make your Chinese customers upset and disappointed. We will have to choose other brands if Gucci continues to support Xiao Zhan.   
+
+As a lover of Gucci for many years, you (the brand side) should carefully consider and then decide whether to choose Xiao Zhan.           
+ 
+Thanks for taking your time to read this email, I look forward to your prompt reply.            
+ 
+Kind regards,        
+One of your Customers, and with lots of other customers in China       
+
+
+## JD代言人      
 ![](http://i0.hdslb.com/bfs/album/6ad0eb1e4f4aef2e04f76c45eb36c2f070978531.gif)        
 ![luobihu](http://i1.fuimg.com/731395/88f9360d5f6dc9b6.jpg)      
 ![bohui](http://i1.fuimg.com/731395/9e125ffa6168c7f6.jpg)         

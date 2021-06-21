@@ -1,5 +1,31 @@
 {% seo title=false %}
-{% include nav.html %}     
+{% include nav.html %}    
+
+## 百事   
+[@百事中国 旗下新品饮料，佳得乐 或 bubly气泡水]()          
+(5.17营肖号通稿称气泡水已拍好物料；5.21网传 [@佳得乐官方微博]()新品运动饮料，         
+气泡水可能是烟雾弹; 网传李0与百事有合作​​​)                
+### 全线避雷清单   
+![0](http://i1.fuimg.com/731395/520981f14e11ed76.jpg)  
+### 合规举报      
+SpeakUp热线：[secure.ethicspoint.com/domain/media/zh/gui/52943/index.html](https://secure.ethicspoint.com/domain/media/zh/gui/52943/index.html)        
+行为准则参考：[PepsiCo《全球行为准则》](https://www.pepsico.com/docs/album/global-code-of-conduct/pepsico-global-code-of-conduct/simplified_chinese_pepsico_global_code_of_conduct_booklet.pdf?sfvrsn=1dacdbd7_22)      
+![1](http://i1.fuimg.com/731395/9dc96918e385346b.jpg)     
+![2](http://i1.fuimg.com/731395/f0f8af215063e2fe.jpg)    
+![3](http://i1.fuimg.com/731395/fbd183407edd55e5.jpg)     
+**亚太区CEO**：    
+![4](http://i1.fuimg.com/731395/a25c5198bcd7800d.jpg)        
+**亚太区饮料业务负责人**：    
+![5](http://i1.fuimg.com/731395/dfcd796bb116fd18.jpg)        
+电子邮箱：[PepsiCoComplianceandEthics@pepsico.com]()  
+### 电话   
+客服：**4006578080**            
+总部：**010-65608566**        
+猫店：[百事饮品旗舰店]()     
+
+***     
+
+ 
 ## 《我们的歌》新春特辑      
 
 最新消息：网传1月10号、15号录制   
