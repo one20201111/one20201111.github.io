@@ -254,7 +254,8 @@ GUCCI官方ins: [@gucci](https://www.instagram.com/gucci/)
 开云集团亚太道德委员会 📧 **ethics.asiapacific@kering.com**       
 开云集团合规组织 📧 **compliance@kering.com**     
 
-![tu](https://i0.hdslb.com/bfs/article/32e5f7937f719c95eceb474fbbca57aa2b600c17.jpg)      
+![](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/32e5f7937f719c95eceb474fbbca57aa2b600c17.jpg)       
+    
 ### 英文表达参考     
 
 **题目**：Protest Gucci China and Choice of Racist Actor Xiao Zhan        
@@ -269,13 +270,13 @@ Gucci is a time-honored brand with profound history, remarkable reputation and g
  
 Xiao Zhan is a notorious actor best known for the AO3 incident that happened last year. Being discontented with the characterization of Xiao Zhan in a fanfic, Xiao Zhan's fans started a campaign to report the entire AO3 platform to authorities, causing the site to be blocked and inaccessible in China. It was not the first time Xiao’s fans abused their public rights to eliminate anything they don’t like. Plenty of blame was immediately placed on fans for their crazy behavior, but there were also many people who blamed the idol himself. Some evidence showed that the contentious fanfic was written by one of Xiao's employees and the whole operation was planned by Xiao's team but lost control unexpectedly.    
 
-### Manipulating Public Opion       
+### Manipulating Public Opinion       
 
-Xiao has been criticized by over 40 mainstream medias of China for his lacking of social responsibilities. However he remained silent and refused to make a full apology to the public. Instead of trying to console the victims, he and his team chose to stamp out voices of dissent from ordinary people. His team spent a great deal of effort in erasing most negative posts that blamed the idol himself. When you type Xiao Zhan's name into a search engine,  comments with the highest rank in search results will be something like "Xiao Zhan is the kindest person", "His fans are crazy but he is innocent"... which can be very misleading. On April 27th, 2020, Xiao paid to delete the accounts of a dozen of his objectors on weibo, sparking a wave of public ire against him and the capital force he represented. In less than two months, Xiao Zhan became the most-hated actor in China. According to an online polling , over 700 thousand active weibo users hate him and boycott all the brands and products he endorses, not to mention many more customers who heard of his scandals somewhere else. Because of his bad reputation and **poor purchasing power** of his fans (Most of them are minors from low-income families), many brands regretted choosing him as spokesman and removed commercials related to him.         
+Xiao has been criticized by over 40 mainstream medias of China for his lacking of social responsibilities. However he remained silent and refused to make a full apology to the public. Instead of trying to console the victims, he and his team chose to stamp out voices of dissent from ordinary people. His team spent a great deal of effort in erasing most negative posts that blamed the idol himself. When you type Xiao Zhan's name into a search engine,  comments with the highest rank in search results will be something like "Xiao Zhan is the kindest person", "His fans are crazy but he is innocent"... which can be very misleading. On April 27th, 2020, Xiao paid to delete the accounts of a dozen of his objectors on weibo, sparking a wave of public ire against him and the capital force he represented. In less than two months, Xiao Zhan became the most-hated actor in China. According to an online polling , over 700 thousand active weibo users hate him and boycott all the brands and products he endorses, not to mention many more customers who heard of his scandals somewhere else. Because of his bad reputation and poor purchasing power of his fans (Most of them are minors from low-income families), many brands regretted choosing him as spokesman and removed commercials related to him.         
 
 for more information on disgusting things Xiao and his supporters have done and the social impacts of these events, you can visit weibo and see the discussion under a trending hashtag named #我是普通人，我讨厌肖战#     
  
-### Racist, Sexist, misogynist    
+### Racist, Sexist, Misogynist    
 
 Xiao Zhan is a racist, sexist, and misogynist who addressed the Chinese-Indian actress Tan Li Na (Renata Tan), as "Indian N-word Bitch” in public. As a result, the actress cried during an interview, but Xiao did not apologize and allowed his fans to further insult Renata Tan. Later, she published an article to forgive Xiao Zhan for his offensive behavior, but Xiao Zhan's fans still did not let go of verbally harassing her by claiming she is for publicity, drawing offensive pictures of her, assaulting her supporters, and sending her harassing phone calls and repeated abusive emails. Thus, cooperating with Xiao Zhan is an endorsement of racial discrimination since Gucci considers diversity a core value to be upheld and respected.        
 
