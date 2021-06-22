@@ -242,41 +242,57 @@
 ## GUCCI   
 网传品牌代言人/珠宝线中国区特供   
 ☎️ 400-8210-582   
-**在线客服：** [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）     
-**weixin ID**： gucciofficial    
-**GUCCI总部**📧：**clientservice-europe@it.gucci.com**      
-**中国区**📧：**contact@cn.customercare.gucci**   
-**GUCCI官方ins**: [@gucci](https://www.instagram.com/gucci/)    
+在线客服： [www.gucci.cn/zh/contact-us](https://www.gucci.cn/zh/contact-us)（平日9:00 - 22:00，节假日9:00 - 18:00 春节假期除外）       
+weixin ID： **gucciofficial**          
+GUCCI总部📧：**clientservice-europe@it.gucci.com**       
+中国区📧：**contact@cn.customercare.gucci**   
+GUCCI官方ins: [@gucci](https://www.instagram.com/gucci/)     
 
-![tu](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/32e5f7937f719c95eceb474fbbca57aa2b600c17.jpg)      
-### 参考作文
+### 母公司开云集团     
+开云集团中国的举报系统 ☎️ **+86 10 8519 1212**  📧 **ethics@china.kering.com**            
+开云集团道德委员会 📧 **ethique@kering.com** 或 **ethics@kering.com**           
+开云集团亚太道德委员会 📧 **ethics.asiapacific@kering.com**       
+开云集团合规组织 📧 **compliance@kering.com**     
 
-**题目**：Protest Gucci China and Choice of Racist Actor Xiao Zhan     
+![tu](https://i0.hdslb.com/bfs/article/32e5f7937f719c95eceb474fbbca57aa2b600c17.jpg)      
+### 英文表达参考     
 
-Dear Sir/Madam,  
- 
-I am one of your customers in China, and I am writing this email on behalf of a big number of Gucci Chinese customers. I would like to remind you of a potential harm to Gucci.          
- 
-Gucci is a time-honoured brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently Gucci China is supporting an actor who is badly against your values, and we have reported and complained about it many times, but it seems Gucci China keeps ignoring customers’ feelings.        
- 
-‘This actor’s name is Xiao Zhan. He became famous in China last year because of one TV Series he performed. Unfortunately some very bad things have happened because of him, lots of frauds and cheating have been committed by his fans. What made the public angry is Xiao Zhan said in a TV interview that he doesn’t have the responsibility to guide his fans. He has been criticized by quite a few public media, but there is no sign that he would like to make any changes.      
- 
-I am an big fan of Gucci. Recently, you have received a lot of suggestions or complaints.This is not someone persecution of Xiao Zhan,but because he is really a bad actor and bad singer. Now everyone hates Xiao Zhan . **He committed racist acts, Post on social media that slanders black people in India, and insulted women.** He was known as an inferior actor/singer. China is a big consumer market, but now on Chinese social media WEIBO because Xiao Zhan has appeared a lot of negative news of Gucci, so many people are afraid to buy Gucci products. I'm really worried that Gucci sales and reputation in China will be affected, because my friends and family are all boycotting Xiao Zhan spontaneously. Brands that advertise on Xiao Zhan can only make money with a small amount of goods purchased by Xiao Zhan fans. Many brands have replaced his advertising.     
+**题目**：Protest Gucci China and Choice of Racist Actor Xiao Zhan        
 
-What is more serious is Xiao Zhan doesn’t show the personality of Respect. **He commented a Chinese-India actress as “India Nigger”.** On his public social media, he talked about very dirty words. (Please see the enclosed attachments).         
+Dear Sir/Madam,            
  
-I, with lots of Chinese customers, do not think Xiao Zhan is compatible with Gucci, and I can imagine that if Chinese Gucci agency company keep corporate with this actor, the public would definitely doubt Gucci values and reputation, and we will be hurt as well. That’s why we suggested Gucci China to stop his cooperation with Xiao Zhan. We will be so disappointed if Gucci doesn’t take any action to save it's own reputation.I have also heard that someone in Gucci China management team made this arbitrary decision and ignored strong indignation and opposition by customers. I hope that you could investigate this apparent and serious **conflict of interest**.        
+I am one of your customers in China. I‘m writing to remind you of a potential harm to Gucci.            
  
-Last year，the death of George Floyd has deeply saddened the whole world. That’s why we need to right the world no matter how tiny effort we can do, we need to stop the racist, and we need to show our respect from the bottom of our hearts to each individual, we need to take our respective responsibilities to be good examples in society instead of giving up morals.         
- 
-China is a vast market, and you have a great number of admirers here. We sincerely hope you can reconsider this decision carefully and choose the right person, please don’t make your Chinese customers upset and disappointed. We will have to choose other brands if Gucci continues to support Xiao Zhan.   
+Gucci is a time-honored brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently Gucci China is supporting an actor who is badly against your values, and we have complained about it many times, but Gucci China keeps ignoring our feelings.         
 
-As a lover of Gucci for many years, you (the brand side) should carefully consider and then decide whether to choose Xiao Zhan.           
+### The AO3 Incident        
+ 
+Xiao Zhan is a notorious actor best known for the AO3 incident that happened last year. Being discontented with the characterization of Xiao Zhan in a fanfic, Xiao Zhan's fans started a campaign to report the entire AO3 platform to authorities, causing the site to be blocked and inaccessible in China. It was not the first time Xiao’s fans abused their public rights to eliminate anything they don’t like. Plenty of blame was immediately placed on fans for their crazy behavior, but there were also many people who blamed the idol himself. Some evidence showed that the contentious fanfic was written by one of Xiao's employees and the whole operation was planned by Xiao's team but lost control unexpectedly.    
+
+### Manipulating Public Opion       
+
+Xiao has been criticized by over 40 mainstream medias of China for his lacking of social responsibilities. However he remained silent and refused to make a full apology to the public. Instead of trying to console the victims, he and his team chose to stamp out voices of dissent from ordinary people. His team spent a great deal of effort in erasing most negative posts that blamed the idol himself. When you type Xiao Zhan's name into a search engine,  comments with the highest rank in search results will be something like "Xiao Zhan is the kindest person", "His fans are crazy but he is innocent"... which can be very misleading. On April 27th, 2020, Xiao paid to delete the accounts of a dozen of his objectors on weibo, sparking a wave of public ire against him and the capital force he represented. In less than two months, Xiao Zhan became the most-hated actor in China. According to an online polling , over 700 thousand active weibo users hate him and boycott all the brands and products he endorses, not to mention many more customers who heard of his scandals somewhere else. Because of his bad reputation and **poor purchasing power** of his fans (Most of them are minors from low-income families), many brands regretted choosing him as spokesman and removed commercials related to him.         
+
+for more information on disgusting things Xiao and his supporters have done and the social impacts of these events, you can visit weibo and see the discussion under a trending hashtag named #我是普通人，我讨厌肖战#     
+ 
+### Racist, Sexist, misogynist    
+
+Xiao Zhan is a racist, sexist, and misogynist who addressed the Chinese-Indian actress Tan Li Na (Renata Tan), as "Indian N-word Bitch” in public. As a result, the actress cried during an interview, but Xiao did not apologize and allowed his fans to further insult Renata Tan. Later, she published an article to forgive Xiao Zhan for his offensive behavior, but Xiao Zhan's fans still did not let go of verbally harassing her by claiming she is for publicity, drawing offensive pictures of her, assaulting her supporters, and sending her harassing phone calls and repeated abusive emails. Thus, cooperating with Xiao Zhan is an endorsement of racial discrimination since Gucci considers diversity a core value to be upheld and respected.        
+
+(Please take a look at the attached pictures)
+
+### Conflict of Interest      
+ 
+I do not think Xiao Zhan is worthy of Gucci's brand spokesman, if you choose him to be your brand ambassador, the public will definitely doubt Gucci's fundamental values and loyal customers will be so disappointed if Gucci doesn’t take any action to save its own reputation.I have also heard that someone in Gucci China management team made this arbitrary decision and ignored strong indignation and opposition by customers. I hope that you could investigate this apparent and serious **conflict of interest**.             
+
+### 结束语参考
+ 
+China is a vast market, and you have a great number of consumers here. We sincerely hope you can reconsider this decision carefully and choose the right person, otherwise we will feel compelled to switch to products of your competitors.  
  
 Thanks for taking your time to read this email, I look forward to your prompt reply.            
  
-Kind regards,        
-One of your Customers, and with lots of other customers in China       
+Kind regards,            
+XXX      
 
 
 ## JD代言人      
