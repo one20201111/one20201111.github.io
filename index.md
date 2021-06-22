@@ -296,13 +296,7 @@ Kind regards,
 XXX      
 
 
-## JD代言人      
-![](http://i0.hdslb.com/bfs/album/6ad0eb1e4f4aef2e04f76c45eb36c2f070978531.gif)        
-![luobihu](http://i1.fuimg.com/731395/88f9360d5f6dc9b6.jpg)      
-![bohui](http://i1.fuimg.com/731395/9e125ffa6168c7f6.jpg)         
-![qudao](http://i1.fuimg.com/731395/9d90fa26b262f47e.jpg)     
-
-***
+***    
 
 
 ## 《余生请多指教》    

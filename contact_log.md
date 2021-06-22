@@ -1,6 +1,12 @@
 {% seo title=false %}
 {% include nav.html %}    
 
+## JD代言人      
+![](http://i0.hdslb.com/bfs/album/6ad0eb1e4f4aef2e04f76c45eb36c2f070978531.gif)        
+![luobihu](http://i1.fuimg.com/731395/88f9360d5f6dc9b6.jpg)      
+![bohui](http://i1.fuimg.com/731395/9e125ffa6168c7f6.jpg)         
+![qudao](http://i1.fuimg.com/731395/9d90fa26b262f47e.jpg)     
+
 ## 百事   
 [@百事中国 旗下新品饮料，佳得乐 或 bubly气泡水]()          
 (5.17营肖号通稿称气泡水已拍好物料；5.21网传 [@佳得乐官方微博]()新品运动饮料，         
