@@ -256,7 +256,7 @@ GUCCI官方ins: [@gucci](https://www.instagram.com/gucci/)
 开云集团亚太道德委员会 📧 **ethics.asiapacific@kering.com**       
 开云集团合规组织 📧 **compliance@kering.com**        
     
-### 英语表达参考     
+### 英语表达参考举例 
 
 题目参考：Objection To Gucci China's Choice of Racist Actor Xiao Zhan        
 
@@ -286,7 +286,7 @@ for more information on disgusting things Xiao and his supporters have done and 
  
 ### Racist, Sexist, Misogynist    
 
-Xiao Zhan is a racist, sexist, and misogynist who addressed the Chinese-Indian actress Tan Li Na (Renata Tan), as "Indian N-word Bitch” in public. As a result, the actress cried during an interview, but Xiao did not apologize and allowed his fans to further insult Renata Tan. Later, she published an article to forgive Xiao Zhan for his offensive behavior, but Xiao Zhan's fans still did not let go of verbally harassing her by claiming she is for publicity, drawing offensive pictures of her, assaulting her supporters, and sending her harassing phone calls and repeated abusive emails. Thus, cooperating with Xiao Zhan is an endorsement of racial discrimination since Gucci considers diversity a core value to be upheld and respected.        
+Xiao Zhan is a racist, sexist, and misogynist who addressed the Chinese-Indian actress Tan Li Na (Renata Tan), as "Indian Nigger Bitch” in public. As a result, the actress cried during an interview, but Xiao did not apologize and allowed his fans to further insult Renata Tan. Later, she published an article to forgive Xiao Zhan for his offensive behavior, but Xiao Zhan's fans still did not let go of verbally harassing her by claiming she is for publicity, drawing offensive pictures of her, assaulting her supporters, and sending her harassing phone calls and repeated abusive emails. Thus, cooperating with Xiao Zhan is an endorsement of racial discrimination since Gucci considers diversity a core value to be upheld and respected.        
 
 (Please take a look at the attached pictures)
 
