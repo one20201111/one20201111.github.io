@@ -264,7 +264,7 @@ GUCCI官方ins: [@gucci](https://www.instagram.com/gucci/)
 Dear Sir/Madam, hope you well            
 I’m writing to express my dissatisfaction with your Co-star named XiaoZhan.     
 I’m writing to oppose to your choice of spokesperson who is not qualified.    
-I’m writing to confirm the rumors of one cooperation between Dior/Tod‘s and a racist actor named XiaoZhan.       
+I’m writing to confirm the rumors of one cooperation between Gucci and a racist actor named Xiao Zhan.       
 I’m writing to ask you to withdraw the cooperation notice with a fake star.          
        
 I am one of your customers in China. I‘m writing to remind you of a potential harm to Gucci.              
