@@ -254,9 +254,7 @@ GUCCI官方ins: [@gucci](https://www.instagram.com/gucci/)
 开云集团中国的举报系统 ☎️ **+86 10 8519 1212**  📧 **ethics@china.kering.com**            
 开云集团道德委员会 📧 **ethique@kering.com** 或 **ethics@kering.com**           
 开云集团亚太道德委员会 📧 **ethics.asiapacific@kering.com**       
-开云集团合规组织 📧 **compliance@kering.com**     
-
-![](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/32e5f7937f719c95eceb474fbbca57aa2b600c17.jpg)       
+开云集团合规组织 📧 **compliance@kering.com**        
     
 ### 英语表达参考     
 
