@@ -303,6 +303,8 @@ Thanks for taking your time to read this email, I look forward to your prompt re
 Kind regards,            
 XXX      
 
+**相关材料参考1**：[m.weibo.cn/6637896577/4650969584108214](https://m.weibo.cn/6637896577/4650969584108214)        
+**相关材料参考2**：[m.weibo.cn/6329665943/4651297950667168](https://m.weibo.cn/6329665943/4651297950667168)           
 
 ***    
 
