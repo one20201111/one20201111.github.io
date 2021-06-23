@@ -127,11 +127,11 @@
 ### 商务合作/品牌代言     
 [欧莱雅洗发水](https://xzbh.top/vip.html) (欧莱雅集团[@巴黎欧莱雅PRO]()“仙桃瓶”洗发水，遭全线开🧾抵制，目前未宣)           
 
-[蕉下防晒伞、隅田川咖啡、乐事薯片、资生堂可悠然沐浴露]() （最近网传新代言）      
+[蕉下防晒伞、乐事薯片、资生堂可悠然沐浴露]() （最近网传新代言）      
 
 [jd代言人]() (网传6.18之前宣)    
-[tmall 6.18百位明星直播]() (百威啤酒)     
 
+[@GUCCI]() (网传品牌代言人/珠宝线中国区特供, 写📧给总部反映racist问题)       
 [@ELLEMEN]() (网传时尚杂志封面)       
 [@TiffanyAndCo蒂芙尼]() （4月初营肖号通稿称品牌给他买了推封，有一个首饰类代言）           
 [@DIOR迪奥](https://weibo.com/dior) （4.12营肖号通稿迪奥护肤线）     
@@ -153,10 +153,11 @@
 #### 已代言    
 [百事集团旗下新款气泡水 @bubly微笑趣泡]() (6.6官宣，[@百事中国]() 转发，微博开屏)   
 [@usmile官方微博]() (微商电动牙刷, 6.3宣为“全球代言人”)                         
-[@breo倍轻松](https://weibo.com/breochina) （智商税按摩器，在准备科创板上市，5.31宣为”首位全球品牌代言人”）         
+[@breo倍轻松](https://weibo.com/breochina) （智商税按摩器，预备科创板上市，5.31宣为”首位全球品牌代言人”）         
 [@德国双立人](https://weibo.com/u/3171409662) （1月营肖通稿传出再次合作，5.17放出电热水壶的物料，5.25官宣，买了微博开屏，没买热搜）       
 [@TODS](https://m.weibo.cn/status/4603912882232953) (5.17放出高清物料，5.19微博宣“品牌代言人”，没买热搜，官网介绍"Brand Ambassador")            
 [@欧扎克OCAK](https://weibo.com/u/6052350826)(麦片，4.9官宣，B站开屏引发用户投诉抵制；B站《我是特优声》节目冠名商)           
+[@隅田川咖啡]() (假日牌咖啡，6.22宣)    
 [@李宁官方微博](https://m.weibo.cn/u/1716244511) (3.26热搜第一官宣为李宁运动潮流产品全球代言人，网传签5年；   
 5.25官微发布讨好CP粉的广告（XX同款紫色衬衫花纹的摩托车）)           
 [@MOLSION陌森眼镜]()  (3.5女王节活动官宣品牌代言人，5.2官方旗舰店已掉至三星)                    
@@ -221,7 +222,8 @@
 [微博之夜](#微博之夜)     
 [北京卫视《冬梦之约》](http://xzbh.top/vip.html) (3.3已官宣，3月5日播出)           
 [2021京东618《沸腾之夜》直播盛典]() (拟邀主持人阵容，BTV节目，TX网播；4.22🧾事件曾遭网友投诉；     
-5.26有plus专属客服回复确定活动有TA，weibo实时广场出现黄牛卖门票；5.31已播出，btv实时收视率再砸坑)     
+5.26有plus专属客服回复确定活动有TA，weibo实时广场出现黄牛卖门票；5.31已播出，btv实时收视率再砸坑)    
+[tmall 6.18百位明星直播]() (百威啤酒)      
    
 
 ***      
@@ -258,13 +260,18 @@ GUCCI官方ins: [@gucci](https://www.instagram.com/gucci/)
     
 ### 英文表达参考     
 
-**题目**：Protest Gucci China and Choice of Racist Actor Xiao Zhan        
+题目：Objection To Gucci China's Choice of Racist Actor Xiao Zhan        
 
-Dear Sir/Madam,            
+#### 开头参考   
+Dear Sir/Madam, hope you well            
+I’m writing to express my dissatisfaction with your Co-star named XiaoZhan.     
+I’m writing to oppose to your choice of spokesperson who is not qualified.    
+I’m writing to confirm the rumors of one cooperation between Dior/Tod‘s and a racist actor named XiaoZhan.       
+I’m writing to ask you to withdraw the cooperation notice with a fake star.          
+       
+I am one of your customers in China. I‘m writing to remind you of a potential harm to Gucci.              
  
-I am one of your customers in China. I‘m writing to remind you of a potential harm to Gucci.            
- 
-Gucci is a time-honored brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently Gucci China is supporting an actor who is badly against your values, and we have complained about it many times, but Gucci China keeps ignoring our feelings.         
+Gucci is a time-honored brand with profound history, remarkable reputation and great values which have been appreciated worldwide. However recently Gucci China is supporting an actor who is badly against your values, and we have complained about it many times, but Gucci China keeps ignoring our feelings.           
 
 ### The AO3 Incident        
  
@@ -288,8 +295,8 @@ I do not think Xiao Zhan is worthy of Gucci's brand spokesman, if you choose him
 
 ### 结束语参考
  
-China is a vast market, and you have a great number of consumers here. We sincerely hope you can reconsider this decision carefully and choose the right person, otherwise we will feel compelled to switch to products of your competitors.  
- 
+China is a vast market, and you have a great number of consumers here. We sincerely hope you can reconsider this decision carefully and choose the right person, otherwise we will feel compelled to switch to products of your competitors.    
+
 Thanks for taking your time to read this email, I look forward to your prompt reply.            
  
 Kind regards,            
