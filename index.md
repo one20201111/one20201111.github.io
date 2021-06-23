@@ -258,9 +258,9 @@ GUCCI官方ins: [@gucci](https://www.instagram.com/gucci/)
 
 ![](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/32e5f7937f719c95eceb474fbbca57aa2b600c17.jpg)       
     
-### 英文表达参考     
+### 英语表达参考     
 
-题目：Objection To Gucci China's Choice of Racist Actor Xiao Zhan        
+题目参考：Objection To Gucci China's Choice of Racist Actor Xiao Zhan        
 
 #### 开头参考   
 Dear Sir/Madam, hope you well            
