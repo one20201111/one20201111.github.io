@@ -175,7 +175,7 @@
 [@腾讯视频](https://weibo.com/ilovevideo)         
 #### 公开活动中认领过服饰鞋子的其他品牌       
 [@GUCCI]() [@海瑞温斯顿HarryWinston]() [@Chopard萧邦]() [@FRED斐登]() [@SAINTLAURENT圣罗兰]()        [@Givenchy紀梵希]() [@LESHOMMES_OFFICIAL]() [@BALMAINPARIS]() [@HOGAN]()      
-[@YESBYYESIR]()（[@叶谦]()创立的时装品牌，4.9发博认领欧扎克开屏广告衬衫） 
+[@YESBYYESIR]()（[@叶谦]()创立的时装品牌，4.9发博认领欧扎克开屏广告衬衫）         
 [@Theory官方微博]() (7.16认领腕表广告的Theory休闲泡泡纱西装，迅销旗下(优衣库母公司，抵制新疆棉的品牌))              
      
 ***    
